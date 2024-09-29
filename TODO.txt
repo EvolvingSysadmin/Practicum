@@ -1,0 +1,17 @@
+* Add Page Content
+  * README.md
+    * Save table elsewhere
+    * Compile statistics
+  * Policy Templates overview
+  * Govern
+  * Identify
+  * Protect
+* Consider editing docs
+* Delete/create new repo
+* Progress Report
+  * Bought domain: policytemplates.online 
+  * Mapped policies
+  * Created git repo
+  * Setup GitBook
+* Try GitBook setup
+* GitBook alternatives: https://document360.com/blog/gitbook-alternatives/
