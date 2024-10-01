@@ -5,13 +5,6 @@
   * Consider editing docs for each page
   * Add pages about each policy
 * Visual Basic forms?
-* Progress Report
-  * Bought domain: policytemplates.online 
-  * Mapped policies
-  * Created git repo
-  * Setup GitBook
-* Try GitBook setup
-* GitBook alternatives: https://document360.com/blog/gitbook-alternatives/
 * CSF Profiles?
 
 
@@ -20,3 +13,13 @@ https://digitaldefynd.com/IQ/inspirational-cybersecurity-quotes/
 https://evolvingsysadmin.gitbook.io/practicum
 
 https://www.youtube.com/watch?v=5adLGJjVYWY
+
+* 10/1
+  * Update document links
+  * Update site title
+  * Update readme.md table
+  * Policy pages
+  * Frameworks page
+  * Identify new documents needed
+  * Amend docs
+  * Rearrange homepage
