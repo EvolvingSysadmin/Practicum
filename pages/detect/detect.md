@@ -1,6 +1,52 @@
+---
+description: Cybersecurity Policy Templates for the CSF 2.0 Detect Core Function
+---
+
 # Detect
 
 The Detect function focuses on identifying the occurrence of a cybersecurity event in a timely manner. This involves continuous monitoring and assessment of systems to quickly spot anomalies and potential threats.
+
+## Background
+
+Possible cybersecurity attacks and compromises are found and analyzed. The Detect function enables the timely discovery and analysis of anomalies, indicators of compromise, and other potentially adverse events that may indicate that cybersecurity attacks and incidents are occurring. This Function supports successful incident response and recovery activities.
+
+## Categories
+
+### Continuous Monitoring
+
+* **Description**: Assets are monitored to find anomalies, indicators of compromise, and other potentially adverse events
+* **NIST CSF 2.0 Identifier**: DE.CM
+
+### Adverse Event Analysis
+
+* **Description**: Anomalies, indicators of compromise, and other potentially adverse events are analyzed to characterize the events and detect cybersecurity incidents
+* **NIST CSF 2.0 Identifier**: DE.AE
+
+## Policy Templates
+
+### Auditing and Accountability Policy.docx
+
+* **Document Link**: [Auditing-and-Accountability-Policy.docx](/templates/detect/Auditing-and-Accountability-Policy.docx)
+* **Description**:
+* **Categories**:
+
+### Secure Coding Standard.docx
+
+* **Document Link**: [Secure-Coding-Standard.docx](/templates/detect/Secure-Coding-Standard.docx)
+* **Description**:
+* **Categories**:
+
+### Security Logging Standard.docx
+
+* **Document Link**: [Security-Logging-Standard.docx](/templates/detect/Security-Logging-Standard.docx)
+* **Description**:
+* **Categories**:
+
+### Vulnerability Scanning Standard.docx
+
+* **Document Link**: [Vulnerability-Scanning-Standard.docx](/templates/detect//Vulnerability-Scanning-Standard.docx)
+* **Description**:
+* **Categories**:
 
 ## Key Activities
 
@@ -12,11 +58,5 @@ The Detect function focuses on identifying the occurrence of a cybersecurity eve
 
 * Timely identification of threats and vulnerabilities.
 * Improved response capabilities through early detection.
-
-## Background
-
-## Categories
-
-## Policy Templates
 
 ## Resources

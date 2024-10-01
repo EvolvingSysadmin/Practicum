@@ -7,6 +7,8 @@ hidden: true
 
 This project aims to simplify the complex cybersecurity challenges faced by small and medium-sized businesses (SMBs) by providing free access to [policy templates](pages/overview/template-overview.md), [implementation guides](pages/guides/guides.md), and [resources](pages/resources/resources.md).
 
+![Cybersecurity Policy Templates](/img/icon.png)
+
 ## Statistics
 
 The small business cybersecurity statistics paint a stark picture, underscoring the critical and immediate need for SMBs to fortify their cybersecurity strategies or risk becoming prime targets for increasingly sophisticated and damaging cyberattacks.
