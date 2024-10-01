@@ -11,6 +11,8 @@ This project aims to simplify the complex cybersecurity challenges faced by smal
 
 Developing policies that align with cybersecurity frameworks can be costly and time-consuming for small businesses. This project provides [free cybersecurity policy templates](pages/overview/template-overview.md), [implementation guides](pages/guides/guides.md), and [resources](pages/resources/resources.md) to relieve SMBs from the need to purchase policies, hire consultants, or dedicate significant resources to policy creation. Although not designed to fully meet every compliance requirement, these templates follow the [NIST Cyberscurity Framework 2.0 (NSIT CSF 2.0)](https://www.nist.gov/cyberframework) core functions of [Govern](pages/govern/govern.md), [Identify](pages/identify/identify.md), [Protect](pages/protect/protect.md), [Detect](pages/detect/detect.md), [Respond](pages/respond/respond.md), and [Recover](pages/recover/)
 
+![Bolstering SMB Cybersecurity](img/icon.png)
+
 ## Statistics
 
 The small business cybersecurity statistics paint a stark picture, underscoring the critical and immediate need for SMBs to fortify their cybersecurity strategies or risk becoming prime targets for increasingly sophisticated and damaging cyberattacks.
@@ -20,8 +22,6 @@ The small business cybersecurity statistics paint a stark picture, underscoring 
 ## Frameworks
 
 Small businesses don’t need to reinvent the wheel to enhance their cybersecurity. Instead, SMBs can adopt [existing cybersecurity frameworks](pages/resources/frameworks.md) that offer clear, structured approaches for identifying, assessing, prioritizing, and mitigating cybersecurity risks. These frameworks enable small businesses to implement standardized practices, build resilience, and maintain trust with customers and partners, even when IT resources are limited. Prominent cybersecurity framework providers include the [National Institute of Standards and Technology (NIST)](https://www.nist.gov/cybersecurity), [International Organization for Standardization (ISO)](https://iso.org/sectors/it-technologies/information-security), and the [Center for Internet Security (CIS)](https://www.cisecurity.org). While these frameworks are effective, they can also be complex and challenging to implement. This project aims to simplify that process, offering small businesses a practical starting point for adopting a cybersecurity program based on existing frameworks.
-
-!(img/icon.png)
 
 ## Policies
 
