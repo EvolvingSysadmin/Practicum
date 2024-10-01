@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Small Business Cybersecurity Policy Guide](README.md)
+* [Cybersecurity Policy Templates](README.md)
 
 ## Policy Templates
 
