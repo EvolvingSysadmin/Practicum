@@ -15,32 +15,6 @@ This project aims to simplify the complex cybersecurity challenges faced by smal
 
 ## Stats Test 2
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead>
-    <tbody>
-    <tr><td><h4>Cyberattacks</h4><ul class="contains-task-list">
-    
-    <li><input type="checkbox" checked>44% of SMBs have experienced a cyberattack</li>
-    <li><input type="checkbox" checked>82% of ransomware attacks in 2021 targeted SMBs</li>
-    <li><input type="checkbox" checked>61% of SMBs were targeted by attacks in 2021</li>
-    <li><input type="checkbox" checked>46% of cybersecurity breaches affected SMBs</li>
-    <li><input type="checkbox" checked>72% of SMBs reported an attack or data breach in 2019</li>
-    <li><input type="checkbox" checked>69% of SMBs reported increasingly targeted attacks in 2019</li>
-    </ul></td><td></td><td></td>
-    
-    <td><a href="writing-apps/our-first-app/">our-first-app</a></td></tr>
-    
-    <tr><td><h4>Cybersecurity Posture</h4><ul class="contains-task-list">
-    
-    <li><input type="checkbox" checked>62% of SMBs lack an up-to-date security strategy</li>
-    <li><input type="checkbox" checked>50% of SMBs lacked a cybersecurity plan in 2022</li>
-    <li><input type="checkbox" checked>77% of SMBs reported inadequate cybersecurity personnel in 2019</li>
-    <li><input type="checkbox" checked>76% of SMBs attempt to manage cybersecurity without external resources</li>
-    <li><input type="checkbox" checked>52% of SMBs lack confidence in their ability to prevent cyberattacks</li>
-    <li><input type="checkbox" checked>73% of SMBs cite cybersecurity as their greatest risk</li>
-    </ul></td><td></td><td></td><td><a href="appcenter/submission-process.md">submission-process.md</a></td></tr>
-    </tbody>
-</table>
-
 ## Statistics
 
 The small business cybersecurity statistics paint a stark picture, underscoring the critical and immediate need for SMBs to fortify their cybersecurity strategies or risk becoming prime targets for increasingly sophisticated and damaging cyberattacks.
