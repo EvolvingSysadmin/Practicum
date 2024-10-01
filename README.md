@@ -15,10 +15,35 @@ This project aims to simplify the complex cybersecurity challenges faced by smal
 
 ## Stats Test 2
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4>Cyberattacks</h4><ul class="contains-task-list"><li><input type="checkbox" checked><a href="https://www.mcafee.com/en-gb/consumer-corporate/newsroom/press-releases/2024/20240117.html">44% of SMBs have experienced a cyberattack</a></li><li><input type="checkbox" checked>82% of ransomware attacks in 2021 targeted SMBs</li><li><input type="checkbox" checked>61% of SMBs were targeted by attacks in 2021</li><li><input type="checkbox" checked>46% of cybersecurity breaches affected SMBs</li><li><input type="checkbox" checked>72% of SMBs reported an attack or data breach in 2019</li><li><input type="checkbox" checked>69% of SMBs reported increasingly targeted attacks in 2019</li></ul></td><td></td><td></td><td><a href="writing-apps/our-first-app/">our-first-app</a></td></tr><tr><td><h4>Cybersecurity Posture</h4><ul class="contains-task-list"><li><input type="checkbox" checked>62% of SMBs lack an up-to-date security strategy</li><li><input type="checkbox" checked>50% of SMBs lacked a cybersecurity plan in 2022</li><li><input type="checkbox" checked>77% of SMBs reported inadequate cybersecurity personnel in 2019</li><li><input type="checkbox" checked>76% of SMBs attempt to manage cybersecurity without external resources</li><li><input type="checkbox" checked>52% of SMBs lack confidence in their ability to prevent cyberattacks</li><li><input type="checkbox" checked>73% of SMBs cite cybersecurity as their greatest risk</li></ul></td><td></td><td></td><td><a href="appcenter/submission-process.md">submission-process.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4>Cyberattacks</h4><ul class="contains-task-list"><li><input type="checkbox" checked><a href="https://www.mcafee.com/en-gb/consumer-corporate/newsroom/press-releases/2024/20240117.html">44% of SMBs have experienced an attack</a></li><li><input type="checkbox" checked>82% of ransomware attacks in 2021 targeted SMBs</li><li><input type="checkbox" checked>61% of SMBs were targeted by attacks in 2021</li><li><input type="checkbox" checked>46% of cybersecurity breaches affected SMBs</li><li><input type="checkbox" checked>72% of SMBs reported an attack or data breach in 2019</li><li><input type="checkbox" checked>69% of SMBs reported increasingly targeted attacks in 2019</li></ul></td><td></td><td></td><td><a href="writing-apps/our-first-app/">our-first-app</a></td></tr><tr><td><h4>Cybersecurity Posture</h4><ul class="contains-task-list"><li><input type="checkbox" checked>62% of SMBs lack an up-to-date security strategy</li><li><input type="checkbox" checked>50% of SMBs lacked a cybersecurity plan in 2022</li><li><input type="checkbox" checked>77% of SMBs reported inadequate cybersecurity personnel in 2019</li><li><input type="checkbox" checked>76% of SMBs attempt to manage cybersecurity without external resources</li><li><input type="checkbox" checked>52% of SMBs lack confidence in their ability to prevent cyberattacks</li><li><input type="checkbox" checked>73% of SMBs cite cybersecurity as their greatest risk</li></ul></td><td></td><td></td><td><a href="appcenter/submission-process.md">submission-process.md</a></td></tr></tbody></table>
+
 ## Statistics
 
 The small business cybersecurity statistics paint a stark picture, underscoring the critical and immediate need for SMBs to fortify their cybersecurity strategies or risk becoming prime targets for increasingly sophisticated and damaging cyberattacks.
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4>Cyberattacks</h4><ul class="contains-task-list">
+    
+    <li><input type="checkbox" checked><a href="https://www.mcafee.com/en-gb/consumer-corporate/newsroom/press-releases/2024/20240117.html">44% of SMBs have suffered an attack</a></li>
+    <li><input type="checkbox" checked><a href="https://www.law.umaryland.edu/content/articles/name-659577-en.html"></a>82% of ransomware attacks in 2021 targeted SMBs</a></li>
+    <li><input type="checkbox" checked><a href="https://www.mcafee.com/en-gb/consumer-corporate/newsroom/press-releases/2024/20240117.html"></a>61% of SMBs were targeted by attacks in 2021</a></li>
+    <li><input type="checkbox" checked><a href="https://www.verizon.com/business/resources/Ta9b/reports/2021-data-breach-investigations-report.pdf"></a>46% of cybersecurity breaches affected SMBs</a></li>
+    <li><input type="checkbox" checked><a href="https://www.cisco.com/c/dam/en/us/products/collateral/security/ponemon-report-smb.pdf"></a>72% of SMBs reported an attack or data breach in 2019</a></li>
+    <li><input type="checkbox" checked><a href="https://www.cisco.com/c/dam/en/us/products/collateral/security/ponemon-report-smb.pdf"></a>69% of SMBs reported increasingly targeted attacks in 2019</a></li>
+    </ul></td><td></td><td></td>
+    
+    <td></td></tr>
+    
+    <tr><td><h4>Cybersecurity Posture</h4><ul class="contains-task-list">
+    
+    <li><input type="checkbox" checked><a href="https://www.vistage.com/wp-content/uploads/2018/04/Cybersecurity-Research-Note.pdf"></a>62% of SMBs lack an up-to-date security strategy</a></li>
+    <li><input type="checkbox" checked><a href="https://upcity.com/experts/small-business-cybersecurity-surve"></a>50% of SMBs lacked a cybersecurity plan in 2022</a></li>
+    <li><input type="checkbox" checked><a href="https://www.cisco.com/c/dam/en/us/products/collateral/security/ponemon-report-smb.pdf"></a>77% of SMBs reported inadequate cybersecurity personnel in 2019</a></li>
+    <li><input type="checkbox" checked><a href="https://www.vistage.com/wp-content/uploads/2018/04/Cybersecurity-Research-Note.pdf"></a>76% of SMBs attempt to manage cybersecurity without external resources</a></li>
+    <li><input type="checkbox" checked><a href="https://www.mcafee.com/en-gb/consumer-corporate/newsroom/press-releases/2024/20240117.html"></a>52% of SMBs lack confidence in their ability to prevent cyberattacks</a></li>
+    <li><input type="checkbox" checked><a href="https://www.mcafee.com/en-gb/consumer-corporate/newsroom/press-releases/2024/20240117.html"></a>73% of SMBs cite cybersecurity as their greatest risk</a></li>
+    </ul></td><td></td><td></td><td></td></tr>
+    </tbody>
+    </table>
 
 ### Small Business Cyberattacks
 
