@@ -1,8 +1,3 @@
----
-description: Cybersecurity Policy Templates for the CSF 2.0 Govern Core Function
-hidden: false
----
-
 # Govern
 
 ## Summary
