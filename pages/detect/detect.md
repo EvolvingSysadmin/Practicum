@@ -24,10 +24,6 @@ Possible cybersecurity attacks and compromises are found and analyzed. The Detec
 
 ## Policy Templates
 
-https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/govern/Information-Security-Policy.docx
-
-https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/detect/Auditing-and-Accountability-Policy.docx
-
 ### Auditing and Accountability Policy
 
 * **Document Link**: [Auditing-and-Accountability-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/detect/Auditing-and-Accountability-Policy.docx)
@@ -35,19 +31,19 @@ https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/dete
 * **Categories**:
 ### Secure Coding Standard
 
-* **Document Link**: [Secure-Coding-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/detect/Secure-Coding-Standard.docx)
+* **Document Link**: [Secure-Coding-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/detect/Secure-Coding-Standard.docx)
 * **Description**:
 * **Categories**:
 
 ### Security Logging Standard
 
-* **Document Link**: [Security-Logging-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/detect/Security-Logging-Standard.docx)
+* **Document Link**: [Security-Logging-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/detect/Security-Logging-Standard.docx)
 * **Description**:
 * **Categories**:
 
 ### Vulnerability Scanning Standard
 
-* **Document Link**: [Vulnerability-Scanning-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/templates/detect//Vulnerability-Scanning-Standard.docx)
+* **Document Link**: [Vulnerability-Scanning-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/templates/detect//Vulnerability-Scanning-Standard.docx)
 * **Description**:
 * **Categories**:
 
