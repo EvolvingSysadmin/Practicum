@@ -1,6 +1,6 @@
 ---
 description: Bolstering Small Business Cybersecurity in a Risky World
-hidden: true
+hidden: false
 ---
 
 # NIST CSF 2.0 Framework

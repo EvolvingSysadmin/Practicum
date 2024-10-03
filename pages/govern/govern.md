@@ -1,74 +1,79 @@
 ---
 description: Cybersecurity Policy Templates for the CSF 2.0 Govern Core Function
+hidden: false
 ---
 
 # Govern
 
-The Govern function ensures that a small Business's cybersecurity risk management strategy, expectations, and policy are established, communicated, and monitored
+## Summary
+
+The [NIST CSF 2.0](/pages/framework/framework.md) Govern core function ensures that a small Business's cybersecurity risk management strategy, expectations, and policy are established, communicated, and monitored.
 
 ## Background
 
-The organization’s cybersecurity risk management strategy, expectations, and policy are established, communicated, and monitored. The Govenr function provides outcomes to inform what an organization may do to achieve and prioritize the outcomes of the other five Functions in the context of its mission and stakeholder expectations. Governance activities are critical for incorporating cybersecurity into an organization’s broader enterprise risk management (ERM) strategy. GOVERN addresses an understanding of organizational context; the establishment of cybersecurity strategy and cybersecurity supply chain risk management; roles, responsibilities, and authorities; policy; and the oversight of cybersecurity strategy.
+The Govern function provides insights to help prioritize and achieve the outcomes of the other five Functions in line with the organization’s mission and stakeholder expectations. Governance activities are essential for integrating cybersecurity into the broader enterprise risk management (ERM) strategy. The Govern function encompasses understanding the organizational context, establishing the cybersecurity strategy and supply chain risk management, defining roles and responsibilities, creating policies, and overseeing cybersecurity initiatives.
+
 
 ## Policy Templates
 
 ### Information Security Policy
 
-* **Description**: This policy defines the mandatory minimum information security requirements for the entity as defined below in Section 3.0 Scope. Any entity may, based on its individual business needs and specific legal and federal requirements, exceed the security requirements put forth in this document, but must, at a minimum, achieve the security levels required by this policy.
-* **Template Link**: [Information-Security-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/govern/Acceptable-Use-of-Information-Technology-Resources-Policy.docx)
+* **Description**: The Information Security Policy establishes the minimum mandatory requirements for information security within the organization. While organizations can exceed these requirements based on specific business needs and legal obligations, they must meet the baseline standards set forth in this policy.
+* **Template Link**: [Information-Security-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/govern/Information-Security-Policy.docx)
 * **Govern Category**: *Policy*
 
-### Acceptable Use of Information Technology Resourcess Policy
+### Acceptable Use of Information Technology Resources Policy
 
-* **Description**: Appropriate organizational use of information and information technology (“IT”) resources and effective security of those resources require the participation and support of the organization’s workforce (“users”).  Inappropriate use exposes the organization to potential risks including virus attacks, compromise of network systems and services, and legal issues.
-* **NIST CSF 2.0 Category**: *Policy*
+* **Description**: The Acceptable Use of Information Technology Resources Policy outlines the proper use of information and technology resources within the organization, emphasizing the importance of workforce participation and support for effective security. Inappropriate usage can lead to significant risks, including ransomware attacks, system compromises, and legal issues.
 * **Template Link:** [Acceptable-Use-of-Information-Technology-Resources-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/govern/Acceptable-Use-of-Information-Technology-Resources-Policy.docx)
+* **NIST CSF 2.0 Category**: *Policy*
 
 ### Information Security Risk Management Standard
 
-* **Description**: Risk management is a critical component of any information security program.  It helps ensure that any risk to confidentiality, integrity, and availability is identified, analyzed, and maintained at acceptable levels.  Risk assessments allow management to prioritize and focus on areas that pose the greatest impact to critical and sensitive information assets. This provides the foundation for informed decision-making regarding information security. Federal and State mandates require routine assessments to identify risk and ensure appropriate controls. Risk assessments allow alignment of information security with business objectives and regulatory requirements. Identifying information security risk and considering control requirements from the onset is essential, and far less costly than retrofitting or addressing the impact of a security incident. This standard provides a risk management framework to evaluate current security posture, identify gaps, and determine appropriate actions.
-* **Categories**: *Risk Management Strategy*
+* **Description**: The Information Security Risk Management Standard is vital for identifying, analyzing, and maintaining acceptable levels of risk to confidentiality, integrity, and availability. Regular risk assessments enable management to prioritize the most critical information assets, supporting informed decision-making. Compliance with federal and state mandates requires routine assessments to identify risks and implement necessary controls. Addressing security risks early is more cost-effective than dealing with incidents later. This standard provides a framework for evaluating the current security posture, identifying gaps, and determining appropriate actions.
+
 * **Document Link**: [Information-Security-Risk-Management-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/govern/Information-Security-Risk-Management-Standard.docx)
+* **Categories**: *Risk Management Strategy*
 
 ### Personnel Security Policy
 
-* **Description**: To ensure that personnel security safeguards are applied to the access and use of information technology resources and data.
-* **Category**: *Roles, Responsibilities, and Authorities*
+* **Description**: The Personnel Security Policy ensures that safeguards are implemented for personnel access to and use of information technology resources and data. This policy establishes protocols to verify the trustworthiness of personnel, mitigating risks related to insider threats and ensuring that only authorized individuals have access to sensitive information. It is crucial for protecting the organization’s information assets and maintaining overall security.
 * **Document Link**: [Personnel-Security-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/govern/Personnel-Security-Policy.docx)
+* **Category**: *Roles, Responsibilities, and Authorities*
 
 ## Categories
 
 ### Organizational Context
 
 * **Description**: The circumstances — mission, stakeholder expectations, dependencies, and legal, regulatory, and contractual requirements — surrounding the organization’s cybersecurity risk management decisions are understood
-* **NIST CSF 2.0 Identifier**: GV.OC
+* **NIST CSF 2.0 Identifier**: *GV.OC*
 
 ### Risk Management Strategy
 
 * **Description**: The organization’s priorities, constraints, risk tolerance and appetite statements, and assumptions are established, communicated, and used to support operational risk decisions
-* **NIST CSF 2.0 Identifier**: GV.RM
+* **NIST CSF 2.0 Identifier**: *GV.RM*
 
 ### Roles, Responsibilities, and Authorities
 
 * **Description**: Cybersecurity roles, responsibilities, and authorities to foster accountability, performance assessment, and continuous improvement are established and communicated
-* **NIST CSF 2.0 Identifier**:  GV.RR
+* **NIST CSF 2.0 Identifier**: *GV.RR*
 
 ### Policy
 
 * **Description**: Organizational cybersecurity policy is established, communicated, and enforced
-* **NIST CSF 2.0 Identifier**: GV.PO
+* **NIST CSF 2.0 Identifier**: *GV.PO*
 
 ### Oversight
 
 * **Description**: Results of organization-wide cybersecurity risk management activities and performance are used to inform, improve, and adjust the risk management strategy
-* **NIST CSF 2.0 Identifier**: GV.OV
+* **NIST CSF 2.0 Identifier**: *GV.OV*
 
 ### Cybersecurity Supply Chain Risk Management
 
 * **Description**: Cyber supply chain risk management processes are identified, established, managed, monitored, and improved by organizational stakeholders
-* **NIST CSF 2.0 Identifier**: GV.SC
+* **NIST CSF 2.0 Identifier**: *GV.SC*
 
-## Key Activities
+## Key Implementation Activities
 
 * **Leadership Engagement:** Ensure active involvement of senior management in cybersecurity governance.
 * **Policy Development:** Create and maintain cybersecurity policies that reflect the organization’s risk appetite and objectives.
