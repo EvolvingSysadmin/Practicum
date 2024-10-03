@@ -21,20 +21,20 @@ The organization’s cybersecurity risk management strategy, expectations, and p
 ### Acceptable Use of Information Technology Resourcess Policy
 
 * **Template Link:** [Acceptable-Use-of-Information-Technology-Resources-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/govern/Acceptable-Use-of-Information-Technology-Resources-Policy.docx)
-* **Description**: Appropriate organizational use of information and information technology (“IT”) resources and effective security of those resources require the participation and support of the organization’s workforce (“users”).  Inappropriate use exposes the organization to potential risks including virus attacks, compromise of network systems and services, and legal issues.
 * **NIST CSF 2.0 Category**: *Policy*
+* **Description**: Appropriate organizational use of information and information technology (“IT”) resources and effective security of those resources require the participation and support of the organization’s workforce (“users”).  Inappropriate use exposes the organization to potential risks including virus attacks, compromise of network systems and services, and legal issues.
 
 ### Information Security Risk Management Standard
 
+* **Description**: Risk management is a critical component of any information security program.  It helps ensure that any risk to confidentiality, integrity, and availability is identified, analyzed, and maintained at acceptable levels.  Risk assessments allow management to prioritize and focus on areas that pose the greatest impact to critical and sensitive information assets. This provides the foundation for informed decision-making regarding information security. Federal and State mandates require routine assessments to identify risk and ensure appropriate controls. Risk assessments allow alignment of information security with business objectives and regulatory requirements. Identifying information security risk and considering control requirements from the onset is essential, and far less costly than retrofitting or addressing the impact of a security incident. This standard provides a risk management framework to evaluate current security posture, identify gaps, and determine appropriate actions.
 * **Document Link**: [Information-Security-Risk-Management-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/govern/Information-Security-Risk-Management-Standard.docx)
-* **Description**:
 * **Categories**: *Risk Management Strategy*
 
 ### Personnel Security Policy
 
-* **Document Link**: [Personnel-Security-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/govern/Personnel-Security-Policy.docx)
-* **Description**:
+* **Description**: To ensure that personnel security safeguards are applied to the access and use of information technology resources and data.
 * **Category**: *Roles, Responsibilities, and Authorities*
+* **Document Link**: [Personnel-Security-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/govern/Personnel-Security-Policy.docx)
 
 ## Categories
 
