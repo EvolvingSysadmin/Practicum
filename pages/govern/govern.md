@@ -52,19 +52,19 @@ The organization’s cybersecurity risk management strategy, expectations, and p
 
 ### Information Security Risk Management Standard
 
-* **Document Link**: [Information-Security-Risk-Management-Standard.docx](/templates/govern/Information-Security-Risk-Management-Standard.docx)
+* **Document Link**: [Information-Security-Risk-Management-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/govern/Information-Security-Risk-Management-Standard.docx)
 * **Description**:
 * **Categories**:
 
 ### Acceptable Use of Information Technology Resourcess olicy
 
-* **Document Link:** [Acceptable-Use-of-Information-Technology-Resources-Policy.docx](/templates/govern/Acceptable-Use-of-Information-Technology-Resources-Policy.docx)
+* **Document Link:** [Acceptable-Use-of-Information-Technology-Resources-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/govern/Acceptable-Use-of-Information-Technology-Resources-Policy.docx)
 * **Description**:
 * **Categories**:
 
 ### Personnel Security Policy
 
-* **Document Link**: [Personnel-Security-Policy.docx](/templates/govern/Personnel-Security-Policy.docx)
+* **Document Link**: [Personnel-Security-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/govern/Personnel-Security-Policy.docx)
 * **Description**:
 * **Categories**:
 
