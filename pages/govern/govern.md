@@ -8,7 +8,6 @@ The [NIST CSF 2.0](/pages/framework/framework.md) Govern core function ensures t
 
 The Govern function provides insights to help prioritize and achieve the outcomes of the other five Functions in line with the organization’s mission and stakeholder expectations. Governance activities are essential for integrating cybersecurity into the broader enterprise risk management (ERM) strategy. The Govern function encompasses understanding the organizational context, establishing the cybersecurity strategy and supply chain risk management, defining roles and responsibilities, creating policies, and overseeing cybersecurity initiatives.
 
-
 ## Policy Templates
 
 ### Information Security Policy
@@ -81,5 +80,3 @@ The Govern function provides insights to help prioritize and achieve the outcome
 * Enhanced alignment of cybersecurity efforts with business goals.
 
 ## Resources
-
-TODO: rewrite background information for clarity
