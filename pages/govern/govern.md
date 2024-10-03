@@ -10,6 +10,32 @@ The Govern function ensures that a small Business's cybersecurity risk managemen
 
 The organization’s cybersecurity risk management strategy, expectations, and policy are established, communicated, and monitored. The Govenr function provides outcomes to inform what an organization may do to achieve and prioritize the outcomes of the other five Functions in the context of its mission and stakeholder expectations. Governance activities are critical for incorporating cybersecurity into an organization’s broader enterprise risk management (ERM) strategy. GOVERN addresses an understanding of organizational context; the establishment of cybersecurity strategy and cybersecurity supply chain risk management; roles, responsibilities, and authorities; policy; and the oversight of cybersecurity strategy.
 
+## Policy Templates
+
+### Information Security Policy
+
+* **Template Link**: [Information-Security-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/govern/Acceptable-Use-of-Information-Technology-Resources-Policy.docx)
+* **Description**: This policy defines the mandatory minimum information security requirements for the entity as defined below in Section 3.0 Scope. Any entity may, based on its individual business needs and specific legal and federal requirements, exceed the security requirements put forth in this document, but must, at a minimum, achieve the security levels required by this policy.
+* **Govern Category**: *Policy*
+
+### Acceptable Use of Information Technology Resourcess Policy
+
+* **Template Link:** [Acceptable-Use-of-Information-Technology-Resources-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/govern/Acceptable-Use-of-Information-Technology-Resources-Policy.docx)
+* **Description**: Appropriate organizational use of information and information technology (“IT”) resources and effective security of those resources require the participation and support of the organization’s workforce (“users”).  Inappropriate use exposes the organization to potential risks including virus attacks, compromise of network systems and services, and legal issues.
+* **NIST CSF 2.0 Category**: *Policy*
+
+### Information Security Risk Management Standard
+
+* **Document Link**: [Information-Security-Risk-Management-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/govern/Information-Security-Risk-Management-Standard.docx)
+* **Description**:
+* **Categories**: *Risk Management Strategy*
+
+### Personnel Security Policy
+
+* **Document Link**: [Personnel-Security-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/govern/Personnel-Security-Policy.docx)
+* **Description**:
+* **Category**: *Roles, Responsibilities, and Authorities*
+
 ## Categories
 
 ### Organizational Context
@@ -42,40 +68,14 @@ The organization’s cybersecurity risk management strategy, expectations, and p
 * **Description**: Cyber supply chain risk management processes are identified, established, managed, monitored, and improved by organizational stakeholders
 * **NIST CSF 2.0 Identifier**: GV.SC
 
-## Policy Templates
-
-### Information Security Policy
-
-* **Document Link**: [Information-Security-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/govern/Acceptable-Use-of-Information-Technology-Resources-Policy.docx)
-* **Description**:
-* **Categories**:
-
-### Information Security Risk Management Standard
-
-* **Document Link**: [Information-Security-Risk-Management-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/govern/Information-Security-Risk-Management-Standard.docx)
-* **Description**:
-* **Categories**:
-
-### Acceptable Use of Information Technology Resourcess olicy
-
-* **Document Link:** [Acceptable-Use-of-Information-Technology-Resources-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/govern/Acceptable-Use-of-Information-Technology-Resources-Policy.docx)
-* **Description**:
-* **Categories**:
-
-### Personnel Security Policy
-
-* **Document Link**: [Personnel-Security-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/govern/Personnel-Security-Policy.docx)
-* **Description**:
-* **Categories**:
-
-### Key Activities
+## Key Activities
 
 * **Leadership Engagement:** Ensure active involvement of senior management in cybersecurity governance.
 * **Policy Development:** Create and maintain cybersecurity policies that reflect the organization’s risk appetite and objectives.
 * **Resource Allocation:** Identify and allocate resources, including budget and personnel, for effective cybersecurity management.
 * **Stakeholder Communication:** Foster communication among stakeholders to ensure transparency and collaboration on cybersecurity issues.
 
-### Benefits
+## Benefits
 
 * Clear accountability for cybersecurity initiatives.
 * Enhanced alignment of cybersecurity efforts with business goals.
