@@ -41,133 +41,133 @@ Safeguards to manage the organization’s cybersecurity risks are used. Once ass
 
 ### 802.11-Wireless-Network-Security-Standard.docx
 
-* **Document Link**: [80211-Wireless-Network-Security-Standard.docx](/templates/protect/80211-Wireless-Network-Security-Standard.docx)
+* **Document Link**: [80211-Wireless-Network-Security-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/protect/80211-Wireless-Network-Security-Standard.docx)
 * **Description**:
 * **Categories**:
 
 ### Access Control Policy
 
-* **Document Link**: [Access-Control-Policy.docx](/templates/protect/Access-Control-Policy.docx)
+* **Document Link**: [Access-Control-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/protect/Access-Control-Policy.docx)
 * **Description**:
 * **Categories**:
 
 ### Account Management Access Control Standard
 
-* **Document Link**: [Account-Management-Access-Control-Standard.docx](/templates/protect/Account-Management-Access-Control-Standard.docx)
+* **Document Link**: [Account-Management-Access-Control-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/protect/Account-Management-Access-Control-Standard.docx)
 * **Description**:
 * **Categories**:
 
 ### Authentication Tokens Standard
 
-* **Document Link**: [Authentication-Tokens-Standard.docx](/templates/protect/Authentication-Tokens-Standard.docx)
+* **Document Link**: [Authentication-Tokens-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/protect/Authentication-Tokens-Standard.docx)
 * **Description**:
 * **Categories**:
 
 ### Configuration Management Policy
 
-* **Document Link**: [Configuration-Management-Policy.docx](/templates/protect/Configuration-Management-Policy.docx)
+* **Document Link**: [Configuration-Management-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/protect/Configuration-Management-Policy.docx)
 * **Description**:
 * **Categories**:
 
 ### Encryption Standard
 
-* **Document Link**: [Encryption-Standard.docx](/templates/protect/Encryption-Standard.docx)
+* **Document Link**: [Encryption-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/protect/Encryption-Standard.docx)
 * **Description**:
 * **Categories**:
 
 ### Identification and Authentication Policy
 
-* **Document Link**: [Identification-and-Authentication-Policy.docx](/templates/protect/Identification-and-Authentication-Policy.docx)
+* **Document Link**: [Identification-and-Authentication-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/protect/Identification-and-Authentication-Policy.docx)
 * **Description**:
 * **Categories**:
 
 ### Information Classification Standard
 
-* **Document Link**: [Information-Classification-Standard.docx](/templates/protect/Information-Classification-Standard.docx)
+* **Document Link**: [Information-Classification-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/protect/Information-Classification-Standard.docx)
 * **Description**:
 * **Categories**:
 
 ### Maintenance Policy
 
-* **Document Link**: [Maintenance-Policy.docx](/templates/protect/Maintenance-Policy.docx)
+* **Document Link**: [Maintenance-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/protect/Maintenance-Policy.docx)
 * **Description**:
 * **Categories**:
 
 ### Media Protection Policy
 
-* **Document Link**: [Media-Protection-Policy.docx](/templates/protect/Media-Protection-Policy.docx)
+* **Document Link**: [Media-Protection-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/protect/Media-Protection-Policy.docx)
 * **Description**:
 * **Categories**:
 
 ### Mobile Device Security
 
-* **Document Link**: [Mobile-Device-Security.docx](/templates/protect/Mobile-Device-Security.docx)
+* **Document Link**: [Mobile-Device-Security.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/protect/Mobile-Device-Security.docx)
 * **Description**:
 * **Categories**:
 
 ### Patch Management Standard
 
-* **Document Link**: [Patch-Management-Standard.docx](/templates/protect/Patch-Management-Standard.docx)
+* **Document Link**: [Patch-Management-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/protect/Patch-Management-Standard.docx)
 * **Description**:
 * **Categories**:
 
 ### Physical and Environmental Protection Policy
 
-* **Document Link**: [Physical-and-Environmental-Protection-Policy.docx](/templates/protect/Physical-and-Environmental-Protection-Policy.docx)
+* **Document Link**: [Physical-and-Environmental-Protection-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/protect/Physical-and-Environmental-Protection-Policy.docx)
 * **Description**:
 * **Categories**:
 
 ### Planning Policy
 
-* **Document Link**: [Planning-Policy.docx](/templates/protect/Planning-Policy.docx)
+* **Document Link**: [Planning-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/protect/Planning-Policy.docx)
 * **Description**:
 * **Categories**:
 
 ### Remote Access Standard
 
-* **Document Link**: [Remote-Access-Standard.docx](/templates/protect/Remote-Access-Standard.docx)
+* **Document Link**: [Remote-Access-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/protect/Remote-Access-Standard.docx)
 * **Description**:
 * **Categories**:
 
 ### Sanitization Secure Disposal Standard
 
-* **Document Link**: [Sanitization-Secure-Disposal-Standard.docx](/templates/protect/Sanitization-Secure-Disposal-Standard.docx)
+* **Document Link**: [Sanitization-Secure-Disposal-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/protect/Sanitization-Secure-Disposal-Standard.docx)
 * **Description**:
 * **Categories**:
 
 ### Secure Configuration Standard
 
-* **Document Link**: [Secure-Configuration-Standard.docx](/templates/protect/Secure-Configuration-Standard.docx)
+* **Document Link**: [Secure-Configuration-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/protect/Secure-Configuration-Standard.docx)
 * **Description**:
 * **Categories**:
 
 ### Secure System Development Life Cycle Standard
 
-* **Document Link**: [Secure-System-Development-Life-Cycle-Standard.docx](/templates/protect/Secure-System-Development-Life-Cycle-Standard.docx)
+* **Document Link**: [Secure-System-Development-Life-Cycle-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/protect/Secure-System-Development-Life-Cycle-Standard.docx)
 * **Description**:
 * **Categories**:
 
 ### Security Awareness and Training Policy
 
-* **Document Link**: [Security-Awareness-and-Training-Policy.docx](/templates/protect/Security-Awareness-and-Training-Policy.docx)
+* **Document Link**: [Security-Awareness-and-Training-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/protect/Security-Awareness-and-Training-Policy.docx)
 * **Description**:
 * **Categories**:
 
 ### System and Communications Protection Policy
 
-* **Document Link**: [System-and-Communications-Protection-Policy.docx](/templates/protect/System-and-Communications-Protection-Policy.docx)
+* **Document Link**: [System-and-Communications-Protection-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/protect/System-and-Communications-Protection-Policy.docx)
 * **Description**:
 * **Categories**:
 
 ### System and Information Integrity Policy
 
-* **Document Link**: [System-and-Information-Integrity-Policy.docx](/templates/protect/System-and-Information-Integrity-Policy.docx)
+* **Document Link**: [System-and-Information-Integrity-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/protect/System-and-Information-Integrity-Policy.docx)
 * **Description**:
 * **Categories**:
 
 ### System and Services Acquisition Policy
 
-* **Document Link**: [System-and-Services-Acquisition-Policy.docx](/templates/protect/System-and-Services-Acquisition-Policy.docx)
+* **Document Link**: [System-and-Services-Acquisition-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/protect/System-and-Services-Acquisition-Policy.docx)
 * **Description**:
 * **Categories**:
 

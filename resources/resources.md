@@ -22,3 +22,4 @@
 
 - <https://certikit.com/templates/nist-cybersecurity-framework-toolkit/>
 - <https://www.upguard.com/blog/key-changes-nist-csf-version-2>
+- <https://arcticwolf.com/resources/blog/nist-csf-2-0-understanding-and-implementing-the-govern-function>

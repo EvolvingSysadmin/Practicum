@@ -78,5 +78,3 @@ The Govern function provides insights to help prioritize and achieve the outcome
 
 * Clear accountability for cybersecurity initiatives.
 * Enhanced alignment of cybersecurity efforts with business goals.
-
-## Resources
