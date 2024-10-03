@@ -1,7 +1,3 @@
----
-description: Cybersecurity Policy Templates for the CSF 2.0 Identify Core Function
----
-
 # Identify
 
 The Identify function is the foundation of the framework, focusing on understanding the organizational environment and the risks to its systems, people, assets, and data. This step helps organizations establish a comprehensive risk management strategy.

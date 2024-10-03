@@ -35,7 +35,7 @@ The Govern function provides insights to help prioritize and achieve the outcome
 * **Document Link**: [Personnel-Security-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/govern/Personnel-Security-Policy.docx)
 * **Category**: *Roles, Responsibilities, and Authorities*
 
-## Categories
+## NIST CSF Categories
 
 ### Organizational Context
 
