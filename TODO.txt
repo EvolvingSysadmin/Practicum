@@ -6,6 +6,8 @@
   * Add pages about each policy
 * Visual Basic forms?
 * CSF Profiles?
+* Enforcement actions/exemptions
+* 
 
 
 https://digitaldefynd.com/IQ/inspirational-cybersecurity-quotes/
@@ -15,11 +17,10 @@ https://evolvingsysadmin.gitbook.io/practicum
 https://www.youtube.com/watch?v=5adLGJjVYWY
 
 * 10/1
-  * Update document links
-  * Update site title
-  * Update readme.md table
-  * Policy pages
-  * Frameworks page
-  * Identify new documents needed
-  * Amend docs
-  * Rearrange homepage
+  * Update document links and policy pages with better content and complete existing content
+  * Update homepage
+    * Table/images/section outline
+  * Update template overview page
+  * Add NIST frameworks page
+  * Identify new docs needed
+

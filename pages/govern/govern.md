@@ -46,7 +46,7 @@ The organization’s cybersecurity risk management strategy, expectations, and p
 
 ### Information Security Policy
 
-* **Document Link**: [Information-Security-Policy.docx](/templates/govern/Information-Security-Policy.docx)
+* **Document Link**: [Information-Security-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/govern/Acceptable-Use-of-Information-Technology-Resources-Policy.docx)
 * **Description**:
 * **Categories**:
 
