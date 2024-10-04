@@ -1,5 +1,6 @@
 ---
 description: Bolstering Small Business Cybersecurity in a Risky World
+hidden: true
 ---
 
 # Cybersecurity Policy Templates
