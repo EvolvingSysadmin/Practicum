@@ -1,6 +1,8 @@
 # Identify
 
-The Identify function is the foundation of the framework, focusing on understanding the organizational environment and the risks to its systems, people, assets, and data. This step helps organizations establish a comprehensive risk management strategy.
+## Summary
+
+The [NIST CSF 2.0](/pages/framework/framework.md) Identify function is the foundation of the framework, focusing on understanding the organizational environment and the risks to its systems, people, assets, and data. This step helps organizations establish a comprehensive risk management strategy.
 
 ## Background
 
@@ -10,24 +12,17 @@ The organization’s current cybersecurity risks are understood. Understanding t
 
 ### Risk Assessment Policy
 
-* **Document Link**: [Risk-Assessment-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/identify/Risk-Assessment-Policy.docx)
-* **Description**:
-* **Categories**:
+* **Description**: The Risk Assessment Policy ensures that Information Technology performs risk assessments in compliance with IT security policies, standards, and procedures.
+* **Template Link**: [Risk-Assessment-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/identify/Risk-Assessment-Policy.docx)
+* **NIST CSF 2.0 Category**: [Risk Assessment](#risk-assessment)
 
 ### Security Assessment and Authorization Policy
 
-* **Document Link**: [Security-Assessment-and-Authorization-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/templates/identify/Security-Assessment-and-Authorization-Policy.docx)
-* **Description**:
-* **Categories**:
+* **Description**: The Security Assessment and Authorization Policy establishes that Information Technology and the various business units (information owners) will ensure security controls in information systems, and the environments in which those systems operate, as part of initial and ongoing security authorizations, annual assessments, continuous monitoring and system development life cycle activities.
+* **Document Link**: [Security-Assessment-and-Authorization-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/identify/Security-Assessment-and-Authorization-Policy.docx)
+* **NIST CSF 2.0 Category**: [Risk Assessment](#risk-assessment)
 
-## Key Activities
-
-* **Asset Management:** Maintain an inventory of organizational assets, including hardware, software, and data.
-* **Risk Assessment:** Identify potential threats and vulnerabilities, and evaluate their impact on organizational operations.
-* **Governance:** Define roles and responsibilities related to cybersecurity, ensuring accountability at all levels.
-* **Compliance:** Understand relevant laws, regulations, and standards that apply to the organization’s cybersecurity practices.
-
-## Categories
+## ## NIST CSF Categories
 
 ### Asset Management
 
@@ -45,6 +40,11 @@ The organization’s current cybersecurity risks are understood. Understanding t
 * **NIST CSF 2.0 Identifier**: ID.IM
 
 ## Key Implementation Activities
+
+* **Asset Management:** Maintain an inventory of organizational assets, including hardware, software, and data.
+* **Risk Assessment:** Identify potential threats and vulnerabilities, and evaluate their impact on organizational operations.
+* **Governance:** Define roles and responsibilities related to cybersecurity, ensuring accountability at all levels.
+* **Compliance:** Understand relevant laws, regulations, and standards that apply to the organization’s cybersecurity practices.
 
 ## Benefits
 

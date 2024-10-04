@@ -1,26 +1,14 @@
-* Add Page Content
-  * Govern
-  * Identify
-  * Protect
-  * Consider editing docs for each page
-  * Add pages about each policy
-* Visual Basic forms?
-* CSF Profiles?
-* Enforcement actions/exemptions
-* 
-
-
-https://digitaldefynd.com/IQ/inspirational-cybersecurity-quotes/
-
-https://evolvingsysadmin.gitbook.io/practicum
-
-https://www.youtube.com/watch?v=5adLGJjVYWY
-
-* 10/1
-  * Update document links and policy pages with better content and complete existing content
-  * Update homepage
-    * Table/images/section outline
-  * Update template overview page
-  * Add NIST frameworks page
-  * Identify new docs needed
-
+* Finish page content for each core function
+  * Ensure all document links work
+  * Map categories
+  * Ensure all descriptions are present
+  * Ensure page structure is uniform
+* Homepage content
+* Update policy documents so their formatting aligns
+* Update/create page content for:
+  * Framework
+  * Template Overview
+  * Resources
+* Add visual basic forms to docs
+* Create implementation guides, including CSF profiles, enforcement actions, exemptions
+  * Add links from template pages

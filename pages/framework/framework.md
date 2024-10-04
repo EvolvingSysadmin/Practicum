@@ -1,12 +1,8 @@
----
-description: Bolstering Small Business Cybersecurity in a Risky World
-hidden: false
----
 
 # NIST CSF 2.0 Framework
 
-# TODO outline the framework
-
 ## Background
+
+![Core Function Relationships](/img/nist-csf-2-overview.png)
 
 ## Resources

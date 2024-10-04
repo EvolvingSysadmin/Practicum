@@ -14,7 +14,7 @@
 * [Protect](pages/protect/protect.md)
 * [Detect](pages/detect/detect.md)
 * [Respond](pages/respond/respond.md)
-* [Recover](pages/recover/readme.md)
+* [Recover](pages/recover/recover.md)
 
 ## Policy Implementation
 
