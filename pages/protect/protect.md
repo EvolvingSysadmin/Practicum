@@ -177,7 +177,7 @@ THINK ABOUT CHANGING TO GOVERN
 * **Description**: Security architectures are managed with the organization’s risk strategy to protect asset confidentiality, integrity, and availability, and organizational resilience
 * **NIST CSF 2.0 Identifier**: PR.IR
 
-## Key Implementation Activities
+## Key Implementation Tasks
 
 * **Access Control:** Manage who has access to systems and data, ensuring the principle of least privilege.
 * **Data Security:** Implement measures to protect data at rest and in transit, such as encryption and tokenization.

@@ -28,7 +28,7 @@ Assets and operations affected by a cybersecurity incident are restored. The Rec
 * **Description**: Restoration activities are coordinated with internal and external parties
 * **NIST CSF 2.0 Identifier**: RC.CO
 
-## Key Implementation Activities
+## Key Implementation Tasks
 
 * **Recovery Planning:** Develop strategies for restoring systems and services after an incident.
 * **Improvements:** Incorporate lessons learned from incidents to improve future recovery efforts and overall security posture.

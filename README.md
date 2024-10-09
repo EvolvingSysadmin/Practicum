@@ -1,5 +1,5 @@
 ---
-description: Bolstering Small Business Cybersecurity in a Risky World
+description: Striving to Bolster Small Business Cybersecurity in a Risky World
 hidden: true
 ---
 
@@ -25,11 +25,13 @@ Small businesses don’t need to reinvent the wheel to enhance their cybersecuri
 
 ## NIST Cybsercurity Framework
 
-TODO: add content briefly describing the framework
+The [NIST Cybersecurity Framework CSF 2.0](/pages/framework/framework.md) is voluntary guidance that helps organizations—regardless of size, sector, or maturity—better understand, assess, prioritize, and communicate their cybersecurity efforts. The Framework is not a one-size-fits-all approach to managing cybersecurity risks. This supplement and the full CSF 2.0 can help organizations to consider and record their own risk tolerances, priorities, threats, vulnerabilities, and requirements which, in turn, helps those organizations establish a structured, scalable, and adaptable cybersecurity program, which is crucial for staying ahead in today's dynamic threat landscape.
+
+The [National Institute of Standards and Technology (NIST)](https://www.nist.gov/cybersecurity) is a U.S. government agency that plays a critical role in advancing technology, including cybersecurity. NIST develops widely recognized standards and guidelines that help organizations protect their information systems from cyber threats. Its influence extends globally, as many industries and government agencies adopt NIST's best practices to improve their cybersecurity posture. NIST's work fosters consistency, reliability, and trust across sectors, making it a cornerstone in the fight against cybercrime.
 
 ## Policies
 
-Policies form the foundation of any effective cybersecurity program. While frameworks outline the broad strategies for managing risks, policies specify how these strategies are applied and enforced within a business. Together, frameworks and policies create a cohesive system that enhances a business’s overall cybersecurity posture. By translating the framework’s guidelines into actionable processes, policies help ensure that employees understand their roles and responsibilities in maintaining security. Well-defined and implemented policies establish accountability, streamline decision-making, and ensure consistent responses to cybersecurity incidents, minimizing the risk of human error.
+[Cybersecurity policies](/pages/overview/template-overview.md) form the foundation of any effective cybersecurity program. While frameworks outline the broad strategies for managing risks, policies specify how these strategies are applied and enforced within a business. Together, frameworks and policies create a cohesive system that enhances a business’s overall cybersecurity posture. By translating the framework’s guidelines into actionable processes, policies help ensure that employees understand their roles and responsibilities in maintaining security. Well-defined and implemented policies establish accountability, streamline decision-making, and ensure consistent responses to cybersecurity incidents, minimizing the risk of human error.
 
 ## References
 

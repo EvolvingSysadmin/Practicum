@@ -1,14 +1,39 @@
+10/10
+
+* Finish document formatting
+  * Spend time ensuring everything was done correctly
+* Go back over each policy page and:
+  * Refine document templates
+  * Reassess benefits/implementation tasks
+  * Ensure content is well written and edited
+  * Try to finish for Govern, Identify, and Detect
+
+
+
 * Finish page content for each core function
-  * Ensure all document links work
-  * Map categories
-  * Ensure all descriptions are present
-  * Ensure page structure is uniform
-* Homepage content
-* Update policy documents so their formatting aligns
-* Update/create page content for:
+  * Reassess benefits/implementation tasks
+  * Ensure content is well written and edited
+* Finish page content:
   * Framework
-  * Template Overview
+  * Template overview
   * Resources
+* Update policy documents so their formatting aligns
 * Add visual basic forms to docs
 * Create implementation guides, including CSF profiles, enforcement actions, exemptions
   * Add links from template pages
+* Suggest different policy packages depending on profile/tier?
+
+Tasks addressed this week:
+
+* Created landing page for policytemplates.online
+* Added more page content
+* Created uniform formatting with all documents
+  * Had to format 20 policy documents
+
+Feedback:
+
+* If you were just establishing a cybersecurity program at a SMB, how would you start crafting policies?
+
+System and communication protection
+
+

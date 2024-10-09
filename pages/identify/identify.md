@@ -22,7 +22,7 @@ The organization’s current cybersecurity risks are understood. Understanding t
 * **Document Link**: [Security-Assessment-and-Authorization-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/identify/Security-Assessment-and-Authorization-Policy.docx)
 * **NIST CSF 2.0 Category**: [Risk Assessment](#risk-assessment)
 
-## ## NIST CSF Categories
+## NIST CSF Categories
 
 ### Asset Management
 
@@ -39,7 +39,7 @@ The organization’s current cybersecurity risks are understood. Understanding t
 * **Description**: Improvements to organizational cybersecurity risk management processes, procedures and activities are identified across all CSF Functions
 * **NIST CSF 2.0 Identifier**: ID.IM
 
-## Key Implementation Activities
+## Key Implementation Tasks
 
 * **Asset Management:** Maintain an inventory of organizational assets, including hardware, software, and data.
 * **Risk Assessment:** Identify potential threats and vulnerabilities, and evaluate their impact on organizational operations.
