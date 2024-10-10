@@ -9,6 +9,12 @@ The NIST Cybersecurity Framework (CSF) 2.0 provides guidance to industry, govern
 
 Using policies that loosely follow the NIST Cybersecurity Framework (CSF) 2.0 offers numerous benefits for organizations-especially Small and Medium Sized Businesses-that want to align with cybersecurity best practices but need flexibility. Here are some key advantages:
 
+* [x] Do laundry
+
+* [x] ### Improved Risk Management
+
+* [x] [Improved Risk Management](#improved-risk-management)
+
 ### Improved Risk Management
 
 SMBs can use the framework to understand their unique risks and develop security policies without needing a large security team or a complex, resource-intensive risk management process.
@@ -94,7 +100,7 @@ The Recover Core Function helps ensure that assets and operations affected by a 
 
 Recover supports the timely restoration of normal operations to reduce the effects of cybersecurity incidents and enable appropriate communication during recovery efforts.
 
-## Development
+## History
 
 The NIST Cybersecurity Framework (CSF) was first introduced in 2014 in response to Executive Order 13636, aimed at improving cybersecurity for critical infrastructure. It provided a flexible and scalable framework built around five core functions—Identify, Protect, Detect, Respond, and Recover—and quickly gained widespread adoption due to its simplicity and adaptability. In 2018, CSF 1.1 was released with minor updates, focusing on areas like identity management and supply chain risk, continuing to grow in popularity across sectors.
 
