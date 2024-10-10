@@ -46,15 +46,10 @@ Possible cybersecurity attacks and compromises are found and analyzed. The Detec
 * **Description**: Anomalies, indicators of compromise, and other potentially adverse events are analyzed to characterize the events and detect cybersecurity incidents
 * **NIST CSF 2.0 Identifier**: DE.AE
 
-## Key Implementation Tasks
+## Implementation Tasks
 
 * **Anomalies and Events:** Monitor systems for unusual activity that may indicate a cyber threat.
 * **Continuous Monitoring:** Utilize automated tools to provide real-time insights into the security posture of the organization.
 * **Detection Processes:** Establish and maintain procedures for detecting cybersecurity incidents.
-
-## Benefits
-
-* Timely identification of threats and vulnerabilities.
-* Improved response capabilities through early detection.
 
 ## References

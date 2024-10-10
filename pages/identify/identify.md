@@ -39,14 +39,11 @@ The organization’s current cybersecurity risks are understood. Understanding t
 * **Description**: Improvements to organizational cybersecurity risk management processes, procedures and activities are identified across all CSF Functions
 * **NIST CSF 2.0 Identifier**: ID.IM
 
-## Key Implementation Tasks
+## Implementation Tasks
 
 * **Asset Management:** Maintain an inventory of organizational assets, including hardware, software, and data.
 * **Risk Assessment:** Identify potential threats and vulnerabilities, and evaluate their impact on organizational operations.
 * **Governance:** Define roles and responsibilities related to cybersecurity, ensuring accountability at all levels.
 * **Compliance:** Understand relevant laws, regulations, and standards that apply to the organization’s cybersecurity practices.
 
-## Benefits
-
-* Improved visibility into organizational risks.
-* Enhanced decision-making for resource allocation and risk management.
+## References

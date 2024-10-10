@@ -1,9 +1,49 @@
 
 # NIST CSF 2.0 Framework
 
-## Background
+## Summary
 
-The NIST Cybersecurity Framework (CSF) 2.0 provides guidance to industry, government agencies, and other organizations to manage cybersecurity risks. It offers a taxonomy of highlevel cybersecurity outcomes that can be used by any organization — regardless of its size, sector, or maturity — to better understand, assess, prioritize, and communicate its cybersecurity efforts.
+The NIST Cybersecurity Framework (CSF) 2.0 provides guidance to industry, government agencies, and other organizations to manage cybersecurity risks. It offers a taxonomy of highlevel cybersecurity outcomes that can be used by any organization—regardless of its size, sector, or maturity—to better understand, assess, prioritize, and communicate its cybersecurity efforts.
+
+## Benefits
+
+Using policies that loosely follow the NIST Cybersecurity Framework (CSF) 2.0 offers numerous benefits for organizations-especially Small and Medium Sized Businesses-that want to align with cybersecurity best practices but need flexibility. Here are some key advantages:
+
+### Improved Risk Management
+
+SMBs can use the framework to understand their unique risks and develop security policies without needing a large security team or a complex, resource-intensive risk management process.
+
+SMBs can adopt only the most relevant parts of the framework, optimizing their security posture while keeping costs down.
+
+### Adaptive to Evolving Threats
+
+SMBs benefit from a framework that is easy to adjust as cybersecurity threats evolve, allowing them to stay protected without frequent overhauls of their security strategy.
+
+As SMBs adopt new technologies or migrate to the cloud, the framework’s adaptability ensures that their security policies can evolve in parallel.
+
+### Improved Communication and Accountability
+
+For SMBs where cybersecurity expertise may be limited, the NIST CSF’s clear language fosters better communication between technical staff and management, helping everyone understand the risks and measures.
+
+It helps assign roles and responsibilities within the organization, clarifying who is responsible for specific security measures and reducing confusion.
+
+### Scalability
+
+SMBs often have limited budgets and personnel dedicated to cybersecurity. The framework's flexibility allows them to implement the most critical functions first and scale up gradually as resources permit.
+
+By focusing initially on the essential parts of the framework (e.g., Govern, Identify, and Protect), SMBs can lay a foundation for cybersecurity without overwhelming their teams.
+
+### Alignment with Industry Standards
+
+Even with a loose alignment, SMBs benefit from implementing widely accepted best practices that improve credibility with customers, partners, and regulators.
+
+Aligning with the NIST CSF allows SMBs to transition to other frameworks like ISO 27001 or comply with sector-specific standards as they grow, without having to start from scratch.
+
+### Regulatory Readiness
+
+SMBs may need to meet basic regulatory requirements, and loosely following NIST CSF helps them prepare for this without going all-in on a more formal (and potentially costly) compliance framework.
+
+Demonstrating alignment with recognized frameworks like NIST CSF can help during audits, providing evidence that the business is taking security seriously.
 
 ## CSF 2.0 Core
 
@@ -54,9 +94,11 @@ The Recover Core Function helps ensure that assets and operations affected by a 
 
 Recover supports the timely restoration of normal operations to reduce the effects of cybersecurity incidents and enable appropriate communication during recovery efforts.
 
-## CSF 2.0 Profiles
+## Development
 
-## CSF 2.0 Tiers
+The NIST Cybersecurity Framework (CSF) was first introduced in 2014 in response to Executive Order 13636, aimed at improving cybersecurity for critical infrastructure. It provided a flexible and scalable framework built around five core functions—Identify, Protect, Detect, Respond, and Recover—and quickly gained widespread adoption due to its simplicity and adaptability. In 2018, CSF 1.1 was released with minor updates, focusing on areas like identity management and supply chain risk, continuing to grow in popularity across sectors.
+
+By 2022, the need for a major update was recognized due to emerging threats from technologies like IoT and cloud computing, leading to the development of NIST CSF 2.0. Released in August 2023, CSF 2.0 introduced significant changes, including the addition of a sixth function, Govern, which focuses on integrating cybersecurity into business decision-making. It also expanded guidance for SMBs, strengthened supply chain risk management, and improved alignment with global cybersecurity frameworks, making it more accessible for a wider range of organizations.
 
 ## References
 

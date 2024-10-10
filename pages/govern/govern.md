@@ -66,16 +66,11 @@ The Govern function provides insights to help prioritize and achieve the outcome
 * **Description**: Cyber supply chain risk management processes are identified, established, managed, monitored, and improved by organizational stakeholders
 * **NIST CSF 2.0 Identifier**: *GV.SC*
 
-## Key Implementation Tasks
+## Implementation Tasks
 
 * **Leadership Engagement:** Ensure active involvement of senior management in cybersecurity governance.
 * **Policy Development:** Create and maintain cybersecurity policies that reflect the organization’s risk appetite and objectives.
 * **Resource Allocation:** Identify and allocate resources, including budget and personnel, for effective cybersecurity management.
 * **Stakeholder Communication:** Foster communication among stakeholders to ensure transparency and collaboration on cybersecurity issues.
-
-## Benefits
-
-* Clear accountability for cybersecurity initiatives.
-* Enhanced alignment of cybersecurity efforts with business goals.
 
 ## References

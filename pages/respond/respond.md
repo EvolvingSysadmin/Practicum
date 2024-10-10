@@ -50,14 +50,11 @@ Actions regarding a detected cybersecurity incident are taken. The Respond funct
 * **Description**:  Activities are performed to prevent expansion of an event and mitigate its effects
 * **NIST CSF 2.0 Identifier**: RS.MI
 
-## Key Implementation Tasks
+## Implementation Tasks
 
 * **Response Planning:** Develop and maintain an incident response plan that outlines roles, responsibilities, and procedures.
 * **Communications:** Ensure clear communication with stakeholders during and after an incident, including regulatory bodies if necessary.
 * **Analysis:** Investigate incidents to understand their cause and impact, facilitating improved future responses.
 * **Mitigation:** Implement actions to contain and eradicate threats from systems.
 
-## Benefits
-
-* Reduced impact of cybersecurity incidents.
-* Enhanced organizational learning and improvement.
+## References

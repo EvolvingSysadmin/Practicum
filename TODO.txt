@@ -1,7 +1,7 @@
 10/10
 
 * Finish document formatting
-  * Spend time ensuring everything was done correctly
+  * Spend time ensuring everything was done correctly for each category
 * Go back over each policy page and:
   * Refine document templates
   * Reassess benefits/implementation tasks

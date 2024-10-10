@@ -177,14 +177,11 @@ THINK ABOUT CHANGING TO GOVERN
 * **Description**: Security architectures are managed with the organization’s risk strategy to protect asset confidentiality, integrity, and availability, and organizational resilience
 * **NIST CSF 2.0 Identifier**: PR.IR
 
-## Key Implementation Tasks
+## Implementation Tasks
 
 * **Access Control:** Manage who has access to systems and data, ensuring the principle of least privilege.
 * **Data Security:** Implement measures to protect data at rest and in transit, such as encryption and tokenization.
 * **Awareness and Training:** Conduct regular training to ensure employees understand cybersecurity risks and best practices.
 * **Protective Technology:** Deploy technologies such as firewalls, intrusion detection systems, and endpoint protection.
 
-## Benefits
-
-* Reduced likelihood of successful cyberattacks.
-* Enhanced resilience against potential breaches.
+## References
