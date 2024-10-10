@@ -6,9 +6,18 @@ description:
 
 TODO: rewrite for clarity, provided more references/links, update instructions for how users can complete the docs, update link to combined templates doc.
 
-## Background
+## Summary
 
 These cybersecurity policy templates are pre-designed, editable documents that follow the high level Core Functions of the [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework). These documents can be used by small businesses to establish their cybersecurity protocols and guidelines. These templates help streamline the creation of security policies by providing a structured format, key components, and best practices. They are essential for ensuring compliance, enhancing security posture, and facilitating a consistent approach to risk management. Utilizing cybersecurity policy templates is a strategic approach for organizations aiming to enhance their cybersecurity posture. By providing a structured framework, these templates simplify policy development and implementation, ensuring that all aspects of security are adequately addressed. Regular review and customization of these templates help organizations stay ahead of evolving cyber threats.
+
+## Importance
+
+Cybersecurity policy templates are crucial for several reasons:
+
+* **Efficiency:** They save time and resources by providing a ready-made structure for organizations to adapt.
+* **Consistency:** Templates ensure that policies are uniform across departments and teams, reducing gaps in security measures.
+* **Compliance:** Many templates include considerations for legal and regulatory requirements, helping organizations meet their obligations.
+* **Best Practices:** They often incorporate industry best practices, which can improve the overall effectiveness of the organization’s security measures.
 
 ## Key Components
 
@@ -36,14 +45,5 @@ The free cybersecurity policy templates provided by this site can be [downloaded
 * [**Detect**](/pages/detect/detect.md): Enables timely discovery of cybersecurity incidents by continuously monitoring systems and environments.
 * [**Respond**](/pages/respond/respond.md): Guides how to effectively contain and manage the impacts of detected cybersecurity incidents.
 * [**Recover**](/pages/recover/readme.md): Focuses on restoring capabilities and services after a cybersecurity incident to minimize disruption.
-
-## Importance
-
-Cybersecurity policy templates are crucial for several reasons:
-
-* **Efficiency:** They save time and resources by providing a ready-made structure for organizations to adapt.
-* **Consistency:** Templates ensure that policies are uniform across departments and teams, reducing gaps in security measures.
-* **Compliance:** Many templates include considerations for legal and regulatory requirements, helping organizations meet their obligations.
-* **Best Practices:** They often incorporate industry best practices, which can improve the overall effectiveness of the organization’s security measures.
 
 ## References

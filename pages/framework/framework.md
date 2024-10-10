@@ -9,11 +9,12 @@ The NIST Cybersecurity Framework (CSF) 2.0 provides guidance to industry, govern
 
 Using policies that loosely follow the NIST Cybersecurity Framework (CSF) 2.0 offers numerous benefits for organizations-especially Small and Medium Sized Businesses-that want to align with cybersecurity best practices but need flexibility. Here are some key advantages:
 
-* [x] Do laundry
-
-* [x] ### Improved Risk Management
-
 * [x] [Improved Risk Management](#improved-risk-management)
+* [x] [Adaptive to Evolving Threats](#adaptive-to-evolving-threats)
+* [x] [Improved Communication and Accountability](#improved-communication-and-accountability)
+* [x] [Scalability](#scalability)
+* [x] [Alignment with Industry Standards](#alignment-with-industry-standards)
+* [X] [Regulatory Readiness](#regulatory-readiness)
 
 ### Improved Risk Management
 

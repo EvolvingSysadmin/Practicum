@@ -13,7 +13,9 @@ The Govern function provides insights to help prioritize and achieve the outcome
 ### Information Security Policy
 
 * **Description**: The Information Security Policy establishes the minimum mandatory requirements for information security within the organization. While organizations can exceed these requirements based on specific business needs and legal obligations, they must meet the baseline standards set forth in this policy.
-* **Template Link**: [Information-Security-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/govern/Information-Security-Policy.docx)
+* **Word Template Link**: [Information-Security-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/govern/Information-Security-Policy.docx)
+* **Fillable Word Template Link**: [Information-Security-Policy.docm](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/govern/Information-Security-Policy.docm)
+  * **Note**: Requires enabling Microsoft Word Macros
 * **NIST CSF 2.0 Category**: [Policy](#policy)
 
 ### Acceptable Use of Information Technology Resources Policy
@@ -27,6 +29,8 @@ The Govern function provides insights to help prioritize and achieve the outcome
 * **Description**: The Information Security Risk Management Standard is vital for identifying, analyzing, and maintaining acceptable levels of risk to confidentiality, integrity, and availability. Regular risk assessments enable management to prioritize the most critical information assets, supporting informed decision-making. Compliance with federal and state mandates requires routine assessments to identify risks and implement necessary controls. Addressing security risks early is more cost-effective than dealing with incidents later. This standard provides a framework for evaluating the current security posture, identifying gaps, and determining appropriate actions.
 * **Document Link**: [Information-Security-Risk-Management-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/govern/Information-Security-Risk-Management-Standard.docx)
 * **NIST CSF 2.0 Category**: [Risk Management Strategy](#risk-management-strategy)
+
+### Planning Policy
 
 ### Personnel Security Policy
 
