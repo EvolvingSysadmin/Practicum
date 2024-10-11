@@ -22,6 +22,8 @@ The Govern function provides insights to help prioritize and achieve the outcome
 
 * **Description**: The Acceptable Use of Information Technology Resources Policy outlines the proper use of information and technology resources within the organization, emphasizing the importance of workforce participation and support for effective security. Inappropriate usage can lead to significant risks, including ransomware attacks, system compromises, and legal issues.
 * **Template Link:** [Acceptable-Use-of-Information-Technology-Resources-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/govern/Acceptable-Use-of-Information-Technology-Resources-Policy.docx)
+* **Fillable Word Template Link**: [Acceptable-Use-of-Information-Technology-Resources-Policy.docm](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/govern/Acceptable-Use-of-Information-Technology-Resources-Policy.docm)
+  * **Note**: Requires enabling Microsoft Word Macros
 * **NIST CSF 2.0 Category**: [Policy](#policy)
 
 ### Information Security Risk Management Standard
