@@ -44,3 +44,7 @@ The [National Institute of Standards and Technology (NIST)](https://www.nist.gov
 * [https://www.nist.gov/cybersecurity](https://www.nist.gov/cybersecurity)
 * [https://iso.org/sectors/it-technologies/information-security](https://iso.org/sectors/it-technologies/information-security)
 * [https://www.cisecurity.org](https://www.cisecurity.org)
+
+* <https://www.sans.org/information-security-policy>
+* <https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/img/uploads/2021/11/NIST-Cybersecurity-Framework-Policy-Template-Guide-v2111Online.pdf>
+* <https://www.cisecurity.org/wp-content/uploads/2019/08/NIST-CSF-Policy-Template-Guide.pdf>

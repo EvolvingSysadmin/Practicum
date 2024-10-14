@@ -3,6 +3,7 @@
 * Finish document formatting
   * Spend time ensuring everything was done correctly for each category
 * Go back over each policy page and:
+  * Choose consistent doc style
   * Refine document templates
   * Reassess benefits/implementation tasks
   * Ensure content is well written and edited
@@ -34,6 +35,19 @@ Feedback:
 
 * If you were just establishing a cybersecurity program at a SMB, how would you start crafting policies?
 
-System and communication protection
+Include benefits?
+
+* Clear accountability for cybersecurity initiatives.
+* Enhanced alignment of cybersecurity efforts with business goals.
+* Improved visibility into organizational risks.
+* Enhanced decision-making for resource allocation and risk management.
+* Reduced likelihood of successful cyberattacks.
+* Enhanced resilience against potential breaches.
+* Faster restoration of critical functions.
+* Improved resilience and readiness for future incidents.
+* Reduced impact of cybersecurity incidents.
+* Enhanced organizational learning and improvement.
+* Timely identification of threats and vulnerabilities.
+* Improved response capabilities through early detection.
 
 
