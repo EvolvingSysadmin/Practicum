@@ -1,35 +1,25 @@
 10/10
+New:
 
-* Finish document formatting
-  * Spend time ensuring everything was done correctly for each category
-* Go back over each policy page and:
-  * Choose consistent doc style
-  * Refine document templates
-  * Reassess benefits/implementation tasks
-  * Ensure content is well written and edited
-  * Try to finish for Govern, Identify, and Detect
+* Finish policy template format
+  * Go back and add references to templates
+  * Add same references to each core function site page
+* Go back through category mapping/consider new policies
+* Rewrite scope
+* Definitions
+* Purpose and benefits
 
+Old:
 
 
 * Finish page content for each core function
   * Reassess benefits/implementation tasks
   * Ensure content is well written and edited
 * Finish page content:
-  * Framework
-  * Template overview
   * Resources
-* Update policy documents so their formatting aligns
-* Add visual basic forms to docs
 * Create implementation guides, including CSF profiles, enforcement actions, exemptions
   * Add links from template pages
 * Suggest different policy packages depending on profile/tier?
-
-Tasks addressed this week:
-
-* Created landing page for policytemplates.online
-* Added more page content
-* Created uniform formatting with all documents
-  * Had to format 20 policy documents
 
 Feedback:
 
@@ -51,3 +41,15 @@ Include benefits?
 * Improved response capabilities through early detection.
 
 
+
+
+* $9.99/month
+* Digital Ocean $7/month - can scale up the performance of the host if need be
+* https://mxroute.com/ $50/year
+* Digital Ocean
+
+
+
+https://marketplace.digitalocean.com/apps/wordpress
+
+Many forward to cell phone

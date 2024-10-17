@@ -13,14 +13,14 @@ The organization’s current cybersecurity risks are understood. Understanding t
 ### Risk Assessment Policy
 
 * **Description**: The Risk Assessment Policy ensures that Information Technology performs risk assessments in compliance with IT security policies, standards, and procedures.
-* **Template Link**: [Risk-Assessment-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/identify/Risk-Assessment-Policy.docx)
-* **NIST CSF 2.0 Category**: [Risk Assessment](#risk-assessment)
+* **Word Template Link**: [Risk-Assessment-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/identify/Risk-Assessment-Policy.docx)
+* **Primary NIST CSF 2.0 Category**:: [Risk Assessment](#risk-assessment)
 
 ### Security Assessment and Authorization Policy
 
 * **Description**: The Security Assessment and Authorization Policy establishes that Information Technology and the various business units (information owners) will ensure security controls in information systems, and the environments in which those systems operate, as part of initial and ongoing security authorizations, annual assessments, continuous monitoring and system development life cycle activities.
-* **Document Link**: [Security-Assessment-and-Authorization-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/identify/Security-Assessment-and-Authorization-Policy.docx)
-* **NIST CSF 2.0 Category**: [Risk Assessment](#risk-assessment)
+* **Word Template Link**: [Security-Assessment-and-Authorization-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/identify/Security-Assessment-and-Authorization-Policy.docx)
+* **Primary NIST CSF 2.0 Category**:: [Risk Assessment](#risk-assessment)
 
 ## NIST CSF Categories
 
