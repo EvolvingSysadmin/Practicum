@@ -4,10 +4,14 @@ New:
 * Finish policy template format
   * Go back and add references to templates
   * Add same references to each core function site page
+  * Rename policy templates to a uniform naming standard
 * Go back through category mapping/consider new policies
 * Rewrite scope
 * Definitions
 * Purpose and benefits
+* Change Revision History to "Review and Revision"
+* How to demonstrate compliance with these policies
+* Mention that some of the policies cross over to different core functions
 
 Old:
 

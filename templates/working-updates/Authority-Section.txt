@@ -1,7 +1,0 @@
-Authority
-
-This cybersecurity policy is issued under the authority of the Chief Executive Officer (CEO), who has overall responsibility for ensuring the protection of the organization’s information assets. The Chief Information Security Officer (CISO) is delegated the authority to oversee the implementation, enforcement, and regular review of this policy.
-
-The CISO, in collaboration with the IT Security Team, is responsible for ensuring that all employees, contractors, and third-party partners comply with the cybersecurity guidelines outlined herein. The CISO has the authority to enforce compliance, issue directives, and take corrective action in response to any identified violations.
-
-Any exceptions to this policy must be approved by the CISO, in consultation with relevant department heads. Non-compliance with this policy may result in disciplinary action, up to and including termination of employment or contractual agreements.

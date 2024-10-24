@@ -19,6 +19,8 @@ Cybersecurity policy templates are crucial for among the following reasons:
 * **Compliance:** Many templates include considerations for legal and regulatory requirements, helping organizations meet their obligations.
 * **Best Practices:** They often incorporate industry best practices, which can improve the overall effectiveness of the organization’s security measures.
 
+## How to Use
+
 ## Policy Components
 
 Each policy template is comprised of the following sections:
