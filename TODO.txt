@@ -1,5 +1,45 @@
-10/10
-New:
+
+* Clean files
+* Download original template files into folder
+* Edit each template:
+  * Ensure completion of documents
+    * Purpose and benefits
+    * Information section
+    * Add resources sections
+    * Ensure all sections comprehensive
+    * Headers/footers
+    * Change Revision History to "Review and Revision"
+    * Review scope
+  * Ensure accuracy compared against original template
+  * Bracket all variable inputs
+    * Links to implementation guides within instructions (can be to blank doc initially)
+    * Add about the completion of definitions if needed
+  * Rename policies/policy templates to uniform convention
+  * Save completed bracketed files into new folder with uniform naming convention
+  * Create new copy of templates with instructions as first page and with quick parts document property inputs (print pre and post document properties)
+* Site
+  * Add docs from resources into pages
+  * Add 'how to use this' to homepage
+  * Add collaborations page/instructions and mention on homepage
+    * Encourage users to edit pages via github
+  * Add references that correspond with policy related documents
+  * Mention that some of the policies cross over to different core functions
+* Ancillary tasks
+  * Create PDFs
+  * Create instructional videos
+  * Review category mapping
+  * Consider new policies
+  * Add an 'about these templates' section about where they originated
+  * Create implementation guide
+    * How to demonstrate compliance with these policies
+
+
+
+
+
+
+
+Old:
 
 * Finish policy template format
   * Go back and add references to templates
@@ -12,6 +52,11 @@ New:
 * Change Revision History to "Review and Revision"
 * How to demonstrate compliance with these policies
 * Mention that some of the policies cross over to different core functions
+* Encourage users to edit pages via github
+* Quick parts
+* Add an 'about these templates' section
+* Create a video about the editing of the documnts
+* Print pre and post document properties
 
 Old:
 
@@ -25,9 +70,6 @@ Old:
   * Add links from template pages
 * Suggest different policy packages depending on profile/tier?
 
-Feedback:
-
-* If you were just establishing a cybersecurity program at a SMB, how would you start crafting policies?
 
 Include benefits?
 
@@ -45,15 +87,3 @@ Include benefits?
 * Improved response capabilities through early detection.
 
 
-
-
-* $9.99/month
-* Digital Ocean $7/month - can scale up the performance of the host if need be
-* https://mxroute.com/ $50/year
-* Digital Ocean
-
-
-
-https://marketplace.digitalocean.com/apps/wordpress
-
-Many forward to cell phone
