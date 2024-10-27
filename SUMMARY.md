@@ -20,6 +20,10 @@
 
 * [Guides](pages/guides/guides.md)
 
+## Policy Collaboration
+
+* [Collaboration](/pages/collaboration/collaboration.md)
+
 ## Policy Resources
 
 * [Resources](/pages/resources/resources.md)

@@ -1,11 +1,15 @@
 
-* Clean files
-* Download original template files into folder
+Policies v standards
+
+ADDRESSED * Clean files
+DOING * Download original template files into folder
 * Edit each template:
   * Ensure completion of documents
+    * Tables
+    * Rename each IT Policy
     * Purpose and benefits
-    * Information section
-    * Add resources sections
+    * Information section indendation
+    * Add resources sections to website
     * Ensure all sections comprehensive
     * Headers/footers
     * Change Revision History to "Review and Revision"

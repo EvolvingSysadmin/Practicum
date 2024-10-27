@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DocumentContentControl xmlns="http://DocumentContentControl.htm">
+<OrganizationName></OrganizationName>
+<OrganizationAddress></OrganizationAddress>
+<PolicyAuthority></PolicyAuthority>
+<PolicyOwner></PolicyOwner>
+<OwnerContactInfo></OwnerContactInfo>
+<PolicyNumber></PolicyNumber>
+</DocumentContentControl>
