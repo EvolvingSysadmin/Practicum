@@ -1,6 +1,6 @@
 # Collaboration
 
-This website utilizes a GitHub repository to facilitate easy access to and collaboration on cybersecurity policy templates. Users can download templates, customize them to meet their needs, and contribute their enhancements back to the community. This collaborative approach not only enriches the resource pool but also fosters a culture of continuous improvement, ensuring that everyone—from small businesses to large enterprises—has access to high-quality, relevant policies. By leveraging GitHub, this project empowers users to strengthen their cybersecurity practices and share insights for the benefit of all.
+This website utilizes a [GitHub repository](https://github.com/EvolvingSysadmin/Practicum) to facilitate easy access to and collaboration on cybersecurity policy templates. Users can download templates, customize them to meet their needs, and contribute their enhancements back to the community. This collaborative approach not only enriches the resource pool but also fosters a culture of continuous improvement, ensuring that everyone—from small businesses to large enterprises—has access to high-quality, relevant policies. By leveraging GitHub, this project empowers users to strengthen their cybersecurity practices and share insights for the benefit of all.
 
 ## Downloads
 
