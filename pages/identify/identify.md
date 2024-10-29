@@ -2,11 +2,7 @@
 
 ## Summary
 
-The [NIST CSF 2.0](/pages/framework/framework.md) Identify function is the foundation of the framework, focusing on understanding the organizational environment and the risks to its systems, people, assets, and data. This step helps organizations establish a comprehensive risk management strategy.
-
-## Background
-
-The organization’s current cybersecurity risks are understood. Understanding the organization’s assets (e.g., data, hardware, software, systems, facilities, services, people), suppliers, and related cybersecurity risks enables an organization to prioritize its efforts consistent with its risk management strategy and the mission needs identified under Govern. This Function also includes the identification of improvement opportunities for the organization’s policies, plans, processes, procedures, and practices that support cybersecurity risk management to inform efforts under all six Functions.
+The [NIST CSF 2.0](/pages/framework/framework.md) Identify function is the foundation of the framework, focusing on understanding the organizational environment and the risks to its systems, people, assets, and data. Policies related to the Identify function help organizations establish a comprehensive risk management strategy.
 
 ## Policy Templates
 
@@ -38,12 +34,5 @@ The organization’s current cybersecurity risks are understood. Understanding t
 
 * **Description**: Improvements to organizational cybersecurity risk management processes, procedures and activities are identified across all CSF Functions
 * **NIST CSF 2.0 Identifier**: ID.IM
-
-## Implementation Tasks
-
-* **Asset Management:** Maintain an inventory of organizational assets, including hardware, software, and data.
-* **Risk Assessment:** Identify potential threats and vulnerabilities, and evaluate their impact on organizational operations.
-* **Governance:** Define roles and responsibilities related to cybersecurity, ensuring accountability at all levels.
-* **Compliance:** Understand relevant laws, regulations, and standards that apply to the organization’s cybersecurity practices.
 
 ## References

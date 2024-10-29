@@ -1,5 +1,36 @@
+10-29
+
+* Website updates
+  * Homepage
+  * NIST CSF 2.0
+  * Template Overview
+  * Govern
+  * Collaboration
+  * Guides
+  * Policies v standards
+  * References
+* Finalize policy templates for:
+  * Govern
+  * Identify
+  * Detect
+  * Respond
+  * Recover
+
+Related Documents
+Related policies
+
+* Update security.md
+* Add 'how to use this' section
+* Add collaborations section
+* What I'd do different:
+  * Get feedback on policy templates sooner
+  * Centralized content to make editing docs less tedious
+  * Way to make formatting 
+* Spacing of all sections
 
 Policies v standards
+Scope
+Add links to other policies within related documents?
 
 ADDRESSED * Clean files
 DOING * Download original template files into folder
