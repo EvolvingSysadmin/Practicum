@@ -13,15 +13,15 @@ Developing policies that align with cybersecurity frameworks can be costly and t
 
 ![Bolstering SMB Cybersecurity](img/icon.png)
 
-## How to Use
-
-
-
 ## Statistics
 
 The small business cybersecurity statistics paint a stark picture, underscoring the critical and immediate need for SMBs to fortify their cybersecurity strategies or risk becoming prime targets for increasingly sophisticated and damaging cyberattacks.
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4>SMB Cyberattacks</h4><ul class="contains-task-list"><li><input type="checkbox" checked><a href="https://www.mcafee.com/en-gb/consumer-corporate/newsroom/press-releases/2024/20240117.html">44% of SMBs have suffered an attack</a></li><li><input type="checkbox" checked><a href="https://www.law.umaryland.edu/content/articles/name-659577-en.html">82% of ransomware attacks in 2021 targeted SMBs</a></li><li><input type="checkbox" checked><a href="https://www.mcafee.com/en-gb/consumer-corporate/newsroom/press-releases/2024/20240117.html">61% of SMBs were targeted by attacks in 2021</a></li><li><input type="checkbox" checked><a href="https://www.verizon.com/business/resources/Ta9b/reports/2021-data-breach-investigations-report.pdf">46% of cybersecurity breaches affected SMBs</a></li><li><input type="checkbox" checked><a href="https://www.cisco.com/c/dam/en/us/products/collateral/security/ponemon-report-smb.pdf">72% of SMBs reported an attack or data breach in 2019</a></li><li><input type="checkbox" checked><a href="https://www.cisco.com/c/dam/en/us/products/collateral/security/ponemon-report-smb.pdf">69% of SMBs reported increasingly targeted attacks in 2019</a></li></ul></td><td></td><td></td><td></td></tr><tr><td><h4>SMB Cybersecurity Posture</h4><ul class="contains-task-list"><li><input type="checkbox" checked><a href="https://www.vistage.com/wp-content/uploads/2018/04/Cybersecurity-Research-Note.pdf">62% of SMBs lack a current security strategy</a></li><li><input type="checkbox" checked><a href="https://upcity.com/experts/small-business-cybersecurity-surve">50% of SMBs lacked a security plan in 2022</a></li><li><input type="checkbox" checked><a href="https://www.cisco.com/c/dam/en/us/products/collateral/security/ponemon-report-smb.pdf">77% of SMBs reported inadequate cybersecurity personnel in 2019</a></li><li><input type="checkbox" checked><a href="https://www.vistage.com/wp-content/uploads/2018/04/Cybersecurity-Research-Note.pdf">76% of SMBs attempt to manage cybersecurity without external resources</a></li><li><input type="checkbox" checked><a href="https://www.mcafee.com/en-gb/consumer-corporate/newsroom/press-releases/2024/20240117.html">52% of SMBs lack confidence in their ability to prevent cyberattacks</a></li><li><input type="checkbox" checked><a href="https://www.mcafee.com/en-gb/consumer-corporate/newsroom/press-releases/2024/20240117.html">73% of SMBs cite cybersecurity as their greatest risk</a></li></ul></td><td></td><td></td><td></td></tr></tbody></table>
+
+## Usage
+
+This website serves as a comprehensive resource for small and medium-sized businesses (SMBs) to develop and implement effective cybersecurity policies. Users can access a range of free policy templates, implementation guides, and educational resources tailored to simplify the complex process of establishing cybersecurity frameworks. Whether a business is starting from scratch or looking to enhance existing policies, this platform provides step-by-step guidance to help organizations align with established best practices, such as the NIST Cybersecurity Framework 2.0. By leveraging these resources, SMBs can bolster their cybersecurity posture, ensuring that they adequately protect sensitive information and mitigate potential risks in an increasingly dangerous digital landscape.
 
 ## Frameworks
 
@@ -48,7 +48,6 @@ The [National Institute of Standards and Technology (NIST)](https://www.nist.gov
 * [https://www.nist.gov/cybersecurity](https://www.nist.gov/cybersecurity)
 * [https://iso.org/sectors/it-technologies/information-security](https://iso.org/sectors/it-technologies/information-security)
 * [https://www.cisecurity.org](https://www.cisecurity.org)
-
 * <https://www.sans.org/information-security-policy>
 * <https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/img/uploads/2021/11/NIST-Cybersecurity-Framework-Policy-Template-Guide-v2111Online.pdf>
 * <https://www.cisecurity.org/wp-content/uploads/2019/08/NIST-CSF-Policy-Template-Guide.pdf>
