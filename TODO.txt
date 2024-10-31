@@ -1,3 +1,8 @@
+* As per information statements?
+* More language specific to standards?
+* Clean up TODO
+
+
 10-29
 
 * Website updates
