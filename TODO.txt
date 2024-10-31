@@ -1,6 +1,11 @@
 * As per information statements?
 * More language specific to standards?
+* Policy v standard within the templates (change policy to standard)
 * Clean up TODO
+
+https://complianceforge.com/blog/policy-vs-standard-vs-control-vs-procedure/
+https://idenhaus.com/policy-vs-standards-vs-procedures/
+
 
 
 10-29
