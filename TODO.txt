@@ -25,6 +25,7 @@
 * Guides
 * Collaboration
 * Review scope?
+* Review Josh's tips
 
 * Potential:
   * Mention that some of the policies cross over to different core functions
