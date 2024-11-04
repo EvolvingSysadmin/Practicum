@@ -13,7 +13,7 @@ Developing policies that align with cybersecurity frameworks can be costly and t
 
 ![Bolstering SMB Cybersecurity](img/icon.png)
 
-## Statistics
+## Dire Statistics
 
 The small business cybersecurity statistics paint a stark picture, underscoring the critical and immediate need for SMBs to fortify their cybersecurity strategies or risk becoming prime targets for increasingly sophisticated and damaging cyberattacks.
 
