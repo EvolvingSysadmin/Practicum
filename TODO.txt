@@ -1,3 +1,13 @@
+* Website Improvement
+  * Homepage:
+    * Condense framework sections
+    * Add content about standards v policies
+    * Links to collaboration in usage section
+    * Make usage section more concise
+ * NIST CSF 2.0
+
+
+
 * As per information statements?
 * More language specific to standards?
 * Policy v standard within the templates (change policy to standard)
@@ -11,20 +21,13 @@ https://idenhaus.com/policy-vs-standards-vs-procedures/
 10-29
 
 * Website updates
-  * Homepage
-  * NIST CSF 2.0
   * Template Overview
   * Govern
   * Collaboration
   * Guides
   * Policies v standards
   * References
-* Finalize policy templates for:
-  * Govern
-  * Identify
-  * Detect
-  * Respond
-  * Recover
+
 
 Related Documents
 Related policies
