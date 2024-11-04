@@ -1,11 +1,5 @@
 * Website Improvement
   * Homepage:
-    * Condense framework sections
-    * Add content about standards v policies: 
-      * https://complianceforge.com/blog/policy-vs-standard-vs-control-vs-procedure/
-      * https://idenhaus.com/policy-vs-standards-vs-procedures/
-    * Links to collaboration in usage section
-    * Make usage section more concise
  * NIST CSF 2.0
    * Remove Summary heading
    * Make benefits more concise
@@ -15,6 +9,10 @@
    * Links to original
    * How to use
    * Video
+    * Standards v policies: 
+      * https://complianceforge.com/blog/policy-vs-standard-vs-control-vs-procedure/
+      * https://idenhaus.com/policy-vs-standards-vs-procedures/
+    * Links to collaboration in usage section
  * Resources & Template Overview: links to originals
    * Links to originals
 * Core function pages
@@ -26,6 +24,7 @@
 * Collaboration
 * Review scope?
 * Review Josh's tips
+* References format?
 
 * Potential:
   * Mention that some of the policies cross over to different core functions
@@ -56,8 +55,6 @@
 * Finish page content for each core function
   * Reassess benefits/implementation tasks
   * Ensure content is well written and edited
-* Finish page content:
-  * Resources
 * Create implementation guides, including CSF profiles, enforcement actions, exemptions
   * Add links from template pages
 * Suggest different policy packages depending on profile/tier?
