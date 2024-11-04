@@ -1,10 +1,8 @@
 * Website Improvement
- * NIST CSF 2.0
-   * Add more refernces
-   * Add links to policy pages
  * Template Overview
    * Links to original
    * How to use
+   * History of these templates
    * Video
     * Standards v policies: 
       * https://complianceforge.com/blog/policy-vs-standard-vs-control-vs-procedure/

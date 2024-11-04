@@ -1,15 +1,14 @@
 ---
 description: Striving to Bolster Small Business Cybersecurity in a Risky World
-hidden: true
 ---
 
 # Cybersecurity Policy Templates
 
-This project aims to simplify the complex cybersecurity challenges faced by small and medium-sized businesses (SMBs) by providing free access to [policy templates](pages/overview/template-overview.md), [implementation guides](pages/guides/guides.md), and [resources](pages/resources/resources.md).
+This project aims to simplify the complex cybersecurity challenges faced by small and medium-sized businesses (SMBs) by providing free access to [policy templates](pages/overview/template-overview.md), [implementation instructions](/pages/implementation/implementation.md), and [resources](pages/resources/resources.md).
 
 ## Policy Templates
 
-Developing policies that align with cybersecurity frameworks can be costly and time-consuming for small businesses. This project provides [free cybersecurity policy templates](pages/overview/template-overview.md), [implementation guides](pages/guides/guides.md), and [resources](pages/resources/resources.md) to relieve SMBs from the need to purchase policies, hire consultants, or dedicate significant resources to policy creation. Although not designed to fully meet every compliance requirement, these templates follow the [NIST Cybersecurity Framework 2.0 (NSIT CSF 2.0)](https://www.nist.gov/cyberframework) core functions of [Govern](pages/govern/govern.md), [Identify](pages/identify/identify.md), [Protect](pages/protect/protect.md), [Detect](pages/detect/detect.md), [Respond](pages/respond/respond.md), and [Recover](pages/recover/)
+Developing policies that align with cybersecurity frameworks can be costly and time-consuming for small businesses. This project provides [free cybersecurity policy templates](pages/overview/template-overview.md), [implementation instructions](/pages/implementation/implementation.md), and [resources](pages/resources/resources.md) to relieve SMBs from the need to purchase policies, hire consultants, or dedicate significant resources to policy creation. Although not designed to fully meet every compliance requirement, these templates follow the [NIST Cybersecurity Framework 2.0 (NSIT CSF 2.0)](https://www.nist.gov/cyberframework) core functions of [Govern](pages/govern/govern.md), [Identify](pages/identify/identify.md), [Protect](pages/protect/protect.md), [Detect](pages/detect/detect.md), [Respond](pages/respond/respond.md), and [Recover](pages/recover/)
 
 ![Bolstering SMB Cybersecurity](img/icon.png)
 
@@ -33,10 +32,11 @@ While policies define the overall goals and expectations, standards offer clear,
 
 ## Template Usage
 
-This website is a comprehensive resource for small and medium-sized businesses (SMBs) to develop and implement effective cybersecurity policies. It offers [free policy and standards templates](https://docs.policytemplates.online/policy-templates/template-overview), [implementation guides](https://docs.policytemplates.online/policy-implementation/guides), and [resources](https://docs.policytemplates.online/policy-resources/resources) to simplify the complex process of implementing a cybersecurity program. Whether  starting from scratch or enhancing existing policies, users can find step-by-step guidance aligned with best practices like the [NIST Cybersecurity Framework 2.0](https://docs.policytemplates.online/policy-framework/framework). These resources help SMBs strengthen their cybersecurity posture in an increasingly risky digital landscape. Additionally, users can [contribute to the project](/pages/collaboration/collaboration.md) by sharing their own policy templates and resources.
+This website is a comprehensive resource for small and medium-sized businesses (SMBs) to develop and implement effective cybersecurity policies. It offers [free policy and standards templates](https://docs.policytemplates.online/policy-templates/template-overview), [implementation guides](https://docs.policytemplates.online/policy-implementation/gimplementation), and [resources](https://docs.policytemplates.online/policy-resources/resources) to simplify the complex process of implementing a cybersecurity program. Whether  starting from scratch or enhancing existing policies, users can find step-by-step guidance aligned with best practices like the [NIST Cybersecurity Framework 2.0](https://docs.policytemplates.online/policy-framework/framework). These resources help SMBs strengthen their cybersecurity posture in an increasingly risky digital landscape. Additionally, users can [contribute to the project](/pages/collaboration/collaboration.md) by sharing their own policy templates and resources.
 
 ## References
 
+* “New McAfee Global Small Business Study Reveals Concerns, Knowledge and Vulnerabilities of Small Businesses in Today’s Cyber Landscape.” McAfee, McAfee Corp. and Dell Technologies, 17 Jan. 2024, <www.mcafee.com/en-gb/consumer-corporate/newsroom/press-releases/2024/20240117.html>.
 * [https://www.mcafee.com/en-gb/consumer-corporate/newsroom/press-releases/2024/20240117.html](https://www.mcafee.com/en-gb/consumer-corporate/newsroom/press-releases/2024/20240117.html)
 * [https://www.law.umaryland.edu/content/articles/name-659577-en.html](https://www.law.umaryland.edu/content/articles/name-659577-en.html)
 * [https://www.verizon.com/business/resources/Ta9b/reports/2021-data-breach-investigations-report.pdf](https://www.verizon.com/business/resources/Ta9b/reports/2021-data-breach-investigations-report.pdf)
