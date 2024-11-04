@@ -12,7 +12,6 @@
     * Standards v policies: 
       * https://complianceforge.com/blog/policy-vs-standard-vs-control-vs-procedure/
       * https://idenhaus.com/policy-vs-standards-vs-procedures/
-    * Links to collaboration in usage section
  * Resources & Template Overview: links to originals
    * Links to originals
 * Core function pages
