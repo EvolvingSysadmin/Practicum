@@ -1,113 +1,56 @@
 * Website Improvement
   * Homepage:
     * Condense framework sections
-    * Add content about standards v policies
+    * Add content about standards v policies: 
+      * https://complianceforge.com/blog/policy-vs-standard-vs-control-vs-procedure/
+      * https://idenhaus.com/policy-vs-standards-vs-procedures/
     * Links to collaboration in usage section
     * Make usage section more concise
  * NIST CSF 2.0
+   * Remove Summary heading
+   * Make benefits more concise
+   * Add more refernces
+   * Add links to policy pages
+ * Template Overview
+   * Links to original
+   * How to use
+   * Video
+ * Resources & Template Overview: links to originals
+   * Links to originals
+* Core function pages
+  * Add resources
+  * Add related documents/policies
+  * Update links
+  * Standards v Policies
+* Guides
+* Collaboration
+* Review scope?
 
+* Potential:
+  * Mention that some of the policies cross over to different core functions
+  * Go back through category mapping/consider new policies
+  * Rewrite scope
+  * How to demonstrate compliance with these policies
+  * Links to implementation guides within instructions (can be to blank doc initially)
 
-
-* As per information statements?
-* More language specific to standards?
-* Policy v standard within the templates (change policy to standard)
-* Clean up TODO
-
-https://complianceforge.com/blog/policy-vs-standard-vs-control-vs-procedure/
-https://idenhaus.com/policy-vs-standards-vs-procedures/
-
-
-
-10-29
-
-* Website updates
-  * Template Overview
-  * Govern
-  * Collaboration
-  * Guides
-  * Policies v standards
-  * References
-
-
-Related Documents
-Related policies
-
-* Update security.md
-* Add 'how to use this' section
-* Add collaborations section
 * What I'd do different:
   * Get feedback on policy templates sooner
   * Centralized content to make editing docs less tedious
-  * Way to make formatting 
-* Spacing of all sections
 
-Policies v standards
-Scope
-Add links to other policies within related documents?
 
-ADDRESSED * Clean files
-DOING * Download original template files into folder
-* Edit each template:
-  * Ensure completion of documents
-    * Tables
-    * Rename each IT Policy
-    * Purpose and benefits
-    * Information section indendation
-    * Add resources sections to website
-    * Ensure all sections comprehensive
-    * Headers/footers
-    * Change Revision History to "Review and Revision"
-    * Review scope
-  * Ensure accuracy compared against original template
-  * Bracket all variable inputs
-    * Links to implementation guides within instructions (can be to blank doc initially)
-    * Add about the completion of definitions if needed
-  * Rename policies/policy templates to uniform convention
-  * Save completed bracketed files into new folder with uniform naming convention
-  * Create new copy of templates with instructions as first page and with quick parts document property inputs (print pre and post document properties)
 * Site
   * Add docs from resources into pages
   * Add 'how to use this' to homepage
   * Add collaborations page/instructions and mention on homepage
-    * Encourage users to edit pages via github
   * Add references that correspond with policy related documents
   * Mention that some of the policies cross over to different core functions
 * Ancillary tasks
   * Create PDFs
-  * Create instructional videos
   * Review category mapping
   * Consider new policies
   * Add an 'about these templates' section about where they originated
   * Create implementation guide
     * How to demonstrate compliance with these policies
-
-
-
-
-
-
-
-Old:
-
-* Finish policy template format
-  * Go back and add references to templates
-  * Add same references to each core function site page
-  * Rename policy templates to a uniform naming standard
-* Go back through category mapping/consider new policies
-* Rewrite scope
-* Definitions
-* Purpose and benefits
-* Change Revision History to "Review and Revision"
-* How to demonstrate compliance with these policies
-* Mention that some of the policies cross over to different core functions
-* Encourage users to edit pages via github
-* Quick parts
-* Add an 'about these templates' section
-* Create a video about the editing of the documnts
-* Print pre and post document properties
-
-Old:
-
 
 * Finish page content for each core function
   * Reassess benefits/implementation tasks
@@ -117,7 +60,6 @@ Old:
 * Create implementation guides, including CSF profiles, enforcement actions, exemptions
   * Add links from template pages
 * Suggest different policy packages depending on profile/tier?
-
 
 Include benefits?
 
@@ -133,5 +75,4 @@ Include benefits?
 * Enhanced organizational learning and improvement.
 * Timely identification of threats and vulnerabilities.
 * Improved response capabilities through early detection.
-
 
