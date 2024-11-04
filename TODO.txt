@@ -1,8 +1,5 @@
 * Website Improvement
-  * Homepage:
  * NIST CSF 2.0
-   * Remove Summary heading
-   * Make benefits more concise
    * Add more refernces
    * Add links to policy pages
  * Template Overview
