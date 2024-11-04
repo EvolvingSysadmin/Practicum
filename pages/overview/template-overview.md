@@ -13,7 +13,7 @@ To use these templates for your organization, first download the relevant policy
 5. Save the document and print the necessary pages to a PDF or printer.
 6. Revisit this website, particularly the [implementation page](/pages/implementation/implementation.md), for further policy/standard creation and deployment resources.
 
-## Policy Components
+## Template Policy Components
 
 Each policy template is comprised of the following sections:
 
