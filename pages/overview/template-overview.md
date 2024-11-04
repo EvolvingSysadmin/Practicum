@@ -63,3 +63,6 @@ The free cybersecurity policy templates provided by this site can be [downloaded
 ## References
 
 * <https://csrc.nist.gov/glossary/term/security_policy_templates>
+
+
+* Multi-State Information Sharing & Analysis Center. NIST Cybersecurity Framework Policy Template Guide, [https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/img/uploads/2021/11/NIST-Cybersecurity-Framework-Policy-Template-Guide-v2111Online.pdf](https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/img/uploads/2021/11/NIST-Cybersecurity-Framework-Policy-Template-Guide-v2111Online.pdf).
