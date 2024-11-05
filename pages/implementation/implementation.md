@@ -31,3 +31,15 @@ Implementation after policy completion is essential.
 * file:///C:/Users/RyanHeavican/Downloads/NIST-CSF-Policy-Template-Guide%20(1).pdf
 * file:///C:/Users/RyanHeavican/Downloads/NIST-Cybersecurity-Framework-Policy-Template-Guide-v2111Online%20(1).pdf
 * https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf
+
+## Implementation
+
+The following implementation tasks should be undertaken after completion of the policy templates.
+
+[This section to be expanded once policy template guides are completed]
+
+* **Assess Organizational Needs:** Evaluate the specific risks and requirements of your organization to tailor the template accordingly.
+* **Involve Stakeholders:** Engage relevant personnel, such as IT, HR, and legal teams, to ensure all perspectives are considered.
+* **Align with Existing Policies:** Make sure the new policy complements and aligns with other organizational policies.
+* **Review Regularly:** Establish a schedule for regular review and updates to keep the policy relevant and effective.
+

@@ -38,7 +38,7 @@ The [Respond Core Function](/pages/respond/respond.md) helps ensure that actions
 
 ### Recover
 
-The Recover Core Function helps ensure that assets and operations affected by a cybersecurity incident are restored. Recover supports the timely restoration of normal operations to reduce the effects of cybersecurity incidents and enable appropriate communication during recovery efforts.
+The [Recover Core Function](/pages/recover/recover.md) helps ensure that assets and operations affected by a cybersecurity incident are restored. Recover supports the timely restoration of normal operations to reduce the effects of cybersecurity incidents and enable appropriate communication during recovery efforts.
 
 ## Policies, Standards, and Procedures
 

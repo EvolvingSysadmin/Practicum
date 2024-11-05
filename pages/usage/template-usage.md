@@ -2,8 +2,6 @@
 
 These cybersecurity policy templates are pre-designed, editable documents that follow the high level Core Functions of the [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework). These templates can be used by small businesses to establish cybersecurity protocols and standards by providing a structured format, key components, and best practices.
 
-## Template Overview
-
 ## How to Use Templates for Your Organization
 
 To use these templates for your organization, first download the relevant policy/standard Microsoft Word document from the corresponding core function page. Upon download, follow these steps to complete the templates and implement the policy/standard within your organization:
@@ -14,6 +12,26 @@ To use these templates for your organization, first download the relevant policy
 4. Review related documents in Section 10.
 5. Save the document and print the necessary pages to a PDF or printer.
 6. Revisit this website, particularly the [implementation page](/pages/implementation/implementation.md), for further policy/standard creation and deployment resources.
+
+## About these Templates
+
+* Standards and procedures
+
+## Policies, Standards, and Procedures
+
+This site provides templates for both cybersecurity policies and standards. These policies and standards outline the procedures necessary to bolster organizational cybersecurity. Together, policies, standards, and procedures form a cohesive framework that helps organizations manage cybersecurity risks and protect critical assets. The differences between these policies, standards, and procedures are outlined below.
+
+### Policies
+
+*Policies are  ***WHY*** we should be doing something*
+
+Policies are high-level statements that define an organization's principles and strategic direction. They are decisions made by the governing body to guide behavior and decision-making in alignment with the organization’s long-term goals. In cybersecurity, policies outline why certain security measures are necessary, such as ensuring compliance with data protection laws or protecting sensitive information. Policies set the foundation for creating a secure and compliant organization.
+
+### Standards
+
+*Standards are ***WHAT*** we should be doing.*
+
+Standards are detailed rules or criteria that support and implement policies. They define the specific actions and expectations needed to meet policy goals, often relating to technical or operational practices. In cybersecurity, standards could include encryption protocols, password strength requirements, or accepted software configurations. Standards clarify what must be done to achieve security objectives and ensure consistency across the organization.
 
 ## Template Policy Components
 
@@ -38,37 +56,6 @@ These tampltes are essential for ensuring compliance, enhancing security posture
 * **Consistency:** Templates ensure that policies are uniform across departments and teams, reducing gaps in security measures.
 * **Compliance:** Many templates include considerations for legal and regulatory requirements, helping organizations meet their obligations.
 * **Best Practices:** They often incorporate industry best practices, which can improve the overall effectiveness of the organization’s security measures.
-
-## About these Templates
-
-* Standards and procedures
-
-## Policies, Standards, and Procedures
-
-This site provides templates for both cybersecurity policies and standards. These policies and standards outline the procedures necessary to bolster organizational cybersecurity. Together, policies, standards, and procedures form a cohesive framework that helps organizations manage cybersecurity risks and protect critical assets. The differences between these policies, standards, and procedures are outlined below.
-
-### Policies
-
-*Policies are  ***WHY*** we should be doing something*
-
-Policies are high-level statements that define an organization's principles and strategic direction. They are decisions made by the governing body to guide behavior and decision-making in alignment with the organization’s long-term goals. In cybersecurity, policies outline why certain security measures are necessary, such as ensuring compliance with data protection laws or protecting sensitive information. Policies set the foundation for creating a secure and compliant organization.
-
-### Standards
-
-*Standards are ***WHAT*** we should be doing.*
-
-Standards are detailed rules or criteria that support and implement policies. They define the specific actions and expectations needed to meet policy goals, often relating to technical or operational practices. In cybersecurity, standards could include encryption protocols, password strength requirements, or accepted software configurations. Standards clarify what must be done to achieve security objectives and ensure consistency across the organization.
-
-## Implementation
-
-The following implementation tasks should be undertaken after completion of the policy templates.
-
-[This section to be expanded once policy template guides are completed]
-
-* **Assess Organizational Needs:** Evaluate the specific risks and requirements of your organization to tailor the template accordingly.
-* **Involve Stakeholders:** Engage relevant personnel, such as IT, HR, and legal teams, to ensure all perspectives are considered.
-* **Align with Existing Policies:** Make sure the new policy complements and aligns with other organizational policies.
-* **Review Regularly:** Establish a schedule for regular review and updates to keep the policy relevant and effective.
 
 ## Downloads
 
