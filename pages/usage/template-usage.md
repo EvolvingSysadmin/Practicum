@@ -1,4 +1,4 @@
-# Policy Template Usage
+# Policy Template Instructions
 
 These cybersecurity policy templates are pre-designed, editable documents that follow the high level Core Functions of the [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework). These templates can be used by small businesses to establish cybersecurity protocols and standards by providing a structured format, key components, and best practices.
 
