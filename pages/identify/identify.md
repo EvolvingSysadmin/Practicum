@@ -39,8 +39,8 @@ The [NIST CSF 2.0](/pages/framework/framework.md) Identify function is the found
 
 ## References
 
-* https://csf.tools/reference/nist-cybersecurity-framework/v1-1/id/
-* https://www.nist.gov/cyberframework/identify
-* https://www.infosecinstitute.com/resources/nist-csf/nist-csf-core-functions-identify/
+* * Greg Belding. “NIST CSF Core Functions: Identify.” NIST Cyber Security Framework, Infosec Institute, 2 Jan. 2020, [https://www.infosecinstitute.com/resources/nist-csf/nist-csf-core-functions-identify](https://www.infosecinstitute.com/resources/nist-csf/nist-csf-core-functions-identify).
+* “Identify.” NIST, National Institute of Standards and Technology, 3 May 2021, [https://www.nist.gov/cyberframework/identify](https://www.nist.gov/cyberframework/identify).
+* “Identify - CSF Tools.” CSF Tools - The Cybersecurity Framework for Humans, 29 May 2021, [https://csf.tools/reference/nist-cybersecurity-framework/v1-1/id](https://csf.tools/reference/nist-cybersecurity-framework/v1-1/id).
 * National Institute of Standards and Technology. The NIST Cybersecurity Framework (CSF) 2.0, [https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf).
 * “NIST Cybersecurity Framework 2.0: Small Business Quick-Start Guide Overview.” NIST Cybersecurity Framework 2.0, National Institute of Standards and Technology, Feb. 2024, [https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf).

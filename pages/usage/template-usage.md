@@ -2,6 +2,8 @@
 
 These cybersecurity policy templates are pre-designed, editable documents that follow the high level Core Functions of the [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework). These templates can be used by small businesses to establish cybersecurity protocols and standards by providing a structured format, key components, and best practices.
 
+## Template Overview
+
 ## How to Use Templates for Your Organization
 
 To use these templates for your organization, first download the relevant policy/standard Microsoft Word document from the corresponding core function page. Upon download, follow these steps to complete the templates and implement the policy/standard within your organization:
@@ -61,8 +63,5 @@ The free cybersecurity policy templates provided by this site can be [downloaded
 * [**Recover**](/pages/recover/readme.md): Focuses on restoring capabilities and services after a cybersecurity incident to minimize disruption.
 
 ## References
-
-* <https://csrc.nist.gov/glossary/term/security_policy_templates>
-
 
 * Multi-State Information Sharing & Analysis Center. NIST Cybersecurity Framework Policy Template Guide, [https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/img/uploads/2021/11/NIST-Cybersecurity-Framework-Policy-Template-Guide-v2111Online.pdf](https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/img/uploads/2021/11/NIST-Cybersecurity-Framework-Policy-Template-Guide-v2111Online.pdf).

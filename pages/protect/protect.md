@@ -142,6 +142,13 @@ CONSIDER MOVING
 * **Document Link**: [System-and-Information-Integrity-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/protect/System-and-Information-Integrity-Policy.docx)
 * **NIST CSF 2.0 Category**: [Data Security](#data-security)
 
+### Secure Coding Standard
+
+* **Description**: The Secure Coding Standard ensures that code written is resilient to high-risk threats and to avoid the occurrence of the most common coding errors which create serious vulnerabilities in software.  While it is impossible to write code that is completely impervious to all possible attacks, implementing these coding standards throughout information systems will significantly reduce the risk of disclosure, alteration or destruction of information due to software vulnerabilities.
+* **Document Link**: [Secure-Coding-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/detect/Secure-Coding-Standard.docx)
+* **NIST CSF 2.0 Category**: [Continuous Monitoring](#continuous-monitoring)
+
+
 ## NIST CSF 2.0 Protect Categories
 
 ![NIST CSF 2.0 Protect Categories](/img/protect-categories.png)
@@ -180,8 +187,8 @@ CONSIDER MOVING
 
 ## References
 
-* https://csf.tools/reference/nist-cybersecurity-framework/v1-1/pr/
-* https://www.nist.gov/cyberframework/protect
-* https://www.manageengine.com/log-management/compliance/nist-csf-protect-function.html
 * National Institute of Standards and Technology. The NIST Cybersecurity Framework (CSF) 2.0, [https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf).
+* NIST CSF Protect Function Explained, ManageEngine Log360, [https://www.manageengine.com/log-management/compliance/nist-csf-protect-function.html](https://www.manageengine.com/log-management/compliance/nist-csf-protect-function.html). Accessed 5 Nov. 2024.
 * “NIST Cybersecurity Framework 2.0: Small Business Quick-Start Guide Overview.” NIST Cybersecurity Framework 2.0, National Institute of Standards and Technology, Feb. 2024, [https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf).
+* “Protect - CSF Tools.” CSF Tools - The Cybersecurity Framework for Humans, 29 May 2021, [https://csf.tools/reference/nist-cybersecurity-framework/v1-1/pr](https://csf.tools/reference/nist-cybersecurity-framework/v1-1/pr).
+* “Protect.” NIST, National Institute of Standards and Technology, 4 May 2021, [https://www.nist.gov/cyberframework/protect](https://www.nist.gov/cyberframework/protect).
