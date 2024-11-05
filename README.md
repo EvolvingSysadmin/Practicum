@@ -26,7 +26,7 @@ The [NIST Cybersecurity Framework (CSF) 2.0](/pages/framework/framework.md) offe
 
 ## Policies and Standards
 
-[Cybersecurity policies](/pages/overview/template-overview.md) are the foundation of any effective cybersecurity program, translating broad strategies from frameworks into actionable processes. Well-defined and implemented policies establish accountability, streamline decision-making, and ensure consistent responses to cybersecurity incidents, minimizing the risk of human error. Cybersecurity standards, on the other hand, provide specific, detailed, and measurable requirements for how cybersecurity practices should be implemented.
+[Cybersecurity policies](/pages/instructions/instructions.md) are the foundation of any effective cybersecurity program, translating broad strategies from frameworks into actionable processes. Well-defined and implemented policies establish accountability, streamline decision-making, and ensure consistent responses to cybersecurity incidents, minimizing the risk of human error. Cybersecurity standards, on the other hand, provide specific, detailed, and measurable requirements for how cybersecurity practices should be implemented.
 
 While policies define the overall goals and expectations, standards offer clear, actionable criteria to meet those objectives. Policies are strategic and flexible, whereas standards are more technical and prescriptive, focusing on the "how" and "what" of cybersecurity controls. Together, they ensure both high-level direction and practical execution.
 

@@ -2,7 +2,7 @@
 
 ## Original Templates
 
-[original templates](/templates/originals/)
+[original templates](/pages/resources/)
 
 ## NIST Cybersecurity Framework 2.0
 

@@ -1,6 +1,14 @@
 * ZIP
 
 
+ * Create implementation guide
+  * How to demonstrate compliance with these policies
+
+
+
+
+
+
 * Clean resources/TODO
 * Function Background
 * Links to multiple categories
@@ -10,16 +18,12 @@
 
 * Implementation guide for each core
 * Video
-
 * Spell check/proof read
 
 
 * Website Improvement
  * Template Overview
-   * Links to original
    * Video
- * Resources & Template Overview: links to originals
-   * Links to originals
 * Core function pages
   * Add related documents/policies
   * Update links
@@ -44,15 +48,12 @@
 
 * Site
   * Add docs from resources into pages
-  * Add 'how to use this' to homepage
   * Add collaborations page/instructions and mention on homepage
   * Add references that correspond with policy related documents
   * Mention that some of the policies cross over to different core functions
 * Ancillary tasks
   * Create PDFs
   * Review category mapping
-  * Create implementation guide
-    * How to demonstrate compliance with these policies
 
 * Finish page content for each core function
   * Reassess benefits/implementation tasks
