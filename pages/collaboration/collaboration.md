@@ -4,8 +4,7 @@ This website utilizes a [GitHub repository](https://github.com/EvolvingSysadmin/
 
 ## Downloads
 
-All templates can be downloaded by cloning this GitHub repository or by downloading individual files directly from the website template pages. This flexibility allows users to quickly access the templates they need without unnecessary complications. Each template is provided in an easily editable format, enabling users to adapt the policies to their specific organizational requirements. The repository can be cloned via [this web URL](https://github.com/EvolvingSysadmin/Practicum.git) and can also be downloaded as a [zip folder here](https://github.com/EvolvingSysadmin/Practicum/archive/refs/heads/main.zip).
-
+All templates can be downloaded by cloning this GitHub repository or by downloading individual files directly from the website template pages. This flexibility allows users to quickly access the templates they need without unnecessary complications. Each template is provided in an easily editable format, enabling users to adapt the policies to their specific organizational requirements. The repository can be cloned via [this GitHub URL](https://github.com/EvolvingSysadmin/Practicum.git) and can also be downloaded as a [zip folder here](https://github.com/EvolvingSysadmin/Practicum/archive/refs/heads/main.zip).
 
 ## Branches and Pull Requests
 
@@ -15,13 +14,14 @@ To contribute effectively, [users can fork the repository](https://docs.github.c
 
 ## Discussions
 
-The Discussions section serves as a forum for users to engage with one another about best practices, policy implementation, and cybersecurity challenges. Here, community members can share insights, ask questions, and propose new ideas for templates or features. This collaborative space fosters knowledge sharing and enables users to leverage the collective expertise of the community, ultimately contributing to stronger cybersecurity practices across the board.
+The [Discussions section](https://github.com/EvolvingSysadmin/Practicum/discussions) serves as a forum for users to engage with one another about best practices, policy implementation, and cybersecurity challenges. Here, community members can share insights, ask questions, and propose new ideas for templates or features. This collaborative space fosters knowledge sharing and enables users to leverage the collective expertise of the community, ultimately contributing to stronger cybersecurity practices across the board.
 
 ## Issues
 
-Users can report any issues or concerns they encounter with the templates or the repository through the Issues section of GitHub. This feature enables the community to track bugs, suggest improvements, and request new templates. Contributors and maintainers actively monitor this section to ensure that all feedback is addressed promptly, fostering a responsive and supportive environment for collaboration.
+Users can report any issues or concerns they encounter with the templates or the repository through the [Issues section of GitHub](https://github.com/EvolvingSysadmin/Practicum/issues). This feature enables the community to track bugs, suggest improvements, and request new templates. Contributors and maintainers actively monitor this section to ensure that all feedback is addressed promptly, fostering a responsive and supportive environment for collaboration.
 
 ## Resources
 
 * “Contributing to a Project.” GitHub Docs, GitHub, [https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project). Accessed 5 Nov. 2024.
-* “GitHub - Contributing to a Project.” Git, [https://git-scm.com/book/ms/v2/GitHub-Contributing-to-a-Project](https://git-scm.com/book/ms/v2/GitHub-Contributing-to-a-Project). Accessed 5 Nov. 2024. 
+* “GitHub - Contributing to a Project.” Git, [https://git-scm.com/book/ms/v2/GitHub-Contributing-to-a-Project](https://git-scm.com/book/ms/v2/GitHub-Contributing-to-a-Project). Accessed 5 Nov. 2024.
+* Heavican, Ryan. “Practicum Project Repository.” GitHub, [https://github.com/EvolvingSysadmin/Practicum](https://github.com/EvolvingSysadmin/Practicum). Accessed 5 Nov. 2024.
