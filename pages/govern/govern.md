@@ -8,7 +8,7 @@ The Govern function provides insights to help prioritize and achieve the outcome
 
 ## Govern Policy Templates
 
-The following Govern policy and standard templates help ensure that the NIST CSF Govern categories are adequately addressed, including [Organizational Context](#organizational-context); [Risk Management Strategy](#risk-management-strategy), [Roles, Responsibilities, and Authorities](#roles-responsibilities-and-authorities); [Policy](#policy); and [Oversight](#oversight):
+The following policy and standard templates help ensure that the NIST CSF Govern categories are adequately addressed, including [Organizational Context](#organizational-context); [Risk Management Strategy](#risk-management-strategy), [Roles, Responsibilities, and Authorities](#roles-responsibilities-and-authorities); [Policy](#policy); and [Oversight](#oversight):
 
 * [Information Security Policy](#information-security-policy)
 * [Acceptable Use of Information Technology Resources Policy](#acceptable-use-of-information-technology-resources-policy)

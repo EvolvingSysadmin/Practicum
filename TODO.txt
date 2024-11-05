@@ -1,18 +1,18 @@
-
+* Function Background
+* Links to multiple categories
 
 
 * Polish each function page
+  * Links to multiple categories?
+
 
 Includes the following Policies and Standards
 Add number of docs to homepage/usage pages/category pages
-Primary Categories
 
 * Implementation guide for each core
 * Standards v policies in template overview
 * Zip
 * Video
-
-
 
 
 

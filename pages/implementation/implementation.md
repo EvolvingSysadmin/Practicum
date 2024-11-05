@@ -26,3 +26,8 @@ Implementation after policy completion is essential.
 
 * Kallman, Teresa. “Enforcing Company Policies: Why It’s Important & How To Enforce Them.” Paychex WORX Blog, Paychex, 31 Oct. 2023, [https://www.paychex.com/articles/human-resources/importance-of-enforcing-workplace-policies](https://www.paychex.com/articles/human-resources/importance-of-enforcing-workplace-policies).
 * “Structuring a Successful Policy Implementation Plan in 5 Steps.” ComplianceBridge, ComplianceBridge, 12 Dec. 2023, [https://compliancebridge.com/policy-implementation-plan](https://compliancebridge.com/policy-implementation-plan/).
+
+
+* file:///C:/Users/RyanHeavican/Downloads/NIST-CSF-Policy-Template-Guide%20(1).pdf
+* file:///C:/Users/RyanHeavican/Downloads/NIST-Cybersecurity-Framework-Policy-Template-Guide-v2111Online%20(1).pdf
+* https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf

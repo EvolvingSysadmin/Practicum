@@ -8,7 +8,28 @@ Safeguards to manage the organization’s cybersecurity risks are used. Once ass
 
 ## Protect Policy Templates
 
-The following Govern policy and standard templates help ensure that the NIST CSF Govern categories are adequately addressed, including Organizational Context, Risk Management Strategy, Roles, Responsibilities, and Authorities, Policy, and Oversight.
+The following policy and standard templates help ensure that the NIST CSF Protect categories are adequately addressed, including [Identity Management, Authentication, and Access Control](#identity-management-authentication-and-access-control); [Awareness and Training](#awareness-and-training); [Data Security](#data-security); [Platform Security](#platform-security); and [Technology Infrastructure Resilience](#technology-infrastructure-resilience):
+
+* [802.11 Wireless Network Security Standard](#80211-wireless-network-security-standard)
+* [Access Control Policy](#access-control-policy)
+* [Account Management Access Control Standard](#account-management-access-control-standard)
+* [Authentication Tokens Standard](#authentication-tokens-standard)
+* [Encryption Standard](#encryption-standard)
+* [Identification and Authentication Policy](#identification-and-authentication-policy)
+* [Information Classification Standard](#information-classification-standard)
+* [Maintenance Policy](#maintenance-policy)
+* [Media Protection Policy](#media-protection-policy)
+* [Mobile Device Security Standard](#mobile-device-security-standard)
+* [Patch Management Standard](#patch-management-standard)
+* [Physical and Environmental Protection Policy](#physical-and-environmental-protection-policy)
+* [Remote Access Standard](#remote-access-standard)
+* [Sanitization and Secure Disposal Standard](#sanitization-and-secure-disposal-standard)
+* [Security Awareness and Training Policy](#security-awareness-and-training-policy)
+* [System and Communications Protection Policy](#system-and-communications-protection-policy)
+* [System and Information Integrity Policy](#system-and-information-integrity-policy)
+* [Secure Coding Standard](#secure-coding-standard)
+
+Visit the [Template Usage](/pages/usage/template-usage.md) page for help completing these templates and the [Implementation Guide](/pages/implementation/implementation.md) page for tips on how to implement these policies and standards once the templates are completed.
 
 ### 802.11 Wireless Network Security Standard
 
@@ -34,12 +55,6 @@ The following Govern policy and standard templates help ensure that the NIST CSF
 * **Document Link**: [Authentication-Tokens-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/protect/Authentication-Tokens-Standard.docx)
 * **Primary NIST CSF 2.0 Category**: [Identity Management, Authentication, and Access Control](#identity-management-authentication-and-access-control)
 
-### Configuration Management Policy
-
-* **Description**: The Configuration Management Policy ensures that Information Technology resources are inventoried and configured in compliance with IT security policies, standards, and procedures.  
-* **Document Link**: [Configuration-Management-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/protect/Configuration-Management-Policy.docx)
-* **Primary NIST CSF 2.0 Category**: [Platform Security](#platform-security)
-
 ### Encryption Standard
 
 * **Description**: The Encryption Standard defines the organizational use of encryption. Encryption is a cryptographic operation that is used to enhance security and protect the electronic data (“data”) by transforming readable information (“plaintext”) into unintelligible information (“ciphertext”).  Encryption is an effective tool in mitigating the threat of unauthorized access to data.
@@ -57,12 +72,6 @@ The following Govern policy and standard templates help ensure that the NIST CSF
 * **Description**: The Information Classification Standard outlines a classification process and provides procedures for classifying information in a manner that uniformly protects information entrusted to the entity.
 * **Document Link**: [Information-Classification-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/protect/Information-Classification-Standard.docx)
 * **Primary NIST CSF 2.0 Category**: [Data Security](#data-security)
-
-### Maintenance Policy
-
-* **Description**: The Maintenance Policy ensures that Information Technology resources are maintained in compliance with IT security policies, standards, and procedures.
-* **Document Link**: [Maintenance-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/protect/Maintenance-Policy.docx)
-* **Primary NIST CSF 2.0 Category**: [Platform Security](#platform-security)
 
 ### Media Protection Policy
 
@@ -99,18 +108,6 @@ The following Govern policy and standard templates help ensure that the NIST CSF
 * **Description**: The Sanitization and Secure Disposal Standard outlines applicable media that needs special disposition, and how that media will be disposed, in order to mitigate the risk of unauthorized disclosure of information and to ensure its confidentiality.
 * **Document Link**: [Sanitization-Secure-Disposal-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/protect/Sanitization-and-Secure-Disposal-Standard.docx)
 * **Primary NIST CSF 2.0 Category**: [Data Security](#data-security)
-
-### Secure Configuration Standard
-
-* **Description**: The Secure Configuration Standard establishes baseline configurations for information systems that are owned and/or operated by the entity. Effective implementation of this standard will maximize security and minimize the potential risk of unauthorized access to information and technology.
-* **Document Link**: [Secure-Configuration-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/protect/Secure-Configuration-Standard.docx)
-* **Primary NIST CSF 2.0 Category**:
-
-### Secure System Development Life Cycle Standard
-
-* **Description**: The Secure System Development Life Cycle Standard ensures that information security is adequately considered and built into every phase of the SDLC.  Failure to identify risks and implement proper controls can result in inadequate security, potentially putting entities at risk of data breaches, reputational exposure, loss of public trust, compromise to systems/networks, financial penalties and legal liability.
-* **Document Link**: [Secure-System-Development-Life-Cycle-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/protect/Secure-System-Development-Life-Cycle-Standard.docx)
-* **Primary NIST CSF 2.0 Category**: [Platform Security](#platform-security)
 
 ### Security Awareness and Training Policy
 

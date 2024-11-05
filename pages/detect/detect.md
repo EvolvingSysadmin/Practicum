@@ -8,7 +8,13 @@ Possible cybersecurity attacks and compromises are found and analyzed. The Detec
 
 ## Detect Policy Templates
 
-The following Govern policy and standard templates help ensure that the NIST CSF Govern categories are adequately addressed, including Organizational Context, Risk Management Strategy, Roles, Responsibilities, and Authorities, Policy, and Oversight.
+The following policy and standard templates help ensure that the NIST CSF Detect categories are adequately addressed, including [Continuous Monitoring](#continuous-monitoring) and [Adverse Event Analysis](#adverse-event-analysis):
+
+* [Auditing and Accountability Policy](#auditing-and-accountability-policy)
+* [Security Logging Standard](#security-logging-standard)
+* [Vulnerability Scanning Standard](#vulnerability-scanning-standard)
+
+Visit the [Template Usage](/pages/usage/template-usage.md) page for help completing these templates and the [Implementation Guide](/pages/implementation/implementation.md) page for tips on how to implement these policies and standards once the templates are completed.
 
 ### Auditing and Accountability Policy
 
