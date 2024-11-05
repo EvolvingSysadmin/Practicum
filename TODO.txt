@@ -1,7 +1,3 @@
-* Site Quality
-  * Spell check/proof all pages
-  * Ensure no links are broken
-  * Have Caroline proof pages
 * Implementation Page
   * Create a general guide and guides for implementing each function
   * How to demonstrate compliance?
@@ -14,14 +10,18 @@
     * https://www.cisecurity.org/wp-content/uploads/2019/08/NIST-CSF-Policy-Template-Guide.pdf
     * https://www.paychex.com/articles/human-resources/importance-of-enforcing-workplace-policies
     * https://compliancebridge.com/policy-implementation-plan/
-* Resources Page
 * Core Function Pages
   * Add links to multiple categories?
   * Add NIST related documents as another category? 
+* Resources Page?
 * Videos
   * Walkthrough of site pages
   * Walkthrough of template usage
   * Publish template usage to the site to instructions.md page
+* Site Quality
+  * Spell check/proof all pages
+  * Ensure no links are broken
+  * Have Caroline proof pages and check a few templates
 * Template Quality
   * Review scope?
   * Go back through category mapping/consider new policies
