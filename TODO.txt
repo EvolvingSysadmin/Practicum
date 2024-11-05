@@ -1,13 +1,9 @@
 * ZIP
 
-Add number of docs to homepage/usage pages/category pages
 
 * Clean resources/TODO
-
 * Function Background
-
 * Links to multiple categories
-* Standards v policies in template overview
 
 
 
@@ -18,16 +14,10 @@ Add number of docs to homepage/usage pages/category pages
 * Spell check/proof read
 
 
-
 * Website Improvement
  * Template Overview
    * Links to original
-   * How to use
-   * History of these templates
    * Video
-    * Standards v policies: 
-      * https://complianceforge.com/blog/policy-vs-standard-vs-control-vs-procedure/
-      * https://idenhaus.com/policy-vs-standards-vs-procedures/
  * Resources & Template Overview: links to originals
    * Links to originals
 * Core function pages
@@ -36,7 +26,6 @@ Add number of docs to homepage/usage pages/category pages
   * Standards v Policies
   * Categories: https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf
 * Guides
-* Collaboration
 * Review scope?
 * Review Josh's tips
 * Go through: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf
@@ -62,8 +51,6 @@ Add number of docs to homepage/usage pages/category pages
 * Ancillary tasks
   * Create PDFs
   * Review category mapping
-  * Consider new policies
-  * Add an 'about these templates' section about where they originated
   * Create implementation guide
     * How to demonstrate compliance with these policies
 
@@ -73,18 +60,3 @@ Add number of docs to homepage/usage pages/category pages
 * Create implementation guides, including CSF profiles, enforcement actions, exemptions
   * Add links from template pages
 * Suggest different policy packages depending on profile/tier?
-
-Include benefits?
-
-* Clear accountability for cybersecurity initiatives.
-* Enhanced alignment of cybersecurity efforts with business goals.
-* Improved visibility into organizational risks.
-* Enhanced decision-making for resource allocation and risk management.
-* Reduced likelihood of successful cyberattacks.
-* Enhanced resilience against potential breaches.
-* Faster restoration of critical functions.
-* Improved resilience and readiness for future incidents.
-* Reduced impact of cybersecurity incidents.
-* Enhanced organizational learning and improvement.
-* Timely identification of threats and vulnerabilities.
-* Improved response capabilities through early detection.

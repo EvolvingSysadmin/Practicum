@@ -1,5 +1,9 @@
 # Cybersecurity Framework Resources
 
+## Original Templates
+
+[original templates](/templates/originals/)
+
 ## NIST Cybersecurity Framework 2.0
 
 - [CSF 2.0 Resource Center](https://www.nist.gov/cyberframework)
