@@ -142,14 +142,6 @@ CONSIDER MOVING
 * **Document Link**: [System-and-Information-Integrity-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/protect/System-and-Information-Integrity-Policy.docx)
 * **NIST CSF 2.0 Category**: [Data Security](#data-security)
 
-### System and Services Acquisition Policy
-
-THINK ABOUT CHANGING TO GOVERN
-
-* **Description**: The System and Services Acquisition Policy ensures that Information Technology resources and information systems are acquired with security requirements to meet the information systems mission and business objectives.
-* **Document Link**: [System-and-Services-Acquisition-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/protect/System-and-Services-Acquisition-Policy.docx)
-* **NIST CSF 2.0 Category**: [Platform Security](#platform-security)
-
 ## NIST CSF 2.0 Categories
 
 ### Identity Management, Authentication, and Access Control

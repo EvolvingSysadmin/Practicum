@@ -85,10 +85,10 @@ By 2022, the need for a major update was recognized due to emerging threats from
 
 ## References
 
-* <https://www.nist.gov/cyberframework>
-* <https://csf.tools/reference/nist-cybersecurity-framework/v2-0/>
-* <https://advisera.com/articles/nist-cyber-security-framework/>
-* <https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf>
-* <https://obamawhitehouse.archives.gov/the-press-office/2013/02/12/executive-order-improving-critical-infrastructure-cybersecurity>
-* <https://www.nist.gov/cyberframework/csf-11-archive>
-* <https://www.nist.gov/news-events/news/2023/08/nist-releases-20-cybersecurity-framework>
+* “Cybersecurity Framework V2.0.” The Cybersecurity Framework V2.0, CSF Tools , 26 Feb. 2024, [https://csf.tools/reference/nist-cybersecurity-framework/v2-0/](https://csf.tools/reference/nist-cybersecurity-framework/v2-0).
+* “NIST Releases Version 2.0 of Landmark Cybersecurity Framework.” NIST, National Institute of Standards and Technology, 26 Feb. 2024, [www.nist.gov/news-events/news/2024/02/nist-releases-version-20-landmark-cybersecurity-framework](https://www.nist.gov/news-events/news/2024/02/nist-releases-version-20-landmark-cybersecurity-framework).
+* CSF 1.1 Archive, National Institute of Standards and Technology, 26 Feb. 2024, [www.nist.gov/cyberframework/csf-11-archive](https://www.nist.gov/cyberframework/csf-11-archive).
+* Executive Order. No. 13636, 2013, [https://obamawhitehouse.archives.gov/the-press-office/2013/02/12/executive-order-improving-critical-infrastructure-cybersecurity](https://obamawhitehouse.archives.gov/the-press-office/2013/02/12/executive-order-improving-critical-infrastructure-cybersecurity).
+* National Institute of Standards and Technology. The NIST Cybersecurity Framework (CSF) 2.0, [https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf).
+* NIST Cybersecurity Framework, National Institute of Standards and Technology, 31 Oct. 2024, [www.nist.gov/cyberframework](https://www.nist.gov/cyberframework).
+* Valentic, Branimir. “What Is NIST Cybersecurity Framework? Who Should Use It & Why?” Advisera, 24 June 2024, [https://advisera.com/articles/nist-cyber-security-framework](https://advisera.com/articles/nist-cyber-security-framework).

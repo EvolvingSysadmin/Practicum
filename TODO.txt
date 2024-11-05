@@ -18,7 +18,7 @@
 * Collaboration
 * Review scope?
 * Review Josh's tips
-* References format?
+* Go through: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf
 
 * Potential:
   * Mention that some of the policies cross over to different core functions
@@ -67,4 +67,3 @@ Include benefits?
 * Enhanced organizational learning and improvement.
 * Timely identification of threats and vulnerabilities.
 * Improved response capabilities through early detection.
-
