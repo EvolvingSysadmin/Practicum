@@ -14,6 +14,7 @@
   * Add related documents/policies
   * Update links
   * Standards v Policies
+  * Categories: https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf
 * Guides
 * Collaboration
 * Review scope?

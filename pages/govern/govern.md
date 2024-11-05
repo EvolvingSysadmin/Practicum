@@ -90,9 +90,3 @@ The Govern function provides insights to help prioritize and achieve the outcome
 * Nihill, Caroline. “Updated NIST Cybersecurity Framework Adds Core Function, Focuses on Supply Chain Risk Management.” FedScoop, 26 Feb. 2024, [https://fedscoop.com/updated-nist-cybersecurity-framework-adds-core-function-focuses-on-supply-chain-risk-management](https://fedscoop.com/updated-nist-cybersecurity-framework-adds-core-function-focuses-on-supply-chain-risk-management).
 * “NIST Cybersecurity Framework 2.0: Small Business Quick-Start Guide Overview.” NIST Cybersecurity Framework 2.0, National Institute of Standards and Technology, Feb. 2024, [https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf).
 * Quinn, Stephen, et al. “Staging Cybersecurity Risks for Enterprise Risk Management and Governance Oversight.” Computer Security Resource Center, 6 Mar. 2024, [https://csrc.nist.gov/pubs/ir/8286/c/upd1/final](https://csrc.nist.gov/pubs/ir/8286/c/upd1/final).
-
-
-Each Function is named after a verb that summarizes its contents. Each Function is divided into
-Categories, which are related cybersecurity outcomes that collectively comprise the Function.
-Subcategories further divide each Category into more specific outcomes of technical and
-management activities. The Subcategor
