@@ -1,8 +1,10 @@
 # Identify
 
-Download free policy and standard templates for the [NIST CSF 2.0](/pages/framework/framework.md) Identify Core Function, which focuses on understanding the organizational environment and the risks to its systems, people, assets, and data. Policies related to the Identify function help organizations establish a comprehensive risk management strategy.
+Download free policy and standard templates for the [NIST CSF 2.0](/pages/framework/framework.md) Identify Core Function, which focuses on understanding the organizational environment and the risks to its systems, people, assets, and data.
 
 ## Identify Function Background
+
+The Identify Function helps organizations understand their cybersecurity risks and establish a robust risk management strategy. By identifying key assets (such as data, hardware, software, systems, facilities, services, and personnel) along with suppliers and associated risks, this function enables organizations to prioritize their efforts in alignment with their risk management objectives. It also includes identifying opportunities to enhance policies, plans, processes, procedures, and practices that support effective cybersecurity risk management.
 
 ## Identify Policy Templates
 

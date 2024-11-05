@@ -17,9 +17,9 @@ To use these templates for your organization, first download the relevant policy
 
 The templates available on this site are based on those provided by the State of New York and the State of California, through the [Multi-State Information Sharing and Analysis Center (MS-ISAC)](https://www.cisecurity.org/ms-isac). MS-ISAC is a national organization that offers cybersecurity resources, threat intelligence, and collaborative support to help state, local, tribal, and territorial governments protect their information systems from cyber threats.
 
-The [original templates](/templates/originals/) have been modified to better meet the needs of small and medium-sized businesses (SMBs), with improvements such as uniform formatting and the ability to update multiple sections simultaneously. These templates can, and should, also be customized further to align with an organization's specific policies.
+The [original templates](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/resources/original-templates.zip) have been modified to better meet the needs of small and medium-sized businesses (SMBs), with improvements such as uniform formatting and the ability to update multiple sections simultaneously. These templates can, and should, also be customized further to align with an organization's specific policies.
 
-However, users should note that the templates may not reflect the latest NIST revisions and should be used as a starting point only. Additionally, these templates are not for commercial use or monetary gain by any organization.
+Users should note that the templates may not reflect the latest NIST revisions and should be used as a starting point only. Additionally, these templates are not for commercial use or monetary gain by any organization. The templates are organized by NIST CSF 2.0 Core Function and are linked to primary NIST CSF Categories within the Core Functions. However, individual policies/standards may apply to multiple Categories across numerous Core Functions.
 
 ## Template Sections
 

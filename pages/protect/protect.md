@@ -4,7 +4,7 @@ Download free policy and standard templates for the [NIST CSF 2.0](/pages/framew
 
 ## Protect Function Background
 
-Safeguards to manage the organization’s cybersecurity risks are used. Once assets and risks are identified and prioritized, the Protect function supports the ability to secure those assets to prevent or lower the likelihood and impact of adverse cybersecurity events, as well as to increase the likelihood and impact of taking advantage of opportunities. Outcomes covered by this Function include identity management, authentication, and access control; awareness and training; data security; platform security (i.e., securing the hardware, software, and services of physical and virtual platforms); and the resilience of technology infrastructure.
+The Protect Function defines the necessary safeguards to manage an organization’s cybersecurity risks. After identifying and prioritizing assets and risks, this function focuses on securing those assets to reduce the likelihood and impact of adverse cybersecurity events while enhancing opportunities for success. Key outcomes of the Protect function include identity management, authentication, and access control; security awareness and training; data protection; platform security (securing hardware, software, and services for both physical and virtual platforms); and the resilience of technology infrastructure.
 
 ## Protect Policy Templates
 

@@ -1,10 +1,10 @@
 # Detect
 
-Download free policy and standard templates for the [NIST CSF 2.0](/pages/framework/framework.md) Detect Core Function, which focuses on identifying the occurrence of a cybersecurity event in a timely manner. This involves continuous monitoring and assessment of systems to quickly spot anomalies and potential threats.
+Download free policy and standard templates for the [NIST CSF 2.0](/pages/framework/framework.md) Detect Core Function, which focuses on identifying possible cybersecurity attacks and compromises in a timely manner.
 
 ## Detect Function Background
 
-Possible cybersecurity attacks and compromises are found and analyzed. The Detect function enables the timely discovery and analysis of anomalies, indicators of compromise, and other potentially adverse events that may indicate that cybersecurity attacks and incidents are occurring. This Function supports successful incident response and recovery activities.
+The Detect Function is designed to identify and analyze potential cybersecurity attacks and compromises. It enables the timely detection of anomalies, indicators of compromise, and other events that may signal active threats or incidents. By supporting rapid incident response and recovery, this function emphasizes continuous monitoring and assessment of systems to quickly identify and address emerging risks.
 
 ## Detect Policy Templates
 

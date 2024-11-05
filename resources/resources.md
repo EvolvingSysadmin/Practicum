@@ -2,7 +2,7 @@
 
 ## Original Templates
 
-[original templates](/pages/resources/)
+[original templates](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/resources/original-templates.zip)
 
 ## NIST Cybersecurity Framework 2.0
 

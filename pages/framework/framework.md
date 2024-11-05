@@ -5,8 +5,9 @@ The [NIST Cybersecurity Framework (CSF) 2.0](https://www.nist.gov/cyberframework
 
 ## CSF 2.0 Core
 
-The CSF 2.0 Core is the nucleus of the CSF, which is a taxonomy of high-level cybersecurity outcomes that can help any organization manage its cybersecurity risks. The CSF Core
-components are a hierarchy of Functions, Categories, and Subcategories that detail each outcome.
+The CSF 2.0 Core is the nucleus of the NIST Cybersecurity Framework. This core serves as a set of high-level cybersecurity outcomes to help organizations manage their cybersecurity risks. It is structured as a hierarchy of Functions, Categories, and Subcategories, each defining a specific cybersecurity goal.
+
+Familiarity with the CSF 2.0 Core is essential, as the templates provided on this site are organized according to the Core Functions and linked to relevant Categories within each Function. Bear in mind that some templates may apply to multiple Categories across different Functions.
 
 ![CSF 2.0 Core, Categories, and Subcategories Relationship](/img/nist-csf-2-core-relationships.png)
 

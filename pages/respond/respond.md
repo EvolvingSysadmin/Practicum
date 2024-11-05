@@ -4,7 +4,7 @@ Download free policy and standard templates for the [NIST CSF 2.0](/pages/framew
 
 ## Respond Function Background
 
-Actions regarding a detected cybersecurity incident are taken. The Respond function supports the ability to contain the effects of cybersecurity incidents. Outcomes within this Function cover incident management, analysis, mitigation, reporting, and communication.
+The Respond Function focuses on taking immediate action to contain and mitigate the effects of a detected cybersecurity incident. It includes incident management, analysis, communication, and reporting to ensure a coordinated and effective response. This function helps organizations limit the impact of incidents, restore normal operations, and document the event for future analysis and improvements.
 
 ## Respond Policy Templates
 

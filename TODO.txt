@@ -1,63 +1,33 @@
-* ZIP
-
-
- * Create implementation guide
-  * How to demonstrate compliance with these policies
-
-
-
-
-
-
-* Clean resources/TODO
-* Function Background
-* Links to multiple categories
-
-
-
-
-* Implementation guide for each core
-* Video
-* Spell check/proof read
-
-
-* Website Improvement
- * Template Overview
-   * Video
-* Core function pages
-  * Add related documents/policies
-  * Update links
-  * Standards v Policies
-  * Categories: https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf
-* Guides
-* Review scope?
-* Review Josh's tips
-* Go through: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf
-
-* Potential:
-  * Mention that some of the policies cross over to different core functions
+* Site Quality
+  * Spell check/proof all pages
+  * Ensure no links are broken
+  * Have Caroline proof pages
+* Implementation Page
+  * Create a general guide and guides for implementing each function
+  * How to demonstrate compliance?
+  * Mention CSF profiles and enforcement actions?
+  * Suggest different policy packages depending on profile/tier?
+  * Use the following resources for implementation guides:
+    * https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf
+    * https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/img/uploads/2021/11/NIST-Cybersecurity-Framework-Policy-Template-Guide-v2111Online.pdf
+    * https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf
+    * https://www.cisecurity.org/wp-content/uploads/2019/08/NIST-CSF-Policy-Template-Guide.pdf
+    * https://www.paychex.com/articles/human-resources/importance-of-enforcing-workplace-policies
+    * https://compliancebridge.com/policy-implementation-plan/
+* Resources Page
+* Core Function Pages
+  * Add links to multiple categories?
+  * Add NIST related documents as another category? 
+* Videos
+  * Walkthrough of site pages
+  * Walkthrough of template usage
+  * Publish template usage to the site to instructions.md page
+* Template Quality
+  * Review scope?
   * Go back through category mapping/consider new policies
-  * Rewrite scope
-  * How to demonstrate compliance with these policies
-  * Links to implementation guides within instructions (can be to blank doc initially)
-
-* What I'd do different:
-  * Get feedback on policy templates sooner
-  * Centralized content to make editing docs less tedious
-
-
-* Site
-  * Add docs from resources into pages
-  * Add collaborations page/instructions and mention on homepage
-  * Add references that correspond with policy related documents
-  * Mention that some of the policies cross over to different core functions
-* Ancillary tasks
-  * Create PDFs
-  * Review category mapping
-
-* Finish page content for each core function
-  * Reassess benefits/implementation tasks
-  * Ensure content is well written and edited
-* Create implementation guides, including CSF profiles, enforcement actions, exemptions
-  * Add links from template pages
-* Suggest different policy packages depending on profile/tier?
+* Ancillary
+  * Create PDFs?
+  * What I'd do differently
+    * Get feedback on policy templates sooner
+    * Centralized content to make editing docs less tedious
+  
