@@ -8,7 +8,7 @@
 
 ## Policy Templates
 
-* [Template Usage](pages/overview/template-overview.md)
+* [Template Usage](pages/overview/template-usage.md)
 * [Govern](pages/govern/govern.md)
 * [Identify](pages/identify/identify.md)
 * [Protect](pages/protect/protect.md)
