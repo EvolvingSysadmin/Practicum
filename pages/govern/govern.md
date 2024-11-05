@@ -1,14 +1,12 @@
 # Govern
 
-## Summary
+Download free policy and standard templates for the [NIST CSF 2.0](/pages/framework/framework.md) Govern Core Function, which ensures that a small business's cybersecurity risk management strategy, expectations, and overall policy are established, communicated, and monitored.
 
-The [NIST CSF 2.0](/pages/framework/framework.md) Govern core function ensures that a small Business's cybersecurity risk management strategy, expectations, and policy are established, communicated, and monitored.
-
-## Background
+## Govern Function Background
 
 The Govern function provides insights to help prioritize and achieve the outcomes of the other five Functions in line with the organization’s mission and stakeholder expectations. Governance activities are essential for integrating cybersecurity into the broader enterprise risk management (ERM) strategy. The Govern function encompasses understanding the organizational context, establishing the cybersecurity strategy and supply chain risk management, defining roles and responsibilities, creating policies, and overseeing cybersecurity initiatives.
 
-## Policy Templates
+## Govern Policy Templates
 
 ### Information Security Policy
 
@@ -38,7 +36,7 @@ The Govern function provides insights to help prioritize and achieve the outcome
 
 * **Description**: The System and Services Acquisition Policy ensures that Information Technology resources and information systems are acquired with security requirements to meet the information systems mission and business objectives.
 * **Document Link**: [Systems-and-Services-Acquisition-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/govern/Systems-and-Services-Acquisition-Policy.docx)
-* **NIST CSF 2.0 Category**: [Cybersecurity Supply Chain Risk Management](#cybersecurity-supply-chain-risk-management)
+* **Primary NIST CSF 2.0 Category**: [Cybersecurity Supply Chain Risk Management](#cybersecurity-supply-chain-risk-management)
 
 ### Information Security Risk Management Standard
 

@@ -1,20 +1,18 @@
 # Recover
 
-## Summary
+Download free policy and standard templates for the [NIST CSF 2.0](/pages/framework/framework.md) Recover Core Function that emphasizes the importance of restoring and maintaining normal operations after a cybersecurity incident. It ensures that organizations can quickly bounce back from disruptions.
 
-The [NIST CSF 2.0](/pages/framework/framework.md) Recover core function emphasizes the importance of restoring and maintaining normal operations after a cybersecurity incident. It ensures that organizations can quickly bounce back from disruptions.
-
-## Background
+## Recover Function Background
 
 Assets and operations affected by a cybersecurity incident are restored. The Recover function supports the timely restoration of normal operations to reduce the effects of cybersecurity incidents and enable appropriate communication during recovery efforts.
 
-## Policy Templates
+## Recover Policy Templates
 
 ### Contingency Planning Policy
 
 * **Description**: The Contingency Planning Policy ensure that normal Information Technology resources and information systems are available during times of disruption of services.
 * **Document Link**: [Contingency-Planning-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/recover/Contingency-Planning-Policy.docx)
-* **Categories**: [Incident Recovery Plan Execution](#incident-recovery-plan-execution)
+* **Primary NIST CSF 2.0 Category**: [Incident Recovery Plan Execution](#incident-recovery-plan-execution)
 
 ## NIST CSF 2.0 Recover Categories
 
