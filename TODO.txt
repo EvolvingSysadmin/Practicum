@@ -1,3 +1,7 @@
+* ZIP
+
+Add number of docs to homepage/usage pages/category pages
+
 * Clean resources/TODO
 
 * Function Background
@@ -6,11 +10,9 @@
 * Standards v policies in template overview
 
 
-Includes the following Policies and Standards
-Add number of docs to homepage/usage pages/category pages
+
 
 * Implementation guide for each core
-* Zip
 * Video
 
 * Spell check/proof read

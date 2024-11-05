@@ -1,6 +1,6 @@
 # Policy Template Instructions
 
-These cybersecurity policy templates are pre-designed, editable documents that follow the high level Core Functions of the [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework). These templates can be used by small businesses to establish cybersecurity protocols and standards by providing a structured format, key components, and best practices.
+These 36 cybersecurity policy and standards templates are pre-designed, editable documents that follow the high level Core Functions of the [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework). These templates can be used by small businesses to establish cybersecurity protocols and standards by providing a structured format, key components, and best practices.
 
 ## How to Use Templates for Your Organization
 
@@ -13,40 +13,28 @@ To use these templates for your organization, first download the relevant policy
 5. Save the document and print the necessary pages to a PDF or printer.
 6. Revisit this website, particularly the [implementation page](/pages/implementation/implementation.md), for further policy/standard creation and deployment resources.
 
-## About these Templates
+## About These Templates
 
-* Standards and procedures
+The templates available on this site are based on those provided by the State of New York and the State of California, through the [Multi-State Information Sharing and Analysis Center (MS-ISAC)](https://www.cisecurity.org/ms-isac). MS-ISAC is a national organization that offers cybersecurity resources, threat intelligence, and collaborative support to help state, local, tribal, and territorial governments protect their information systems from cyber threats.
 
-## Policies, Standards, and Procedures
+The original templates have been modified to better meet the needs of small and medium-sized businesses (SMBs), with improvements such as uniform formatting and the ability to update multiple sections simultaneously. These templates can, and should, also be customized further to align with an organization's specific policies.
 
-This site provides templates for both cybersecurity policies and standards. These policies and standards outline the procedures necessary to bolster organizational cybersecurity. Together, policies, standards, and procedures form a cohesive framework that helps organizations manage cybersecurity risks and protect critical assets. The differences between these policies, standards, and procedures are outlined below.
+However, users should note that the templates may not reflect the latest NIST revisions and should be used as a starting point only. Additionally, these templates are not for commercial use or monetary gain by any organization.
 
-### Policies
+## Template Sections
 
-*Policies are  ***WHY*** we should be doing something*
+Each template is comprised of the following sections:
 
-Policies are high-level statements that define an organization's principles and strategic direction. They are decisions made by the governing body to guide behavior and decision-making in alignment with the organization’s long-term goals. In cybersecurity, policies outline why certain security measures are necessary, such as ensuring compliance with data protection laws or protecting sensitive information. Policies set the foundation for creating a secure and compliant organization.
-
-### Standards
-
-*Standards are ***WHAT*** we should be doing.*
-
-Standards are detailed rules or criteria that support and implement policies. They define the specific actions and expectations needed to meet policy goals, often relating to technical or operational practices. In cybersecurity, standards could include encryption protocols, password strength requirements, or accepted software configurations. Standards clarify what must be done to achieve security objectives and ensure consistency across the organization.
-
-## Template Policy Components
-
-Each policy template is comprised of the following sections:
-
-1. **Purpose and Benefits:** Outlines the role of risk management in safeguarding information security by identifying, analyzing, and maintaining risks at acceptable levels to align with business goals and regulatory mandates.
-2. **Authority:** Establishes the policy’s enforcement authority under organizational management, guided by NIST's Cybersecurity Framework, ensuring enhanced cybersecurity practices.
-3. **Scope:** Defines the policy’s applicability to all users of the organization's systems, requiring adherence to both this policy and the broader Information Security Policy.
-4. **Information Statement:** Emphasizes the importance of ongoing risk management to identify and mitigate security risks, acknowledging that risk can be managed but not fully eliminated.
-5. **Compliance:** Mandates immediate compliance with the policy and related standards upon publication, with processes for requesting exceptions if necessary.
+1. **Purpose and Benefits:** Explains the overall goal of the policy and outlines the benefits of the policy.
+2. **Authority:** Establishes the policy’s enforcement authority under organizational management to ensure alignment with best practices. It designates the responsible parties for implementation and enforcement.
+3. **Scope:** Defines the individuals and entities that must comply with the policy. It sets the boundaries of the policy and ensures clarity on who is impacted, covering all types of users, devices, and data across the organization.
+4. **Information Statement:** Specifies the core objectives and mechanisms of the policy, including the implementation of specific controls and processes.
+5. **Compliance:** Mandates the effective date of the policy and the expectation of compliance across the organization. It notes that policies may be amended, and adherence to updated policies is required.
 6. **Policy Exceptions:** Details the procedure for requesting exceptions to the policy, including justification, risks, and proposed mitigations for approval by the authority.
 7. **Definitions of Key Terms:** Provides a glossary of important terms used within the policy for clarity and consistency.
-8. **Contact Information:** Lists the contact details for the policy owner, facilitating inquiries and requests for updates.
+8. **Contact Information:** Lists the contact details for the policy owner, facilitating inquiries and requests for revisions.
 9. **Revision History:** Tracks changes made to the policy over time to ensure its ongoing relevance and effectiveness.
-10. **Related Documents:** References important guidelines, such as NIST SP 800-30 and NIST SP 800-39, that support and guide the policy.
+10. **Related Documents:** References important guidelines, primarily those provided by NIST, that support and guide the policy.
 
 ## Importance
 
@@ -59,7 +47,7 @@ These tampltes are essential for ensuring compliance, enhancing security posture
 
 ## Downloads
 
-The free cybersecurity policy templates provided by this site can be [downloaded here as a single document](/templates/combined/to-contain-combined-templates.txt). They can also be downloaded as individual templates that are organized by the NIST Cybersecurity Framework 2.0 core functions and available here:
+The free cybersecurity policy templates provided by this site can be downloaded as individual templates that are organized by the NIST Cybersecurity Framework 2.0 core functions and available here:
 
 * [**Govern**](/pages/govern/govern.md): Establishes and manages the organization’s cybersecurity strategy, risk management, and resources.
 * [**Identify**](/pages/identify/identify.md): Involves understanding and managing cybersecurity risks to systems, people, assets, data, and capabilities.
@@ -70,4 +58,6 @@ The free cybersecurity policy templates provided by this site can be [downloaded
 
 ## References
 
+* “Multi-State Information Sharing and Analysis Center.” Center for Internet Security, Center for Internet Security, 22 Nov. 2021, [https://www.cisecurity.org/ms-isac](https://www.cisecurity.org/ms-isac).
 * Multi-State Information Sharing & Analysis Center. NIST Cybersecurity Framework Policy Template Guide, [https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/img/uploads/2021/11/NIST-Cybersecurity-Framework-Policy-Template-Guide-v2111Online.pdf](https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/img/uploads/2021/11/NIST-Cybersecurity-Framework-Policy-Template-Guide-v2111Online.pdf).
+* NIST Cybersecurity Framework, National Institute of Standards and Technology, 31 Oct. 2024, [https://www.nist.gov/cyberframework](https://www.nist.gov/cyberframework).

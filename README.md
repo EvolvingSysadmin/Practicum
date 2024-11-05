@@ -8,7 +8,7 @@ This project aims to simplify the complex cybersecurity challenges faced by smal
 
 ## Policy Templates
 
-Developing policies that align with cybersecurity frameworks can be costly and time-consuming for small businesses. This project provides [free cybersecurity policy templates](pages/overview/template-overview.md), [implementation instructions](/pages/implementation/implementation.md), and [resources](pages/resources/resources.md) to relieve SMBs from the need to purchase policies, hire consultants, or dedicate significant resources to policy creation. Although not designed to fully meet every compliance requirement, these templates follow the [NIST Cybersecurity Framework 2.0 (NSIT CSF 2.0)](https://www.nist.gov/cyberframework) core functions of [Govern](pages/govern/govern.md), [Identify](pages/identify/identify.md), [Protect](pages/protect/protect.md), [Detect](pages/detect/detect.md), [Respond](pages/respond/respond.md), and [Recover](pages/recover/)
+Developing policies that align with cybersecurity frameworks can be costly and time-consuming for small businesses. This project provides 36 free [cybersecurity policy templates](pages/overview/template-overview.md), [implementation instructions](/pages/implementation/implementation.md), and [resources](pages/resources/resources.md) to relieve SMBs from the need to purchase policies, hire consultants, or dedicate significant resources to policy creation. Although not designed to fully meet every compliance requirement, these templates follow the [NIST Cybersecurity Framework 2.0 (NSIT CSF 2.0)](https://www.nist.gov/cyberframework) core functions of [Govern](pages/govern/govern.md), [Identify](pages/identify/identify.md), [Protect](pages/protect/protect.md), [Detect](pages/detect/detect.md), [Respond](pages/respond/respond.md), and [Recover](pages/recover/).
 
 ![Bolstering SMB Cybersecurity](img/icon.png)
 
@@ -30,9 +30,9 @@ The [NIST Cybersecurity Framework (CSF) 2.0](/pages/framework/framework.md) offe
 
 While policies define the overall goals and expectations, standards offer clear, actionable criteria to meet those objectives. Policies are strategic and flexible, whereas standards are more technical and prescriptive, focusing on the "how" and "what" of cybersecurity controls. Together, they ensure both high-level direction and practical execution.
 
-## Template Instructions
+## Instructions
 
-This website is a comprehensive resource for small and medium-sized businesses (SMBs) to develop and implement effective cybersecurity policies. It offers [free policy and standards templates](/pages/instructions/instructions.md), [implementation guides](/pages/implementation/implementation.md), and [resources](https://docs.policytemplates.online/policy-resources/resources) to simplify the complex process of implementing a cybersecurity program. Whether  starting from scratch or enhancing existing policies, users can find step-by-step guidance aligned with best practices like the [NIST Cybersecurity Framework 2.0](https://docs.policytemplates.online/policy-framework/framework). These resources help SMBs strengthen their cybersecurity posture in an increasingly risky digital landscape. Additionally, users can [contribute to the project](/pages/collaboration/collaboration.md) by sharing their own policy templates and resources.
+This site serves as a comprehensive resource for small and medium-sized businesses (SMBs) to develop and implement effective cybersecurity policies. Users can download 36 policy templates aligned with each NIST CSF 2.0 Core Function. Download specific templates and follow these [step-by-step instructions](/pages/instructions/instructions.md) to complete and modify the documents to meet your organization's needs. Users can also find tips on [how to implement the policies](/pages/implementation/implementation.md) after completing the templates. Users are also encouraged to [contribute to the project](/pages/collaboration/collaboration.md) by sharing updated policy templates and resources.
 
 ## References
 
