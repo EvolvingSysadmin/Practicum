@@ -14,6 +14,7 @@ Add number of docs to homepage/usage pages/category pages
 * Zip
 * Video
 
+* Spell check/proof read
 
 
 
