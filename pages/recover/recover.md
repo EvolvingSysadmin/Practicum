@@ -8,6 +8,8 @@ Assets and operations affected by a cybersecurity incident are restored. The Rec
 
 ## Recover Policy Templates
 
+The following Govern policy and standard templates help ensure that the NIST CSF Govern categories are adequately addressed, including Organizational Context, Risk Management Strategy, Roles, Responsibilities, and Authorities, Policy, and Oversight.
+
 ### Contingency Planning Policy
 
 * **Description**: The Contingency Planning Policy ensure that normal Information Technology resources and information systems are available during times of disruption of services.

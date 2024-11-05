@@ -2,15 +2,18 @@
 
 
 * Polish each function page
+
+Includes the following Policies and Standards
+Add number of docs to homepage/usage pages/category pages
+Primary Categories
+
 * Implementation guide for each core
 * Standards v policies in template overview
 * Zip
 * Video
 
 
-Includes the following Policies and Standards
-Add number of docs to homepage/usage pages/category pages
-Primary Categories
+
 
 
 

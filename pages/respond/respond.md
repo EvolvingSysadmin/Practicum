@@ -8,6 +8,8 @@ Actions regarding a detected cybersecurity incident are taken. The Respond funct
 
 ## Respond Policy Templates
 
+The following Govern policy and standard templates help ensure that the NIST CSF Govern categories are adequately addressed, including Organizational Context, Risk Management Strategy, Roles, Responsibilities, and Authorities, Policy, and Oversight.
+
 ### Computer Security Threat Response Policy
 
 * **Description**: The Computer Security Threat Response Policy defines then responsibility in responding to security threats affecting the confidentiality, integrity, and/or availability of information technology resources.

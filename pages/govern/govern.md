@@ -8,6 +8,17 @@ The Govern function provides insights to help prioritize and achieve the outcome
 
 ## Govern Policy Templates
 
+The following Govern policy and standard templates help ensure that the NIST CSF Govern categories are adequately addressed, including [Organizational Context](#organizational-context); [Risk Management Strategy](#risk-management-strategy), [Roles, Responsibilities, and Authorities](#roles-responsibilities-and-authorities); [Policy](#policy); and [Oversight](#oversight):
+
+* [Information Security Policy](#information-security-policy)
+* [Acceptable Use of Information Technology Resources Policy](#acceptable-use-of-information-technology-resources-policy)
+* [Planning Policy](#planning-policy)
+* [Personnel Security Policy](#personnel-security-policy)
+* [Systems and Services Acquisition Policy](#systems-and-services-acquisition-policy)
+* [Information Security Risk Management Standard](#information-security-risk-management-standard)
+
+Visit the [Template Usage](/pages/usage/template-usage.md) page for help completing these templates and the [Implementation Guide](/pages/implementation/implementation.md) page for tips on how to implement these policies and standards once the templates are completed.
+
 ### Information Security Policy
 
 * **Description**: The Information Security Policy establishes the minimum mandatory requirements for information security within the organization. While organizations can exceed these requirements based on specific business needs and legal obligations, they must meet the baseline standards set forth in this policy.

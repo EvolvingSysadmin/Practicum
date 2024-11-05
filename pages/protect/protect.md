@@ -8,6 +8,8 @@ Safeguards to manage the organization’s cybersecurity risks are used. Once ass
 
 ## Protect Policy Templates
 
+The following Govern policy and standard templates help ensure that the NIST CSF Govern categories are adequately addressed, including Organizational Context, Risk Management Strategy, Roles, Responsibilities, and Authorities, Policy, and Oversight.
+
 ### 802.11 Wireless Network Security Standard
 
 * **Description**: The 802.11 Wireless Network Security Standard establishes controls for 802.11 wireless networks in order to minimize risks to the confidentiality, integrity and availability of information and to support secure access to resources and services over wireless networks.

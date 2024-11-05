@@ -8,6 +8,8 @@ Possible cybersecurity attacks and compromises are found and analyzed. The Detec
 
 ## Detect Policy Templates
 
+The following Govern policy and standard templates help ensure that the NIST CSF Govern categories are adequately addressed, including Organizational Context, Risk Management Strategy, Roles, Responsibilities, and Authorities, Policy, and Oversight.
+
 ### Auditing and Accountability Policy
 
 * **Description**: The Auditing and Accountability Policy ensures that Information Technology resources and information systems are established with effective security controls and control enhancements that reflect applicable federal and state laws, Executive Orders, directives, regulations, policies, standards, and guidance.
