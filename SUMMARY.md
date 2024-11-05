@@ -8,7 +8,7 @@
 
 ## Policy Templates
 
-* [Template Overview](pages/overview/template-overview.md)
+* [Template Usage](pages/overview/template-overview.md)
 * [Govern](pages/govern/govern.md)
 * [Identify](pages/identify/identify.md)
 * [Protect](pages/protect/protect.md)
@@ -18,7 +18,7 @@
 
 ## Policy Implementation
 
-* [Guides](pages/guides/guides.md)
+* [Implementation](/pages/implementation/implementation.md)
 
 ## Policy Collaboration
 

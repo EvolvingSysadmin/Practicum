@@ -56,12 +56,11 @@ Possible cybersecurity attacks and compromises are found and analyzed. The Detec
 
 ## References
 
-* https://csf.tools/reference/nist-cybersecurity-framework/v1-1/de/
-* https://securitygate.io/blog/detect-function-csf-2-0/
-* https://www.manageengine.com/log-management/compliance/nist-csf-detect-function.html
-https://www.nist.gov/cyberframework/detect
-* https://www.infosecinstitute.com/resources/nist-csf/nist-csf-core-functions-detect
-* https://www.cybersaint.io/blog/breaking-down-the-nist-csf-function-detect
-
+* Belding, Greg. “NIST CSF Core Functions: Detect.” NIST Cyber Security Framework, Infosec Institute, 20 Jan. 2020, [https://www.infosecinstitute.com/resources/nist-csf/nist-csf-core-functions-detect](https://www.infosecinstitute.com/resources/nist-csf/nist-csf-core-functions-detect).
+* “Detect.” NIST, National Institute of Standards and Technology, 21 May 2018, [https://www.nist.gov/cyberframework/detect](https://www.nist.gov/cyberframework/detect).
+* “Detect - CSF Tools.” CSF Tools - The Cybersecurity Framework for Humans, 29 May 2021, [https://csf.tools/reference/nist-cybersecurity-framework/v1-1/de](https://csf.tools/reference/nist-cybersecurity-framework/v1-1/de).
+* Furneaux, Alison. “Breaking down the NIST CSF Function: Detect.” CyberSaint Security, CyberSaint Security, [https://www.cybersaint.io/blog/breaking-down-the-nist-csf-function-detect](https://www.cybersaint.io/blog/breaking-down-the-nist-csf-function-detect). Accessed 5 Nov. 2024.
+* Gage, Brent. “The Enhanced ‘Detect’ Function in CSF 2.0: A Leap Forward from the 2018 Framework.” SecurityGate, Inc, 25 Apr. 2024, [https://securitygate.io/blog/detect-function-csf-2-0](https://securitygate.io/blog/detect-function-csf-2-0).
 * National Institute of Standards and Technology. The NIST Cybersecurity Framework (CSF) 2.0, [https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf).
 * “NIST Cybersecurity Framework 2.0: Small Business Quick-Start Guide Overview.” NIST Cybersecurity Framework 2.0, National Institute of Standards and Technology, Feb. 2024, [https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf).
+* “The NIST CSF Detect Function.” The NIST CSF Detect Function Explained, ManageEngine Log360, [https://www.manageengine.com/log-management/compliance/nist-csf-detect-function.html](https://www.manageengine.com/log-management/compliance/nist-csf-detect-function.html). Accessed 5 Nov. 2024.

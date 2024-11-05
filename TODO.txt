@@ -1,3 +1,10 @@
+
+* references
+* Check links to docs
+* Implementation guide for each core
+* Standards v policies in template overview
+* Video
+
 * Website Improvement
  * Template Overview
    * Links to original
