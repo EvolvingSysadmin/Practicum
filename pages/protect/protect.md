@@ -70,10 +70,10 @@ Safeguards to manage the organization’s cybersecurity risks are used. Once ass
 * **Document Link**: [Media-Protection-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/protect/Media-Protection-Policy.docx)
 * **NIST CSF 2.0 Category**: [Data Security](#data-security)
 
-### Mobile Device Security
+### Mobile Device Security Standard
 
-* **Description**: The Mobile Device Security outlines the additional protections required for the use of mobile devices. Mobile devices often need additional protection because their nature generally places them at higher exposure to threats than other client devices that are only used within an entity’s facilities and on the entity’s networks.
-* **Document Link**: [Mobile-Device-Security.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/protect/Mobile-Device-Security.docx)
+* **Description**: The Mobile Device Security Standard outlines the additional protections required for the use of mobile devices. Mobile devices often need additional protection because their nature generally places them at higher exposure to threats than other client devices that are only used within an entity’s facilities and on the entity’s networks.
+* **Document Link**: [Mobile-Device-Security.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/protect/Mobile-Device-Security-Standard.docx)
 * **NIST CSF 2.0 Category**: [Platform Security](#platform-security)
 
 ### Patch Management Standard
@@ -84,19 +84,9 @@ Safeguards to manage the organization’s cybersecurity risks are used. Once ass
 
 ### Physical and Environmental Protection Policy
 
-CONSIDER MOVING TO GOVERN
-
 * **Description**: The Physical and Environmental Protection Policy ensures that Information Technology resources are protected by physical and environmental security measures that prevent physical tampering, damage, theft, or unauthorized physical access.
 * **Document Link**: [Physical-and-Environmental-Protection-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/protect/Physical-and-Environmental-Protection-Policy.docx)
 * **NIST CSF 2.0 Category**: [Awareness and Training](#awareness-and-training)
-
-### Planning Policy
-
-CONSIDER MOVING TO GOVERN
-
-* **Description**: The Planning Policy ensures that Information Technology resources and information systems are established with effective security controls and control enhancements that reflect applicable federal and state laws, Executive Orders, directives, regulations, policies, standards, and guidance.
-* **Document Link**: [Planning-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/protect/Planning-Policy.docx)
-* **NIST CSF 2.0 Category**: [Data Security](#data-security)
 
 ### Remote Access Standard
 
@@ -104,10 +94,10 @@ CONSIDER MOVING TO GOVERN
 * **Document Link**: [Remote-Access-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/protect/Remote-Access-Standard.docx)
 * **NIST CSF 2.0 Category**: [Identity Management, Authentication, and Access Control](#identity-management-authentication-and-access-control)
 
-### Sanitization Secure Disposal Standard
+### Sanitization and Secure Disposal Standard
 
-* **Description**: The Sanitization Secure Disposal Standard outlines applicable media that needs special disposition, and how that media will be disposed, in order to mitigate the risk of unauthorized disclosure of information and to ensure its confidentiality.
-* **Document Link**: [Sanitization-Secure-Disposal-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/protect/Sanitization-Secure-Disposal-Standard.docx)
+* **Description**: The Sanitization and Secure Disposal Standard outlines applicable media that needs special disposition, and how that media will be disposed, in order to mitigate the risk of unauthorized disclosure of information and to ensure its confidentiality.
+* **Document Link**: [Sanitization-Secure-Disposal-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/protect/Sanitization-and-Secure-Disposal-Standard.docx)
 * **NIST CSF 2.0 Category**: [Data Security](#data-security)
 
 ### Secure Configuration Standard

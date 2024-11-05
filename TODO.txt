@@ -1,8 +1,9 @@
 
-* references
 * Check links to docs
+* Polish each function page
 * Implementation guide for each core
 * Standards v policies in template overview
+* Zip
 * Video
 
 * Website Improvement
@@ -17,7 +18,6 @@
  * Resources & Template Overview: links to originals
    * Links to originals
 * Core function pages
-  * Add resources
   * Add related documents/policies
   * Update links
   * Standards v Policies

@@ -39,6 +39,7 @@ These tampltes are essential for ensuring compliance, enhancing security posture
 * **Compliance:** Many templates include considerations for legal and regulatory requirements, helping organizations meet their obligations.
 * **Best Practices:** They often incorporate industry best practices, which can improve the overall effectiveness of the organization’s security measures.
 
+## About these Templates
 
 ## Implementation
 
