@@ -16,7 +16,9 @@ Assets and operations affected by a cybersecurity incident are restored. The Rec
 * **Document Link**: [Contingency-Planning-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/recover/Contingency-Planning-Policy.docx)
 * **Categories**: [Incident Recovery Plan Execution](#incident-recovery-plan-execution)
 
-## NIST CSF 2.0 Categories
+## NIST CSF 2.0 Recover Categories
+
+![NIST CSF 2.0 Recover Categories](/img/recover-categories.png)
 
 ### Incident Recovery Plan Execution
 
@@ -35,3 +37,10 @@ Assets and operations affected by a cybersecurity incident are restored. The Rec
 * **Communication:** Keep stakeholders informed about recovery efforts and progress.
 
 ## References
+
+* https://csf.tools/reference/nist-cybersecurity-framework/v1-1/rc/
+* https://www.nist.gov/cyberframework/recover
+* https://www.manageengine.com/log-management/compliance/nist-csf-recover-function.html
+* https://blog.compassmsp.com/nist-recover-function
+* National Institute of Standards and Technology. The NIST Cybersecurity Framework (CSF) 2.0, [https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf).
+* “NIST Cybersecurity Framework 2.0: Small Business Quick-Start Guide Overview.” NIST Cybersecurity Framework 2.0, National Institute of Standards and Technology, Feb. 2024, [https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf).

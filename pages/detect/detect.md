@@ -34,7 +34,9 @@ Possible cybersecurity attacks and compromises are found and analyzed. The Detec
 * **Document Link**: [Vulnerability-Scanning-Standard.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/detect/Vulnerability-Scanning-Standard.docx)
 * **NIST CSF 2.0 Category**: [Continuous Monitoring](#continuous-monitoring)
 
-## NIST CSF 2.0 Categories
+## NIST CSF 2.0 Detect Categories
+
+![NIST CSF 2.0 Detect Categories](/img/detect-categories.png)
 
 ### Continuous Monitoring
 
@@ -53,3 +55,13 @@ Possible cybersecurity attacks and compromises are found and analyzed. The Detec
 * **Detection Processes:** Establish and maintain procedures for detecting cybersecurity incidents.
 
 ## References
+
+* https://csf.tools/reference/nist-cybersecurity-framework/v1-1/de/
+* https://securitygate.io/blog/detect-function-csf-2-0/
+* https://www.manageengine.com/log-management/compliance/nist-csf-detect-function.html
+https://www.nist.gov/cyberframework/detect
+* https://www.infosecinstitute.com/resources/nist-csf/nist-csf-core-functions-detect
+* https://www.cybersaint.io/blog/breaking-down-the-nist-csf-function-detect
+
+* National Institute of Standards and Technology. The NIST Cybersecurity Framework (CSF) 2.0, [https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf).
+* “NIST Cybersecurity Framework 2.0: Small Business Quick-Start Guide Overview.” NIST Cybersecurity Framework 2.0, National Institute of Standards and Technology, Feb. 2024, [https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf).

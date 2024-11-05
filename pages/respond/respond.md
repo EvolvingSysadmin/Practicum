@@ -28,7 +28,9 @@ Actions regarding a detected cybersecurity incident are taken. The Respond funct
 * **Document Link**: [Incident-Response-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/respond/Incident-Response-Policy.docx)
 * **NIST CSF 2.0 Category**: [Incident Response Reporting and Communication](#incident-response-reporting-and-communication)
 
-## NIST 2.0 Categories
+## NIST 2.0 Respond Categories
+
+![NIST CSF 2.0 Respond Categories](/img/respond-categories.png)
 
 ### Incident Management
 
@@ -58,3 +60,9 @@ Actions regarding a detected cybersecurity incident are taken. The Respond funct
 * **Mitigation:** Implement actions to contain and eradicate threats from systems.
 
 ## References
+
+* https://csf.tools/reference/nist-cybersecurity-framework/v1-1/rs/
+* https://www.nist.gov/cyberframework/respond
+* https://www.manageengine.com/log-management/compliance/nist-csf-respond-function.html
+* National Institute of Standards and Technology. The NIST Cybersecurity Framework (CSF) 2.0, [https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf).
+* “NIST Cybersecurity Framework 2.0: Small Business Quick-Start Guide Overview.” NIST Cybersecurity Framework 2.0, National Institute of Standards and Technology, Feb. 2024, [https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf).

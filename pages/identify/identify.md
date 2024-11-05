@@ -18,7 +18,9 @@ The [NIST CSF 2.0](/pages/framework/framework.md) Identify function is the found
 * **Word Template Link**: [Security-Assessment-and-Authorization-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/identify/Security-Assessment-and-Authorization-Policy.docx)
 * **Primary NIST CSF 2.0 Category**:: [Risk Assessment](#risk-assessment)
 
-## NIST CSF Categories
+## NIST CSF Identify Categories
+
+![NIST CSF 2.0 Identify Categories](/img/identify-categories.png)
 
 ### Asset Management
 
@@ -37,3 +39,8 @@ The [NIST CSF 2.0](/pages/framework/framework.md) Identify function is the found
 
 ## References
 
+* https://csf.tools/reference/nist-cybersecurity-framework/v1-1/id/
+* https://www.nist.gov/cyberframework/identify
+* https://www.infosecinstitute.com/resources/nist-csf/nist-csf-core-functions-identify/
+* National Institute of Standards and Technology. The NIST Cybersecurity Framework (CSF) 2.0, [https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf).
+* “NIST Cybersecurity Framework 2.0: Small Business Quick-Start Guide Overview.” NIST Cybersecurity Framework 2.0, National Institute of Standards and Technology, Feb. 2024, [https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf).

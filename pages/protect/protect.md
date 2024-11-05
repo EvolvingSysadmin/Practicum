@@ -142,7 +142,9 @@ CONSIDER MOVING
 * **Document Link**: [System-and-Information-Integrity-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/protect/System-and-Information-Integrity-Policy.docx)
 * **NIST CSF 2.0 Category**: [Data Security](#data-security)
 
-## NIST CSF 2.0 Categories
+## NIST CSF 2.0 Protect Categories
+
+![NIST CSF 2.0 Protect Categories](/img/protect-categories.png)
 
 ### Identity Management, Authentication, and Access Control
 
@@ -177,3 +179,9 @@ CONSIDER MOVING
 * **Protective Technology:** Deploy technologies such as firewalls, intrusion detection systems, and endpoint protection.
 
 ## References
+
+* https://csf.tools/reference/nist-cybersecurity-framework/v1-1/pr/
+* https://www.nist.gov/cyberframework/protect
+* https://www.manageengine.com/log-management/compliance/nist-csf-protect-function.html
+* National Institute of Standards and Technology. The NIST Cybersecurity Framework (CSF) 2.0, [https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf).
+* “NIST Cybersecurity Framework 2.0: Small Business Quick-Start Guide Overview.” NIST Cybersecurity Framework 2.0, National Institute of Standards and Technology, Feb. 2024, [https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf).

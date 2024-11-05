@@ -37,7 +37,7 @@ The Govern function provides insights to help prioritize and achieve the outcome
 ### Systems and Services Acquisition Policy
 
 * **Description**: The System and Services Acquisition Policy ensures that Information Technology resources and information systems are acquired with security requirements to meet the information systems mission and business objectives.
-* **Document Link**: [Systems-and-Services-Acquisition-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/protect/Systems-and-Services-Acquisition-Policy.docx)
+* **Document Link**: [Systems-and-Services-Acquisition-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/govern/Systems-and-Services-Acquisition-Policy.docx)
 * **NIST CSF 2.0 Category**: [Cybersecurity Supply Chain Risk Management](#cybersecurity-supply-chain-risk-management)
 
 ### Information Security Risk Management Standard
