@@ -8,7 +8,7 @@
 
 ## Policy Templates
 
-* [Template Instructions](pages/usage/template-instructions.md)
+* [Template Instructions](pages/instructions/instructions.md)
 * [Govern](pages/govern/govern.md)
 * [Identify](pages/identify/identify.md)
 * [Protect](pages/protect/protect.md)

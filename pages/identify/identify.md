@@ -13,7 +13,7 @@ The following policy and standard templates help ensure that the NIST CSF Identi
 * [Configuration Management Policy](#configuration-management-policy)
 * [Secure Configuration Standard](#secure-configuration-standard)
 
-Visit the [Template Usage](/pages/usage/template-usage.md) page for help completing these templates and the [Implementation Guide](/pages/implementation/implementation.md) page for tips on how to implement these policies and standards once the templates are completed.
+Visit [Template Instructions](/pages/instructions/instructions.md) for help completing these templates and the [Implementation Guide](/pages/implementation/implementation.md) for tips on how to implement these policies and standards once the templates are completed.
 
 ### Risk Assessment Policy
 

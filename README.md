@@ -30,9 +30,9 @@ The [NIST Cybersecurity Framework (CSF) 2.0](/pages/framework/framework.md) offe
 
 While policies define the overall goals and expectations, standards offer clear, actionable criteria to meet those objectives. Policies are strategic and flexible, whereas standards are more technical and prescriptive, focusing on the "how" and "what" of cybersecurity controls. Together, they ensure both high-level direction and practical execution.
 
-## Template Usage
+## Template Instructions
 
-This website is a comprehensive resource for small and medium-sized businesses (SMBs) to develop and implement effective cybersecurity policies. It offers [free policy and standards templates](/pages/usage/template-usage.md), [implementation guides](/pages/implementation/implementation.md), and [resources](https://docs.policytemplates.online/policy-resources/resources) to simplify the complex process of implementing a cybersecurity program. Whether  starting from scratch or enhancing existing policies, users can find step-by-step guidance aligned with best practices like the [NIST Cybersecurity Framework 2.0](https://docs.policytemplates.online/policy-framework/framework). These resources help SMBs strengthen their cybersecurity posture in an increasingly risky digital landscape. Additionally, users can [contribute to the project](/pages/collaboration/collaboration.md) by sharing their own policy templates and resources.
+This website is a comprehensive resource for small and medium-sized businesses (SMBs) to develop and implement effective cybersecurity policies. It offers [free policy and standards templates](/pages/instructions/instructions.md), [implementation guides](/pages/implementation/implementation.md), and [resources](https://docs.policytemplates.online/policy-resources/resources) to simplify the complex process of implementing a cybersecurity program. Whether  starting from scratch or enhancing existing policies, users can find step-by-step guidance aligned with best practices like the [NIST Cybersecurity Framework 2.0](https://docs.policytemplates.online/policy-framework/framework). These resources help SMBs strengthen their cybersecurity posture in an increasingly risky digital landscape. Additionally, users can [contribute to the project](/pages/collaboration/collaboration.md) by sharing their own policy templates and resources.
 
 ## References
 

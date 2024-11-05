@@ -17,7 +17,6 @@ The following policy and standard templates help ensure that the NIST CSF Protec
 * [Encryption Standard](#encryption-standard)
 * [Identification and Authentication Policy](#identification-and-authentication-policy)
 * [Information Classification Standard](#information-classification-standard)
-* [Maintenance Policy](#maintenance-policy)
 * [Media Protection Policy](#media-protection-policy)
 * [Mobile Device Security Standard](#mobile-device-security-standard)
 * [Patch Management Standard](#patch-management-standard)
@@ -29,7 +28,7 @@ The following policy and standard templates help ensure that the NIST CSF Protec
 * [System and Information Integrity Policy](#system-and-information-integrity-policy)
 * [Secure Coding Standard](#secure-coding-standard)
 
-Visit the [Template Usage](/pages/usage/template-usage.md) page for help completing these templates and the [Implementation Guide](/pages/implementation/implementation.md) page for tips on how to implement these policies and standards once the templates are completed.
+Visit [Template Instructions](/pages/instructions/instructions.md) for help completing these templates and the [Implementation Guide](/pages/implementation/implementation.md) for tips on how to implement these policies and standards once the templates are completed.
 
 ### 802.11 Wireless Network Security Standard
 
