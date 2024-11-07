@@ -4,7 +4,7 @@ Download free policy and standard templates for the [NIST CSF 2.0](/pages/framew
 
 ## Recover Function Background
 
-The Recover Function focuses on restoring assets and operations impacted by cybersecurity incidents to minimize disruption and enable the timely return to normal operations. It involves implementing recovery plans, leveraging backup systems, and coordinating communication during recovery efforts. This function ensures that systems, data, and services are efficiently restored, while also evaluating recovery effectiveness and identifying areas for improvement. By optimizing recovery processes, organizations can reduce downtime, limit damage, and strengthen resilience for future incidents.
+The Recover Function focuses on restoring assets and operations impacted by cybersecurity incidents to minimize disruption and enable the timely return to normal operations. It involves implementing recovery plans, leveraging backup systems, and coordinating communication during recovery efforts. This function ensures that systems, data, and services are efficiently restored, while also evaluating recovery effectiveness and identifying areas for improvement. By optimizing recovery processes, organizations can reduce downtime, limit damage, and strengthen resilience for future incidents. The Recover Function is comprised of [Categories](#nist-csf-20-recover-categories). These Categories break down the Function into more specific outcomes and activities, providing a structured approach for organizations to manage and implement cybersecurity practices.
 
 ## Recover Policy Templates
 
@@ -21,6 +21,8 @@ Visit [Template Instructions](/pages/instructions/instructions.md) for help comp
 * **Primary NIST CSF 2.0 Category**: [Incident Recovery Plan Execution](#incident-recovery-plan-execution)
 
 ## NIST CSF 2.0 Recover Categories
+
+The Recover Categories are aimed at ensuring the organization can quickly and effectively return to normal operations, minimizing downtime and impact. Key components include recovery planning, improvements based on lessons learned, and communications to stakeholders during and after an incident. By strengthening these Categories, organizations can enhance their resilience, ensuring that they not only recover from disruptions but also continuously improve their response strategies for future incidents. A list and description of each specific Recover Category can be found below:
 
 ![NIST CSF 2.0 Recover Categories](/img/recover-categories.png)
 

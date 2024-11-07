@@ -4,7 +4,9 @@ Download free policy and standard templates for the [NIST CSF 2.0](/pages/framew
 
 ## Govern Function Background
 
-The Govern Function ensures that an organization’s cybersecurity risk management strategy, expectations, and policy are established, communicated, and monitored. It provides insights to help prioritize and achieve the outcomes of the other five Core Functions in line with the organization’s mission and stakeholder expectations.  Governance activities are essential for integrating cybersecurity into the broader enterprise risk management strategy. The Govern function encompasses understanding the organizational context, establishing the cybersecurity strategy and supply chain risk management, defining roles and responsibilities, creating policies, and overseeing cybersecurity initiatives.
+The Govern Function ensures that an organization’s cybersecurity risk management strategy, expectations, and policy are established, communicated, and monitored. It provides insights to help prioritize and achieve the outcomes of the other five Core Functions in line with the organization’s mission and stakeholder expectations.  Governance activities are essential for integrating cybersecurity into the broader enterprise risk management strategy.
+
+The Govern function encompasses understanding the organizational context, establishing the cybersecurity strategy and supply chain risk management, defining roles and responsibilities, creating policies, and overseeing cybersecurity initiatives. The Govern Function is comprised of [Categories](#nist-csf-govern-categories). These Categories break down the  Function into more specific outcomes and activities, providing a structured approach for organizations to manage and implement cybersecurity practices.
 
 ## Govern Policy Templates
 
@@ -21,7 +23,7 @@ Visit [Template Instructions](/pages/instructions/instructions.md) for help comp
 
 ### Information Security Policy
 
-* **Description**: The Information Security Policy establishes the minimum mandatory requirements for information security within the organization. While organizations can exceed these requirements based on specific business needs and legal obligations, they must meet the baseline standards set forth in this policy.
+* **Description**: This general Information Security Policy establishes the minimum mandatory requirements for information security within the organization. While organizations can exceed these requirements based on specific business needs and legal obligations, they must meet the baseline standards set forth in this policy.
 * **Word Template Link**: [Information-Security-Policy.docx](https://github.com/EvolvingSysadmin/Practicum/raw/refs/heads/main/templates/govern/Information-Security-Policy.docx)
 * **Primary NIST CSF 2.0 Category**: [Policy](#policy)
 
@@ -56,6 +58,8 @@ Visit [Template Instructions](/pages/instructions/instructions.md) for help comp
 * **Primary NIST CSF 2.0 Category**: [Risk Management Strategy](#risk-management-strategy)
 
 ## NIST CSF Govern Categories
+
+The Govern Function is comprised of a set of governance-focused Categories designed to help organizations strengthen their cybersecurity posture. These Govern Categories are designed to enhance the management and oversight of cybersecurity risks at an organizational level. These Categories emphasize leadership commitment, risk management governance, and organizational alignment with cybersecurity goals, ensuring that cybersecurity is integrated into the broader business strategy. A list and description of each specific Govern Category can be found below:
 
 ![NIST CSF 2.0 Govern Categories](/img/govern-categories.png)
 

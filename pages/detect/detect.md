@@ -4,7 +4,7 @@ Download free policy and standard templates for the [NIST CSF 2.0](/pages/framew
 
 ## Detect Function Background
 
-The Detect Function is designed to identify and analyze potential cybersecurity attacks and compromises. It enables the timely detection of anomalies, indicators of compromise, and other events that may signal active threats or incidents. By supporting rapid incident response and recovery, this function emphasizes continuous monitoring and assessment of systems to quickly identify and address emerging risks.
+The Detect Function is designed to identify and analyze potential cybersecurity attacks and compromises. It enables the timely detection of anomalies, indicators of compromise, and other events that may signal active threats or incidents. By supporting rapid incident response and recovery, this function emphasizes continuous monitoring and assessment of systems to quickly identify and address emerging risks. The Detect Function is comprised of [Categories](#nist-csf-20-detect-categories). These Categories break down the Function into more specific outcomes and activities, providing a structured approach for organizations to manage and implement cybersecurity practices.
 
 ## Detect Policy Templates
 
@@ -35,6 +35,8 @@ Visit [Template Instructions](/pages/instructions/instructions.md) for help comp
 * **Primary NIST CSF 2.0 Category**: [Continuous Monitoring](#continuous-monitoring)
 
 ## NIST CSF 2.0 Detect Categories
+
+ The Detect Categories emphasize the development of processes and tools to monitor systems, analyze threats, and detect anomalies that may indicate potential security incidents. Key components include the establishment of continuous monitoring, anomaly detection, and detection processes to improve the organization's ability to quickly identify and assess potential cybersecurity threats before they escalate. By strengthening these Categories, organizations can improve their situational awareness and enhance their readiness to respond to emerging threats. A list and description of each specific Detect Category can be found below:
 
 ![NIST CSF 2.0 Detect Categories](/img/detect-categories.png)
 

@@ -4,7 +4,7 @@ Download free policy and standard templates for the [NIST CSF 2.0](/pages/framew
 
 ## Identify Function Background
 
-The Identify Function helps organizations understand their cybersecurity risks and establish a robust risk management strategy. By identifying key assets (such as data, hardware, software, systems, facilities, services, and personnel) along with suppliers and associated risks, this function enables organizations to prioritize their efforts in alignment with their risk management objectives. It also includes identifying opportunities to enhance policies, plans, processes, procedures, and practices that support effective cybersecurity risk management.
+The Identify Function helps organizations understand their cybersecurity risks and establish a robust risk management strategy. By identifying key assets (such as data, hardware, software, systems, facilities, services, and personnel) along with suppliers and associated risks, this function enables organizations to prioritize their efforts in alignment with their risk management objectives. It also includes identifying opportunities to enhance policies, plans, processes, procedures, and practices that support effective cybersecurity risk management. The Identity Function is comprised of [Categories](#nist-csf-identify-categories). These Categories break down the Function into more specific outcomes and activities, providing a structured approach for organizations to manage and implement cybersecurity practices.
 
 ## Identify Policy Templates
 
@@ -54,6 +54,8 @@ Visit [Template Instructions](/pages/instructions/instructions.md) for help comp
 * **Primary NIST CSF 2.0 Category**: [Improvement](#improvement)
 
 ## NIST CSF Identify Categories
+
+The Identify Categories are designed to help organizations establish a comprehensive understanding of their cybersecurity landscape, including asset management, risk assessment, and governance structures. Key components include the development of policies and practices for identifying critical assets, assessing risks, and ensuring compliance, as well as the establishment of clear roles and responsibilities for cybersecurity. By strengthening these Categories, organizations can better prioritize resources, address vulnerabilities, and ensure effective risk management across their entire infrastructure. A list and description of each specific Identity Category can be found below:
 
 ![NIST CSF 2.0 Identify Categories](/img/identify-categories.png)
 

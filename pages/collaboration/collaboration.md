@@ -20,7 +20,7 @@ The [Discussions section](https://github.com/EvolvingSysadmin/Practicum/discussi
 
 Users can report any issues or concerns they encounter with the templates or the repository through the [Issues section of GitHub](https://github.com/EvolvingSysadmin/Practicum/issues). This feature enables the community to track bugs, suggest improvements, and request new templates. Contributors and maintainers actively monitor this section to ensure that all feedback is addressed promptly, fostering a responsive and supportive environment for collaboration.
 
-## Resources
+## References
 
 * “Contributing to a Project.” GitHub Docs, GitHub, [https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project). Accessed 5 Nov. 2024.
 * “GitHub - Contributing to a Project.” Git, [https://git-scm.com/book/ms/v2/GitHub-Contributing-to-a-Project](https://git-scm.com/book/ms/v2/GitHub-Contributing-to-a-Project). Accessed 5 Nov. 2024.

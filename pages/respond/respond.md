@@ -4,7 +4,7 @@ Download free policy and standard templates for the [NIST CSF 2.0](/pages/framew
 
 ## Respond Function Background
 
-The Respond Function focuses on taking immediate action to contain and mitigate the effects of a detected cybersecurity incident. It includes incident management, analysis, communication, and reporting to ensure a coordinated and effective response. This function helps organizations limit the impact of incidents, restore normal operations, and document the event for future analysis and improvements.
+The Respond Function focuses on taking immediate action to contain and mitigate the effects of a detected cybersecurity incident. It includes incident management, analysis, communication, and reporting to ensure a coordinated and effective response. This function helps organizations limit the impact of incidents, restore normal operations, and document the event for future analysis and improvements. The Respond Function is comprised of [Categories](#nist-20-respond-categories). These Categories break down the Function into more specific outcomes and activities, providing a structured approach for organizations to manage and implement cybersecurity practices.
 
 ## Respond Policy Templates
 
@@ -31,6 +31,8 @@ Visit [Template Instructions](/pages/instructions/instructions.md) for help comp
 * **Primary NIST CSF 2.0 Category**: [Incident Response Reporting and Communication](#incident-response-reporting-and-communication)
 
 ## NIST 2.0 Respond Categories
+
+The Respond Categories are designed to enable organizations to effectively manage and coordinate their response efforts, ensuring a swift and organized approach to security events. Key components include response planning, communications, analysis, mitigation, and improvements based on post-incident reviews. By strengthening these Categories, organizations can improve their ability to detect, contain, and mitigate the effects of security incidents, while ensuring that lessons learned are incorporated into future response strategies to enhance overall resilience. A list and description of each specific Respond Category can be found below:
 
 ![NIST CSF 2.0 Respond Categories](/img/respond-categories.png)
 

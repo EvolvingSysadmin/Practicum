@@ -4,7 +4,7 @@ Download free policy and standard templates for the [NIST CSF 2.0](/pages/framew
 
 ## Protect Function Background
 
-The Protect Function defines the necessary safeguards to manage an organization’s cybersecurity risks. After identifying and prioritizing assets and risks, this function focuses on securing those assets to reduce the likelihood and impact of adverse cybersecurity events while enhancing opportunities for success. Key outcomes of the Protect function include identity management, authentication, and access control; security awareness and training; data protection; platform security (securing hardware, software, and services for both physical and virtual platforms); and the resilience of technology infrastructure.
+The Protect Function defines the necessary safeguards to manage an organization’s cybersecurity risks. After identifying and prioritizing assets and risks, this function focuses on securing those assets to reduce the likelihood and impact of adverse cybersecurity events while enhancing opportunities for success. Key outcomes of the Protect function include identity management, authentication, and access control; security awareness and training; data protection; platform security (securing hardware, software, and services for both physical and virtual platforms); and the resilience of technology infrastructure. The Protect Function is comprised of [Categories](#nist-csf-20-protect-categories). These Categories break down the Function into more specific outcomes and activities, providing a structured approach for organizations to manage and implement cybersecurity practices.
 
 ## Protect Policy Templates
 
@@ -133,6 +133,8 @@ Visit [Template Instructions](/pages/instructions/instructions.md) for help comp
 * **Primary NIST CSF 2.0 Category**: [Platform Security](#platform-security)
 
 ## NIST CSF 2.0 Protect Categories
+
+The Protect Categories are designed to establish proactive measures that reduce the likelihood of a cybersecurity incident and mitigate potential impact. Key components include access control, data security, awareness and training, and protective technologies to ensure that both technical and organizational safeguards are in place. By strengthening these Categories, organizations can implement robust defenses that prevent unauthorized access, reduce vulnerabilities, and protect sensitive data from both internal and external threats. A list and description of each specific Protect Category can be found below:
 
 ![NIST CSF 2.0 Protect Categories](/img/protect-categories.png)
 

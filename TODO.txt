@@ -11,8 +11,9 @@
     * https://www.paychex.com/articles/human-resources/importance-of-enforcing-workplace-policies
     * https://compliancebridge.com/policy-implementation-plan/
 * Core Function Pages
+  * Write content about categories
   * Add links to multiple categories?
-  * Add NIST related documents as another category? 
+  * Add NIST related documents as another page section? 
 * Resources Page?
 * Videos
   * Walkthrough of site pages
