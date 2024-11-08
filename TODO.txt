@@ -1,19 +1,5 @@
-* Implementation Page
-  * Create a general guide and guides for implementing each function
-  * How to demonstrate compliance?
-  * Mention CSF profiles and enforcement actions?
-  * Suggest different policy packages depending on profile/tier?
-  * Use the following resources for implementation guides:
-    * https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf
-    * https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/img/uploads/2021/11/NIST-Cybersecurity-Framework-Policy-Template-Guide-v2111Online.pdf
-    * https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf
-    * https://www.cisecurity.org/wp-content/uploads/2019/08/NIST-CSF-Policy-Template-Guide.pdf
-    * https://www.paychex.com/articles/human-resources/importance-of-enforcing-workplace-policies
-    * https://compliancebridge.com/policy-implementation-plan/
 * Core Function Pages
-  * Write content about categories
   * Add links to multiple categories?
-  * Add NIST related documents as another page section? 
 * Resources Page?
 * Videos
   * Walkthrough of site pages
