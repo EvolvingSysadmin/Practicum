@@ -1,6 +1,5 @@
 * Core Function Pages
   * Add links to multiple categories?
-* Resources Page?
 * Videos
   * Walkthrough of site pages
   * Walkthrough of template usage
