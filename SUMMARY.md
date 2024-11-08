@@ -23,7 +23,3 @@
 ## Policy Collaboration
 
 * [Collaboration](/pages/collaboration/collaboration.md)
-
-## Policy Resources
-
-* [Resources](/pages/resources/resources.md)
