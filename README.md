@@ -4,7 +4,7 @@ description: Striving to Bolster Small Business Cybersecurity in a Risky World
 
 # Cybersecurity Policy Templates
 
-This project aims to simplify the complex cybersecurity challenges faced by small and medium-sized businesses (SMBs) by providing free access to [policy templates](pages/overview/template-overview.md), [implementation instructions](/pages/implementation/implementation.md), and [resources](pages/resources/resources.md).
+This project aims to simplify the complex cybersecurity challenges faced by small and medium-sized businesses (SMBs) by providing free access to [policy templates](/pages/instructions/instructions.md), [implementation instructions](/pages/implementation/implementation.md), and [policy collaboration](/pages/collaboration/collaboration.md).
 
 ## Policy Templates
 
@@ -24,7 +24,7 @@ Small business cybersecurity statistics paint a stark picture, underscoring the 
 
 ## NIST Cybersecurity Framework
 
-Small businesses don’t need to reinvent the wheel to enhance their cybersecurity. Small businesses can enhance their cybersecurity by adopting [established cybersecurity frameworks](pages/resources/frameworks.md) that provide structured approaches for identifying, assessing, prioritizing, and mitigating cybersecurity risks. These frameworks enable small businesses to implement standardized practices and build resilience, even when IT resources are limited. Prominent framework providers include the [National Institute of Standards and Technology (NIST)](https://www.nist.gov/cybersecurity), [International Organization for Standardization (ISO)](https://iso.org/sectors/it-technologies/information-security), and the [Center for Internet Security (CIS)](https://www.cisecurity.org). However, these frameworks can be complex, which is why this project aims to simplify their adoption for small businesses.
+Small businesses don’t need to reinvent the wheel to enhance their cybersecurity. Small businesses can enhance their cybersecurity by adopting [established cybersecurity frameworks](/pages/framework/framework.md) that provide structured approaches for identifying, assessing, prioritizing, and mitigating cybersecurity risks. These frameworks enable small businesses to implement standardized practices and build resilience, even when IT resources are limited. Prominent framework providers include the [National Institute of Standards and Technology (NIST)](https://www.nist.gov/cybersecurity), [International Organization for Standardization (ISO)](https://iso.org/sectors/it-technologies/information-security), and the [Center for Internet Security (CIS)](https://www.cisecurity.org). However, these frameworks can be complex, which is why this project aims to simplify their adoption for small businesses.
 
 The [NIST Cybersecurity Framework (CSF) 2.0](/pages/framework/framework.md) offers voluntary guidance for organizations of all sizes to understand, assess, and communicate their cybersecurity efforts. It is adaptable, allowing organizations to consider their unique risk tolerances and priorities. NIST, a U.S. government agency, develops widely recognized standards that many sectors and governments adopt to strengthen their cybersecurity posture, fostering consistency and trust across industries in the fight against cybercrime.
 
