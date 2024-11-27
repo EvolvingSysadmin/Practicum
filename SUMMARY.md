@@ -1,10 +1,11 @@
 # Table of contents
 
+* [Cybersecurity Policy Templates](README.md)
 * [Cybersecurity Policy Templates](https://docs.policytemplates.online)
 
 ## Policy Framework
 
-* [NIST CSF 2.0](/pages/framework/framework.md)
+* [NIST CSF 2.0](pages/framework/framework.md)
 
 ## Policy Templates
 
@@ -18,8 +19,8 @@
 
 ## Policy Implementation
 
-* [Implementation](/pages/implementation/implementation.md)
+* [Implementation](pages/implementation/implementation.md)
 
 ## Policy Collaboration
 
-* [Collaboration](/pages/collaboration/collaboration.md)
+* [Collaboration](pages/collaboration/collaboration.md)
