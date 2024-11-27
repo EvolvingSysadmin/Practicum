@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Cybersecurity Policy Templates](https://docs.policytemplates.online)
+* [Cybersecurity Policy Templates](/README.md)
 
 ## Policy Framework
 
